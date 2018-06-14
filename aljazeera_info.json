@@ -1,0 +1,1155 @@
+{
+  "document": {
+    "confidence": 0.80057624, 
+    "label": "pos"
+  }, 
+  "entities": [
+    {
+      "count": 8, 
+      "entityId": "Q334", 
+      "linkingConfidence": 0.15736281, 
+      "mention": "Singapore", 
+      "mentionOffsets": [
+        {
+          "endOffset": 28, 
+          "startOffset": 19
+        }, 
+        {
+          "endOffset": 240, 
+          "startOffset": 231
+        }, 
+        {
+          "endOffset": 381, 
+          "startOffset": 372
+        }, 
+        {
+          "endOffset": 652, 
+          "startOffset": 643
+        }, 
+        {
+          "endOffset": 1183, 
+          "startOffset": 1174
+        }, 
+        {
+          "endOffset": 1830, 
+          "startOffset": 1821
+        }, 
+        {
+          "endOffset": 2075, 
+          "startOffset": 2066
+        }, 
+        {
+          "endOffset": 2931, 
+          "startOffset": 2922
+        }
+      ], 
+      "normalized": "Singapore", 
+      "sentiment": {
+        "confidence": 0.60433148, 
+        "label": "pos"
+      }, 
+      "type": "LOCATION"
+    }, 
+    {
+      "confidence": 0.67652154, 
+      "count": 8, 
+      "entityId": "T81", 
+      "mention": "Trump Kim-Chi", 
+      "mentionOffsets": [
+        {
+          "endOffset": 51, 
+          "startOffset": 42
+        }, 
+        {
+          "endOffset": 767, 
+          "startOffset": 758
+        }, 
+        {
+          "endOffset": 1486, 
+          "startOffset": 1481
+        }, 
+        {
+          "endOffset": 1494, 
+          "startOffset": 1491
+        }, 
+        {
+          "endOffset": 4467, 
+          "startOffset": 4458
+        }, 
+        {
+          "endOffset": 4922, 
+          "startOffset": 4909
+        }, 
+        {
+          "endOffset": 5173, 
+          "startOffset": 5168
+        }, 
+        {
+          "endOffset": 5189, 
+          "startOffset": 5186
+        }
+      ], 
+      "normalized": "Trump Kim-Chi", 
+      "sentiment": {
+        "confidence": 0.73216164, 
+        "label": "pos"
+      }, 
+      "type": "PERSON"
+    }, 
+    {
+      "confidence": 0.84268916, 
+      "count": 7, 
+      "entityId": "Q56226", 
+      "linkingConfidence": 0.64470554, 
+      "mention": "Kim Jong-un", 
+      "mentionOffsets": [
+        {
+          "endOffset": 196, 
+          "startOffset": 185
+        }, 
+        {
+          "endOffset": 1960, 
+          "startOffset": 1949
+        }, 
+        {
+          "endOffset": 3185, 
+          "startOffset": 3182
+        }, 
+        {
+          "endOffset": 3218, 
+          "startOffset": 3215
+        }, 
+        {
+          "endOffset": 3404, 
+          "startOffset": 3402
+        }, 
+        {
+          "endOffset": 3994, 
+          "startOffset": 3991
+        }, 
+        {
+          "endOffset": 4087, 
+          "startOffset": 4084
+        }
+      ], 
+      "normalized": "Kim Jong-un", 
+      "sentiment": {
+        "confidence": 0.61593196, 
+        "label": "neg"
+      }, 
+      "type": "PERSON"
+    }, 
+    {
+      "confidence": 0.81441903, 
+      "count": 6, 
+      "entityId": "Q22686", 
+      "linkingConfidence": 0.44894286, 
+      "mention": "Donald Trump", 
+      "mentionOffsets": [
+        {
+          "endOffset": 213, 
+          "startOffset": 201
+        }, 
+        {
+          "endOffset": 1922, 
+          "startOffset": 1910
+        }, 
+        {
+          "endOffset": 2529, 
+          "startOffset": 2524
+        }, 
+        {
+          "endOffset": 3177, 
+          "startOffset": 3172
+        }, 
+        {
+          "endOffset": 3986, 
+          "startOffset": 3981
+        }, 
+        {
+          "endOffset": 4059, 
+          "startOffset": 4054
+        }
+      ], 
+      "normalized": "Donald Trump", 
+      "sentiment": {
+        "confidence": 0.62695284, 
+        "label": "pos"
+      }, 
+      "type": "PERSON"
+    }, 
+    {
+      "count": 5, 
+      "entityId": "Q30", 
+      "linkingConfidence": 0.10414405, 
+      "mention": "US", 
+      "mentionOffsets": [
+        {
+          "endOffset": 330, 
+          "startOffset": 328
+        }, 
+        {
+          "endOffset": 539, 
+          "startOffset": 537
+        }, 
+        {
+          "endOffset": 1263, 
+          "startOffset": 1261
+        }, 
+        {
+          "endOffset": 1899, 
+          "startOffset": 1897
+        }, 
+        {
+          "endOffset": 2874, 
+          "startOffset": 2872
+        }
+      ], 
+      "normalized": "US", 
+      "sentiment": {
+        "confidence": 0.48713747, 
+        "label": "pos"
+      }, 
+      "type": "LOCATION"
+    }, 
+    {
+      "count": 3, 
+      "entityId": "Q423", 
+      "linkingConfidence": 0.33319719, 
+      "mention": "North Korea", 
+      "mentionOffsets": [
+        {
+          "endOffset": 370, 
+          "startOffset": 359
+        }, 
+        {
+          "endOffset": 1279, 
+          "startOffset": 1268
+        }, 
+        {
+          "endOffset": 2890, 
+          "startOffset": 2879
+        }
+      ], 
+      "normalized": "North Korea", 
+      "sentiment": {
+        "confidence": 0.49550412, 
+        "label": "neg"
+      }, 
+      "type": "LOCATION"
+    }, 
+    {
+      "count": 2, 
+      "entityId": "T16", 
+      "mention": "North Korean", 
+      "mentionOffsets": [
+        {
+          "endOffset": 602, 
+          "startOffset": 590
+        }, 
+        {
+          "endOffset": 1939, 
+          "startOffset": 1927
+        }
+      ], 
+      "normalized": "North Korean", 
+      "sentiment": {
+        "confidence": 0.52421606, 
+        "label": "neg"
+      }, 
+      "type": "NATIONALITY"
+    }, 
+    {
+      "count": 2, 
+      "entityId": "Q148", 
+      "linkingConfidence": 0.05834731, 
+      "mention": "China", 
+      "mentionOffsets": [
+        {
+          "endOffset": 781, 
+          "startOffset": 776
+        }, 
+        {
+          "endOffset": 3523, 
+          "startOffset": 3518
+        }
+      ], 
+      "normalized": "China", 
+      "sentiment": {
+        "confidence": 0.48742348, 
+        "label": "pos"
+      }, 
+      "type": "LOCATION"
+    }, 
+    {
+      "confidence": 0.0647912, 
+      "count": 2, 
+      "entityId": "Q13477", 
+      "linkingConfidence": 0.4399049, 
+      "mention": "Al Jazeera News", 
+      "mentionOffsets": [
+        {
+          "endOffset": 1433, 
+          "startOffset": 1423
+        }, 
+        {
+          "endOffset": 5295, 
+          "startOffset": 5280
+        }
+      ], 
+      "normalized": "Al Jazeera News", 
+      "sentiment": {
+        "confidence": 0.58631918, 
+        "label": "pos"
+      }, 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "confidence": 0.50428033, 
+      "count": 2, 
+      "entityId": "T46", 
+      "mention": "Shangri-La Hotel", 
+      "mentionOffsets": [
+        {
+          "endOffset": 2521, 
+          "startOffset": 2505
+        }, 
+        {
+          "endOffset": 4564, 
+          "startOffset": 4548
+        }
+      ], 
+      "normalized": "Shangri-La Hotel", 
+      "sentiment": {
+        "confidence": 0.58056938, 
+        "label": "pos"
+      }, 
+      "type": "LOCATION"
+    }, 
+    {
+      "confidence": 0.55685532, 
+      "count": 2, 
+      "entityId": "Q870844", 
+      "linkingConfidence": 0.60880182, 
+      "mention": "Sentosa", 
+      "mentionOffsets": [
+        {
+          "endOffset": 2664, 
+          "startOffset": 2657
+        }, 
+        {
+          "endOffset": 4604, 
+          "startOffset": 4597
+        }
+      ], 
+      "normalized": "Sentosa", 
+      "sentiment": {
+        "confidence": 0.59261442, 
+        "label": "pos"
+      }, 
+      "type": "LOCATION"
+    }, 
+    {
+      "count": 2, 
+      "entityId": "T84", 
+      "mention": "Korean", 
+      "mentionOffsets": [
+        {
+          "endOffset": 5075, 
+          "startOffset": 5069
+        }, 
+        {
+          "endOffset": 5218, 
+          "startOffset": 5212
+        }
+      ], 
+      "normalized": "Korean", 
+      "sentiment": {
+        "confidence": 0.75955547, 
+        "label": "pos"
+      }, 
+      "type": "NATIONALITY"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T2", 
+      "mention": "10 Jun 2018", 
+      "mentionOffsets": [
+        {
+          "endOffset": 174, 
+          "startOffset": 163
+        }
+      ], 
+      "normalized": "10 Jun 2018", 
+      "sentiment": {
+        "confidence": 0.5632572, 
+        "label": "pos"
+      }, 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T3", 
+      "mention": "10:00 GMT", 
+      "mentionOffsets": [
+        {
+          "endOffset": 184, 
+          "startOffset": 175
+        }
+      ], 
+      "normalized": "10:00 GMT", 
+      "sentiment": {
+        "confidence": 0.62796112, 
+        "label": "pos"
+      }, 
+      "type": "TEMPORAL:TIME"
+    }, 
+    {
+      "confidence": 0.04767179, 
+      "count": 1, 
+      "entityId": "T7", 
+      "mention": "Wong Maye-E", 
+      "mentionOffsets": [
+        {
+          "endOffset": 253, 
+          "startOffset": 242
+        }
+      ], 
+      "normalized": "Wong Maye-E", 
+      "sentiment": {
+        "confidence": 0.60257785, 
+        "label": "pos"
+      }, 
+      "type": "PERSON"
+    }, 
+    {
+      "confidence": 0.86639094, 
+      "count": 1, 
+      "entityId": "T8", 
+      "mention": "AP", 
+      "mentionOffsets": [
+        {
+          "endOffset": 256, 
+          "startOffset": 254
+        }
+      ], 
+      "normalized": "AP", 
+      "sentiment": {
+        "confidence": 0.62250135, 
+        "label": "pos"
+      }, 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "confidence": 0.92864913, 
+      "count": 1, 
+      "entityId": "T10", 
+      "mention": "president", 
+      "mentionOffsets": [
+        {
+          "endOffset": 340, 
+          "startOffset": 331
+        }
+      ], 
+      "normalized": "president", 
+      "sentiment": {
+        "confidence": 0.40527218, 
+        "label": "neu"
+      }, 
+      "type": "TITLE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q39", 
+      "linkingConfidence": 0.09934265, 
+      "mention": "Switzerland", 
+      "mentionOffsets": [
+        {
+          "endOffset": 400, 
+          "startOffset": 389
+        }
+      ], 
+      "normalized": "Switzerland", 
+      "sentiment": {
+        "confidence": 0.58209448, 
+        "label": "pos"
+      }, 
+      "type": "LOCATION"
+    }, 
+    {
+      "confidence": 0.78631902, 
+      "count": 1, 
+      "entityId": "Q11708", 
+      "linkingConfidence": 0.58577494, 
+      "mention": "Southeast Asia", 
+      "mentionOffsets": [
+        {
+          "endOffset": 418, 
+          "startOffset": 404
+        }
+      ], 
+      "normalized": "Southeast Asia", 
+      "sentiment": {
+        "confidence": 0.57696258, 
+        "label": "pos"
+      }, 
+      "type": "LOCATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q150820", 
+      "linkingConfidence": 0.12015022, 
+      "mention": "Playboy", 
+      "mentionOffsets": [
+        {
+          "endOffset": 749, 
+          "startOffset": 742
+        }
+      ], 
+      "normalized": "Playboy", 
+      "sentiment": {
+        "confidence": 0.53902645, 
+        "label": "pos"
+      }, 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T21", 
+      "mention": "2:38", 
+      "mentionOffsets": [
+        {
+          "endOffset": 811, 
+          "startOffset": 807
+        }
+      ], 
+      "normalized": "2:38", 
+      "sentiment": {
+        "confidence": 0.4614174, 
+        "label": "neg"
+      }, 
+      "type": "TEMPORAL:TIME"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q510323", 
+      "linkingConfidence": 0.30091677, 
+      "mention": "Speakers' Corner", 
+      "mentionOffsets": [
+        {
+          "endOffset": 1027, 
+          "startOffset": 1011
+        }
+      ], 
+      "normalized": "Speakers' Corner", 
+      "sentiment": {
+        "confidence": 0.54734716, 
+        "label": "neg"
+      }, 
+      "type": "LOCATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T23", 
+      "mention": "British", 
+      "mentionOffsets": [
+        {
+          "endOffset": 1048, 
+          "startOffset": 1041
+        }
+      ], 
+      "normalized": "British", 
+      "sentiment": {
+        "confidence": 0.45664186, 
+        "label": "pos"
+      }, 
+      "type": "NATIONALITY"
+    }, 
+    {
+      "confidence": 0.53356087, 
+      "count": 1, 
+      "entityId": "Q84", 
+      "linkingConfidence": 0.07770432, 
+      "mention": "London", 
+      "mentionOffsets": [
+        {
+          "endOffset": 1074, 
+          "startOffset": 1068
+        }
+      ], 
+      "normalized": "London", 
+      "sentiment": {
+        "confidence": 0.65279893, 
+        "label": "neu"
+      }, 
+      "type": "LOCATION"
+    }, 
+    {
+      "confidence": 0.48798633, 
+      "count": 1, 
+      "entityId": "Q2166146", 
+      "linkingConfidence": 0.34786806, 
+      "mention": "Hyde Park Corner", 
+      "mentionOffsets": [
+        {
+          "endOffset": 1093, 
+          "startOffset": 1077
+        }
+      ], 
+      "normalized": "Hyde Park Corner", 
+      "sentiment": {
+        "confidence": 0.52667563, 
+        "label": "neu"
+      }, 
+      "type": "LOCATION"
+    }, 
+    {
+      "confidence": 0.91136485, 
+      "count": 1, 
+      "entityId": "Q5407786", 
+      "linkingConfidence": 0.591748, 
+      "mention": "Eugene Tan", 
+      "mentionOffsets": [
+        {
+          "endOffset": 1350, 
+          "startOffset": 1340
+        }
+      ], 
+      "normalized": "Eugene Tan", 
+      "sentiment": {
+        "confidence": 0.50946608, 
+        "label": "pos"
+      }, 
+      "type": "PERSON"
+    }, 
+    {
+      "confidence": 0.04380167, 
+      "count": 1, 
+      "entityId": "T30", 
+      "mention": "associate professor of law", 
+      "mentionOffsets": [
+        {
+          "endOffset": 1381, 
+          "startOffset": 1355
+        }
+      ], 
+      "normalized": "associate professor of law", 
+      "sentiment": {
+        "confidence": 0.62500233, 
+        "label": "pos"
+      }, 
+      "type": "TITLE"
+    }, 
+    {
+      "confidence": 0.24843323, 
+      "count": 1, 
+      "entityId": "Q950609", 
+      "linkingConfidence": 0.3668621, 
+      "mention": "Singapore Management University", 
+      "mentionOffsets": [
+        {
+          "endOffset": 1416, 
+          "startOffset": 1385
+        }
+      ], 
+      "normalized": "Singapore Management University", 
+      "sentiment": {
+        "confidence": 0.41680092, 
+        "label": "neg"
+      }, 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T35", 
+      "mention": "last Saturday", 
+      "mentionOffsets": [
+        {
+          "endOffset": 1721, 
+          "startOffset": 1708
+        }
+      ], 
+      "normalized": "last Saturday", 
+      "sentiment": {
+        "confidence": 0.54550975, 
+        "label": "neg"
+      }, 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "confidence": 0.90721476, 
+      "count": 1, 
+      "entityId": "T38", 
+      "mention": "President", 
+      "mentionOffsets": [
+        {
+          "endOffset": 1909, 
+          "startOffset": 1900
+        }
+      ], 
+      "normalized": "President", 
+      "sentiment": {
+        "confidence": 0.56720776, 
+        "label": "neg"
+      }, 
+      "type": "TITLE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q11081257", 
+      "linkingConfidence": 0.5125765, 
+      "mention": "Singapore police", 
+      "mentionOffsets": [
+        {
+          "endOffset": 2383, 
+          "startOffset": 2367
+        }
+      ], 
+      "normalized": "Singapore police", 
+      "sentiment": {
+        "confidence": 0.81983715, 
+        "label": "neu"
+      }, 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T44", 
+      "mention": "Nepalese", 
+      "mentionOffsets": [
+        {
+          "endOffset": 2407, 
+          "startOffset": 2399
+        }
+      ], 
+      "normalized": "Nepalese", 
+      "sentiment": {
+        "confidence": 0.81382493, 
+        "label": "neu"
+      }, 
+      "type": "NATIONALITY"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q8680", 
+      "linkingConfidence": 0.19475882, 
+      "mention": "British colonial", 
+      "mentionOffsets": [
+        {
+          "endOffset": 2450, 
+          "startOffset": 2434
+        }
+      ], 
+      "normalized": "British colonial", 
+      "sentiment": {
+        "confidence": 0.88992748, 
+        "label": "neu"
+      }, 
+      "type": "LOCATION"
+    }, 
+    {
+      "confidence": 0.61143243, 
+      "count": 1, 
+      "entityId": "T48", 
+      "mention": "Capella Hotel", 
+      "mentionOffsets": [
+        {
+          "endOffset": 2632, 
+          "startOffset": 2619
+        }
+      ], 
+      "normalized": "Capella Hotel", 
+      "sentiment": {
+        "confidence": 0.74953079, 
+        "label": "pos"
+      }, 
+      "type": "LOCATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q498921", 
+      "linkingConfidence": 0.52269973, 
+      "mention": "Straits Times", 
+      "mentionOffsets": [
+        {
+          "endOffset": 3117, 
+          "startOffset": 3104
+        }
+      ], 
+      "normalized": "Straits Times", 
+      "sentiment": {
+        "confidence": 0.67903646, 
+        "label": "pos"
+      }, 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T57", 
+      "mention": "Soviet", 
+      "mentionOffsets": [
+        {
+          "endOffset": 3227, 
+          "startOffset": 3221
+        }
+      ], 
+      "normalized": "Soviet", 
+      "sentiment": {
+        "confidence": 0.90789902, 
+        "label": "neu"
+      }, 
+      "type": "NATIONALITY"
+    }, 
+    {
+      "confidence": 0.53252423, 
+      "count": 1, 
+      "entityId": "T58", 
+      "mention": "Air Force", 
+      "mentionOffsets": [
+        {
+          "endOffset": 3262, 
+          "startOffset": 3253
+        }
+      ], 
+      "normalized": "Air Force", 
+      "sentiment": {
+        "confidence": 0.40105478, 
+        "label": "neg"
+      }, 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T59", 
+      "mention": "Sunday", 
+      "mentionOffsets": [
+        {
+          "endOffset": 3437, 
+          "startOffset": 3431
+        }
+      ], 
+      "normalized": "Sunday", 
+      "sentiment": {
+        "confidence": 0.51907088, 
+        "label": "pos"
+      }, 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "confidence": 0.001, 
+      "count": 1, 
+      "entityId": "T60", 
+      "mention": "Air China 747", 
+      "mentionOffsets": [
+        {
+          "endOffset": 3467, 
+          "startOffset": 3454
+        }
+      ], 
+      "normalized": "Air China 747", 
+      "sentiment": {
+        "confidence": 0.62098883, 
+        "label": "pos"
+      }, 
+      "type": "PRODUCT"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T61", 
+      "mention": "Chinese", 
+      "mentionOffsets": [
+        {
+          "endOffset": 3499, 
+          "startOffset": 3492
+        }
+      ], 
+      "normalized": "Chinese", 
+      "sentiment": {
+        "confidence": 0.84639363, 
+        "label": "neu"
+      }, 
+      "type": "NATIONALITY"
+    }, 
+    {
+      "confidence": 0.29033041, 
+      "count": 1, 
+      "entityId": "T63", 
+      "mention": "king", 
+      "mentionOffsets": [
+        {
+          "endOffset": 3588, 
+          "startOffset": 3584
+        }
+      ], 
+      "normalized": "king", 
+      "sentiment": {
+        "confidence": 0.4783971, 
+        "label": "neg"
+      }, 
+      "type": "TITLE"
+    }, 
+    {
+      "confidence": 0.61621344, 
+      "count": 1, 
+      "entityId": "Q2322983", 
+      "linkingConfidence": 0.53735362, 
+      "mention": "St Regis Hotel", 
+      "mentionOffsets": [
+        {
+          "endOffset": 3690, 
+          "startOffset": 3676
+        }
+      ], 
+      "normalized": "St Regis Hotel", 
+      "sentiment": {
+        "confidence": 0.57391843, 
+        "label": "neu"
+      }, 
+      "type": "LOCATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T65", 
+      "mention": "$8,000", 
+      "mentionOffsets": [
+        {
+          "endOffset": 3749, 
+          "startOffset": 3743
+        }
+      ], 
+      "normalized": "$8,000", 
+      "sentiment": {
+        "confidence": 0.73571824, 
+        "label": "neu"
+      }, 
+      "type": "IDENTIFIER:MONEY"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T66", 
+      "mention": "a night", 
+      "mentionOffsets": [
+        {
+          "endOffset": 3757, 
+          "startOffset": 3750
+        }
+      ], 
+      "normalized": "a night", 
+      "sentiment": {
+        "confidence": 0.49048273, 
+        "label": "neg"
+      }, 
+      "type": "TEMPORAL:TIME"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q18808", 
+      "linkingConfidence": 0.32101726, 
+      "mention": "Pyongyang", 
+      "mentionOffsets": [
+        {
+          "endOffset": 3846, 
+          "startOffset": 3837
+        }
+      ], 
+      "normalized": "Pyongyang", 
+      "sentiment": {
+        "confidence": 0.55273578, 
+        "label": "pos"
+      }, 
+      "type": "LOCATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T68", 
+      "mention": "American", 
+      "mentionOffsets": [
+        {
+          "endOffset": 3877, 
+          "startOffset": 3869
+        }
+      ], 
+      "normalized": "American", 
+      "sentiment": {
+        "confidence": 0.62165073, 
+        "label": "pos"
+      }, 
+      "type": "NATIONALITY"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T69", 
+      "mention": "European", 
+      "mentionOffsets": [
+        {
+          "endOffset": 3891, 
+          "startOffset": 3883
+        }
+      ], 
+      "normalized": "European", 
+      "sentiment": {
+        "confidence": 0.66836996, 
+        "label": "pos"
+      }, 
+      "type": "NATIONALITY"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T75", 
+      "mention": "2:22", 
+      "mentionOffsets": [
+        {
+          "endOffset": 4487, 
+          "startOffset": 4483
+        }
+      ], 
+      "normalized": "2:22", 
+      "sentiment": {
+        "confidence": 0.77840458, 
+        "label": "pos"
+      }, 
+      "type": "TEMPORAL:TIME"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T76", 
+      "mention": "June 10", 
+      "mentionOffsets": [
+        {
+          "endOffset": 4501, 
+          "startOffset": 4494
+        }
+      ], 
+      "normalized": "June 10", 
+      "sentiment": {
+        "confidence": 0.64140427, 
+        "label": "pos"
+      }, 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "confidence": 0.28480673, 
+      "count": 1, 
+      "entityId": "Q7683056", 
+      "linkingConfidence": 0.20833887, 
+      "mention": "Tanglin", 
+      "mentionOffsets": [
+        {
+          "endOffset": 4517, 
+          "startOffset": 4510
+        }
+      ], 
+      "normalized": "Tanglin", 
+      "sentiment": {
+        "confidence": 0.43824144, 
+        "label": "pos"
+      }, 
+      "type": "LOCATION"
+    }, 
+    {
+      "confidence": 0.02958989, 
+      "count": 1, 
+      "entityId": "T80", 
+      "mention": "Formula One", 
+      "mentionOffsets": [
+        {
+          "endOffset": 4800, 
+          "startOffset": 4789
+        }
+      ], 
+      "normalized": "Formula One", 
+      "sentiment": {
+        "confidence": 0.73063508, 
+        "label": "neu"
+      }, 
+      "type": "PRODUCT"
+    }, 
+    {
+      "confidence": 0.24931002, 
+      "count": 1, 
+      "entityId": "T82", 
+      "mention": "El Trumpo", 
+      "mentionOffsets": [
+        {
+          "endOffset": 5037, 
+          "startOffset": 5028
+        }
+      ], 
+      "normalized": "El Trumpo", 
+      "sentiment": {
+        "confidence": 0.50441555, 
+        "label": "pos"
+      }, 
+      "type": "LOCATION"
+    }, 
+    {
+      "confidence": 0.15137661, 
+      "count": 1, 
+      "entityId": "Q592929", 
+      "linkingConfidence": 0.24953743, 
+      "mention": "Rocket Man", 
+      "mentionOffsets": [
+        {
+          "endOffset": 5067, 
+          "startOffset": 5057
+        }
+      ], 
+      "normalized": "Rocket Man", 
+      "sentiment": {
+        "confidence": 0.49247216, 
+        "label": "neg"
+      }, 
+      "type": "PRODUCT"
+    }, 
+    {
+      "confidence": 0.83194804, 
+      "count": 1, 
+      "entityId": "T88", 
+      "mention": "Tom Benner", 
+      "mentionOffsets": [
+        {
+          "endOffset": 5249, 
+          "startOffset": 5239
+        }
+      ], 
+      "normalized": "Tom Benner", 
+      "sentiment": {
+        "confidence": 0.47917153, 
+        "label": "neu"
+      }, 
+      "type": "PERSON"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q918", 
+      "linkingConfidence": 0.36912349, 
+      "mention": "Twitter", 
+      "mentionOffsets": [
+        {
+          "endOffset": 5260, 
+          "startOffset": 5253
+        }
+      ], 
+      "normalized": "Twitter", 
+      "sentiment": {
+        "confidence": 0.60522769, 
+        "label": "neu"
+      }, 
+      "type": "ORGANIZATION"
+    }
+  ], 
+  "responseHeaders": {
+    "Connection": "keep-alive", 
+    "Content-Encoding": "gzip", 
+    "Content-Length": "2687", 
+    "Content-Type": "application/json", 
+    "Date": "Tue, 12 Jun 2018 07:36:23 GMT", 
+    "Server": "openresty", 
+    "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload", 
+    "Vary": "Accept-Encoding", 
+    "X-RosetteAPI-App-Id": "1409617759480", 
+    "X-RosetteAPI-Concurrency": "2", 
+    "X-RosetteAPI-ProcessedLanguage": "eng", 
+    "X-RosetteAPI-Request-Id": "b45e7aa5eb2fb98f2cbfc4b9a7b78216"
+  }
+}

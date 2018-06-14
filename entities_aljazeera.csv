@@ -1,0 +1,3934 @@
+$0.05 ,pos,50.764292,1
+1:45,neu,53.528309,1
+2:12,pos,39.996401,1
+2:22,pos,77.840458,1
+2:38,neg,46.14174,1
+2:55,neg,50.737964,1
+$1 ,neu,80.569314,1
+$169 ,neu,45.14273,1
+$200 ,neu,96.067468,2
+"$1,470 ",neg,38.217494,1
+"$5,000 ",neu,85.159074,1
+"$8,000 ",neu,73.571824,1
+Nov-47,pos,50.291904,1
+Mar-48,pos,58.795344,1
+Apr-48,neg,54.435834,1
+15-May-48,neu,80.955005,2
+25-May-63,pos,54.22353,1
+17-Jun-94,pos,42.879918,1
+Sep-96,neu,54.557,1
+11-Sep-01,neg,51.881928,1
+11-Dec,pos,56.812016,1
+12-Feb,neg,70.557391,1
+10-Oct-13,neg,57.210276,1
+14-Sep,neg,35.262439,1
+15-Mar,neu,66.949325,2
+15-Mar,neu,75.830304,1
+15-Mar,neg,58.035739,2
+15-Apr,neg,38.78938,1
+18-Jul-15,pos,44.048699,1
+18-Jul-15,pos,44.048699,1
+18-Jul-15,pos,44.048699,1
+18-Jul-15,pos,44.048699,1
+18-Jul-15,pos,44.048699,1
+15-Sep,neg,46.359579,1
+16-Jan,neg,52.816715,1
+7-Feb-16,neu,41.320855,1
+16-Apr,neu,77.922527,1
+16-May,neu,51.678875,1
+16-May,neg,64.03552,1
+16-Jun,neg,52.306025,1
+16-Jul,neg,65.825762,1
+16-Jul,neg,52.690137,1
+5-Sep-16,pos,40.458596,1
+5-Sep-16,pos,40.458596,1
+5-Sep-16,pos,40.458596,1
+5-Sep-16,pos,40.458596,1
+5-Sep-16,pos,40.458596,1
+16-Oct,neu,60.05724,1
+16-Nov,neu,70.063627,1
+16-Dec,neu,47.176801,1
+17-Mar,neg,54.220318,1
+17-Jul,neg,55.129198,1
+3-Jul-17,neu,82.884327,1
+17-Oct-17,neu,63.625061,1
+17-Nov,neu,60.465108,1
+17-Nov,neg,47.851565,1
+17-Nov,neg,52.031422,1
+17-Dec,pos,49.590775,1
+1-Jan,neg,81.546766,1
+16-Jan,neu,48.767796,2
+28-Jan,neu,56.322689,1
+31-Jan-18,neu,66.766868,1
+28-Feb,pos,50.189683,1
+6-Mar,pos,56.299011,1
+20-Mar,neu,70.536361,1
+31-Mar-18,neu,70.002346,1
+2-Apr,pos,58.405342,1
+7-Apr,neu,61.250618,1
+9-Apr,neg,66.014923,1
+9-Apr-18,neg,59.267462,1
+12-Apr,neu,80.088354,1
+21-Apr,neg,60.084588,1
+27-Apr,neu,61.245204,1
+18-May,neg,42.267392,1
+10-May,neu,50.705808,1
+12-May,neg,61.701678,1
+14-May-18,neu,85.612899,1
+14-May-18,neu,85.612899,1
+14-May-18,neu,85.612899,1
+14-May-18,neu,85.612899,1
+14-May-18,neu,85.612899,1
+31-May,pos,39.321673,1
+31-May,neu,47.052256,1
+31-May,pos,45.999556,1
+31-May,neg,39.785579,1
+31-May,neg,52.742166,1
+1-Jun,neu,72.779761,1
+1-Jun,neu,71.462595,1
+3-Jun,neg,91.767253,1
+3-Jun-18,neu,87.620409,1
+3-Jun,neg,56.123274,1
+5-Jun,neg,58.750118,1
+5-Jun,neu,83.612901,1
+7-Jun-18,neu,45.851145,1
+7-Jun-18,neu,83.213999,1
+7-Jun-18,neg,44.754633,1
+7-Jun-18,neg,82.243658,1
+7-Jun-18,neu,60.230613,1
+7-Jun-18,pos,48.004828,1
+7-Jun-18,neg,78.136543,1
+7-Jun-18,pos,64.572124,1
+7-Jun-18,neu,76.461466,1
+7-Jun-18,pos,69.293825,1
+7-Jun-18,neg,52.575623,1
+7-Jun-18,neu,71.080532,1
+7-Jun-18,neg,61.030329,1
+7-Jun-18,neg,35.072306,1
+7-Jun-18,neu,88.575143,1
+7-Jun-18,neu,77.773866,1
+7-Jun-18,pos,48.203464,1
+7-Jun-18,neg,67.592722,1
+7-Jun-18,neg,40.482685,1
+7-Jun-18,neg,52.506779,1
+7-Jun-18,neg,39.412603,1
+7-Jun-18,pos,46.427328,1
+7-Jun-18,neg,40.451993,1
+7-Jun-18,neg,54.69227,1
+7-Jun-18,pos,43.59093,1
+7-Jun-18,neu,78.995197,1
+7-Jun-18,pos,56.049,1
+7-Jun-18,neg,49.869085,1
+7-Jun-18,neu,44.102287,1
+7-Jun-18,neu,59.561997,1
+7-Jun-18,neg,52.879939,1
+7-Jun-18,neg,56.080476,1
+7-Jun,neu,48.242655,1
+8-Jun-18,neu,79.06317,1
+8-Jun-18,pos,68.123261,1
+8-Jun-18,pos,48.153053,1
+8-Jun-18,pos,52.124801,1
+8-Jun-18,neu,81.187165,1
+8-Jun-18,neu,83.137907,1
+8-Jun-18,neg,70.452947,1
+8-Jun-18,neg,53.433456,1
+8-Jun-18,neu,58.37757,1
+8-Jun-18,neg,57.844347,1
+8-Jun-18,neg,54.940308,1
+8-Jun-18,neg,60.029208,1
+8-Jun-18,neu,37.878582,1
+8-Jun-18,neu,81.295576,1
+8-Jun-18,neu,79.299943,1
+8-Jun-18,neu,65.014701,1
+8-Jun-18,neg,66.637058,1
+8-Jun-18,neg,63.712429,1
+8-Jun-18,neu,60.209058,1
+8-Jun-18,neg,82.08241,1
+8-Jun-18,neg,54.640277,1
+8-Jun-18,neg,55.638109,1
+8-Jun-18,neg,53.470133,1
+8-Jun-18,neg,55.347165,1
+9-Jun-18,pos,40.256751,1
+9-Jun-18,neu,81.459639,1
+9-Jun-18,neu,78.330841,1
+9-Jun-18,neg,43.399447,1
+9-Jun-18,pos,49.191706,1
+9-Jun-18,neu,77.691797,1
+9-Jun-18,neg,76.152301,1
+9-Jun-18,neu,56.374754,1
+9-Jun-18,pos,51.094026,1
+9-Jun-18,neg,50.337996,1
+9-Jun-18,neg,93.566761,1
+9-Jun-18,neg,70.709026,1
+9-Jun-18,neg,64.138922,1
+9-Jun-18,neu,85.053789,1
+9-Jun-18,neg,66.791573,1
+9-Jun-18,neu,82.973928,1
+9-Jun-18,neu,76.094212,1
+9-Jun-18,pos,58.63826,1
+9-Jun-18,neg,63.218869,1
+9-Jun-18,neg,46.464494,1
+9-Jun-18,neu,63.150702,1
+9-Jun-18,pos,36.757173,1
+9-Jun-18,neg,55.338927,1
+9-Jun-18,neu,67.345398,1
+9-Jun-18,neu,69.751913,1
+9-Jun-18,neu,81.127529,1
+9-Jun-18,pos,37.261793,1
+9-Jun-18,neu,58.513671,1
+10-Jun-18,neu,72.842746,1
+10-Jun-18,neg,60.762337,1
+10-Jun-18,pos,56.32572,1
+10-Jun,pos,64.140427,1
+10-Jun-18,neu,84.037245,1
+10-Jun-18,neu,77.31382,1
+10-Jun-18,neu,82.833488,1
+10-Jun-18,neu,80.787157,1
+10-Jun-18,neu,54.678826,1
+10-Jun-18,neu,69.608023,1
+10-Jun-18,neg,50.718836,1
+10-Jun-18,pos,67.055182,1
+10-Jun-18,neg,60.679379,1
+10-Jun-18,neg,48.192123,1
+10-Jun-18,neg,60.968184,1
+10-Jun-18,neg,79.945366,1
+10-Jun-18,neu,70.781083,1
+10-Jun-18,neg,64.672634,1
+10-Jun-18,neg,62.45389,1
+10-Jun-18,neu,60.743615,1
+10-Jun-18,pos,39.383684,1
+10-Jun-18,pos,41.331159,1
+10-Jun-18,neg,48.732487,1
+10-Jun-18,neg,44.770227,1
+10-Jun-18,neg,58.793522,1
+10-Jun-18,pos,36.11329,1
+10-Jun-18,neu,69.561257,1
+10-Jun-18,pos,44.14512,1
+10-Jun-18,neu,59.383173,1
+10-Jun-18,neg,69.151898,1
+10-Jun-18,neg,58.493654,1
+10-Jun-18,neg,50.197822,1
+10-Jun-18,neg,50.338078,1
+10-Jun-18,neu,77.693153,1
+10-Jun-18,neg,52.089426,1
+11-Jun-18,neu,58.754176,1
+11-Jun-18,neg,48.512621,1
+12-Jun,neu,63.197731,1
+12-Jun,neg,49.564351,1
+12-Jun,neg,65.144078,1
+12-Jun,neu,45.33846,1
+12-Jun,neu,78.176509,1
+12-Jun,neg,57.714935,1
+12-Jun,pos,71.001225,1
+20-Jun,neg,76.429162,3
+20-Jun,neu,55.907612,2
+20-Jun,neg,58.360067,3
+24-Jun,pos,44.858464,1
+24-Jun,neg,48.09158,1
+24-Jun,pos,42.147032,1
+1-Jul,neu,63.779743,1
+1-Jul,neg,44.430236,1
+8-Jul,neu,68.702026,1
+27-Jul,neu,48.203488,3
+19-Jan,pos,53.633856,1
+$3 trillion,neu,77.286238,1
+@AJEnglish,neu,56.610166,1
+@ajplus,neu,73.015748,2
+@Refugees,neu,72.332868,3
+@rolandgarros,neu,63.22785,6
+05:48 GMT,pos,50.259492,1
+05:53 GMT,neu,60.304,1
+06:17 GMT,neu,82.071846,1
+06:40 GMT,neu,72.557693,1
+06:45 GMT,neu,66.50694,1
+06:51 GMT,neu,68.826577,1
+06:56 GMT,neg,61.864564,1
+07:04 GMT,neg,69.167603,1
+07:33 GMT,pos,68.299434,1
+08:16 GMT,neg,71.949866,1
+08:18 GMT,neu,71.172755,1
+08:27 GMT,neg,44.354047,1
+08:27 GMT,neg,44.354047,1
+08:27 GMT,neg,44.354047,1
+08:27 GMT,neg,44.354047,1
+08:27 GMT,neg,44.354047,1
+08:32 GMT,pos,49.279968,1
+08:32 GMT,neg,47.382991,1
+08:33 GMT,pos,54.981771,1
+08:38 GMT,neu,63.732828,1
+08:43 GMT,neu,79.845791,1
+08:50 GMT,neu,84.322243,1
+09:12 GMT,neu,57.790349,1
+09:21 GMT,pos,71.568097,1
+09:26 GMT,neg,56.034713,1
+09:26 GMT,neg,46.655021,1
+09:34 GMT,neu,38.756069,1
+09:36 GMT,pos,60.019533,1
+09:43 GMT,pos,63.334009,1
+09:52 GMT,neu,62.703485,1
+09:53 GMT,pos,51.057192,1
+09:55 GMT,neu,54.847261,1
+"1,100-km",neu,36.41339,1
+10 days,pos,47.393404,1
+10 hours,neg,64.64155,1
+10 mins,neu,55.409878,1
+10 years,neu,51.006982,1
+10 years,neu,59.065118,1
+10:00 GMT,pos,62.796112,1
+10:10 GMT,neu,56.506588,1
+10:27 GMT,neu,55.8925,1
+10:28 GMT,pos,52.331568,1
+10:35 GMT,neu,69.549072,1
+10:38 GMT,pos,51.964455,1
+10:42 GMT,neu,58.936596,1
+10:55 GMT,neg,49.748251,1
+10:58 GMT,neg,49.535334,1
+10:58 GMT,neu,86.439066,1
+101 East,neg,69.952427,1
+11 years,neg,54.684764,1
+11 years,pos,45.617604,1
+11 years,neu,45.147502,1
+11:02 GMT,neg,58.60179,1
+11:04 GMT,neg,48.209748,1
+11:07 GMT,neg,47.456507,1
+11:09 GMT,neg,68.818433,1
+11:14 GMT,neu,70.634501,1
+11:19 GMT,pos,39.199817,1
+11:22 GMT,neu,84.465272,1
+11:25 GMT,neu,44.041961,1
+11:32 GMT,neg,43.923268,1
+11:35 GMT,pos,47.707114,1
+11:38 GMT,neu,46.502759,1
+11:38 GMT,neu,74.465447,1
+11:45 GMT,neg,69.092638,1
+11:50 GMT,pos,50.729989,1
+11:50 GMT,pos,50.729989,1
+11:50 GMT,pos,50.729989,1
+11:50 GMT,pos,50.729989,1
+11:50 GMT,pos,50.729989,1
+11:51 GMT,neg,43.958015,1
+11:52 GMT,neg,71.229252,1
+11:56 GMT,pos,49.705707,1
+11:58 GMT,neu,79.7894,1
+11am,neu,69.652425,1
+12 months,neu,50.578037,1
+12 years,neu,38.694488,1
+12:03 GMT,neu,70.864933,1
+12:03 GMT,neu,72.706407,1
+12:04 GMT,neg,67.374864,1
+12:14:56 GMT,pos,65.112437,1
+12:26 GMT,neu,68.711223,1
+12:27 GMT,pos,43.272167,1
+12:28 GMT,neu,74.84484,1
+12:30 GMT,pos,63.403257,2
+12:30 GMT,pos,65.523573,1
+12:35 GMT,pos,55.761064,1
+12:47 GMT,neu,81.719762,1
+12:54 GMT,pos,58.419536,1
+12-year,pos,57.409616,1
+"13,000km",neu,62.944387,1
+13:24 GMT,neg,76.097839,1
+13:26 GMT,neu,66.34887,1
+13:31 GMT,pos,77.27029,1
+13:38 GMT,neu,77.718392,1
+13:38 GMT,neu,77.718392,1
+13:38 GMT,neu,77.718392,1
+13:38 GMT,neu,77.718392,1
+13:38 GMT,neu,77.718392,1
+13:44 GMT,neu,77.738727,1
+13:56 GMT,neu,67.890609,1
+13:58 GMT,pos,40.61783,1
+14 years,neu,38.955377,1
+14:31 GMT,neg,55.120027,1
+14:31 GMT,pos,41.583526,1
+14:36 GMT,neu,75.129479,1
+14:45 GMT,neg,55.973867,1
+14:47 GMT,neg,49.52881,1
+15 months,neg,45.916008,1
+15:14 GMT,neg,56.001684,1
+15:25 GMT,neu,72.888188,1
+15:44 GMT,neu,75.545882,1
+150km,neg,39.098078,1
+16 years,neg,48.043011,1
+16 years,neg,48.043011,1
+16 years,neg,54.602891,1
+16:33 GMT,neu,56.461147,1
+16:35 GMT,pos,54.077169,1
+16:48 GMT,neu,73.578807,1
+16:51 GMT,neg,43.009419,1
+16:52 GMT,neu,81.628781,1
+16-year,neu,84.916215,1
+16-year,neg,36.436546,1
+17 years,neu,62.927327,1
+17 years,neu,69.116645,1
+17:04 GMT,pos,55.464963,1
+17:10 GMT,neu,83.687255,1
+17:19 GMT,neg,89.586644,1
+17:22 GMT,pos,45.238325,1
+17:40 GMT,neu,42.540251,1
+17:46 GMT,neg,61.064043,1
+17:49 GMT,neg,49.009974,1
+17:56 GMT,neu,33.921798,1
+18 years,neg,62.296579,2
+18 years,neg,51.237593,1
+18 years,neu,50.783575,1
+18:01 GMT,neg,39.041081,1
+18:11 GMT,neg,66.018412,1
+18:20 GMT,neg,75.568364,1
+18:22 GMT,neg,47.92909,1
+18:35 GMT,neg,51.288536,1
+18:46 GMT,neg,40.544869,1
+18:47 GMT,pos,75.148702,1
+18-year,neg,57.718697,1
+18-year,neg,55.146357,1
+19:04 GMT,pos,42.635195,1
+19:05 GMT,neu,74.790926,1
+19:11 GMT,neg,53.765381,1
+19:22:22 GMT,neu,64.277619,1
+19:35 GMT,pos,63.560032,1
+19:42 GMT,neg,52.395515,1
+19:51 GMT,neu,57.398688,1
+19:55 GMT,neg,48.633064,1
+19:57 GMT,neg,83.724905,1
+2:45pm,neg,65.352775,1
+20 minutes,neu,38.322079,1
+20 years,neu,78.235321,1
+20 years,neg,65.743236,1
+20:07 GMT,neu,87.670047,1
+20:17 GMT,neu,62.50875,1
+20:27 GMT,neg,51.625376,1
+20:33 GMT,neg,51.271702,1
+20:41 GMT,neu,74.882995,1
+20:43 GMT,neg,50.188388,1
+20:44 GMT,pos,56.609593,1
+20:47 GMT,pos,44.263743,1
+20:48 GMT,neu,86.019263,1
+200 years,neg,61.64673,1
+2002 at,neg,70.684122,1
+2016 Summer,neu,87.452863,1
+20s,neu,50.188065,1
+20-year,neu,77.73264,1
+21:01 GMT,neg,49.368462,1
+21:16 GMT,pos,55.264617,1
+21-year,neu,66.05823,1
+21-year,pos,47.480025,1
+22-year,pos,60.907919,1
+23-year,pos,45.121806,1
+23-year,neg,54.065561,1
+24-hour,neg,40.336477,1
+24-year,neu,72.771516,1
+24-year,neg,64.30182,1
+25-year,pos,54.052668,1
+25-year,neu,73.221817,1
+26 days,neu,57.879561,1
+26-year,neu,44.866364,1
+26-year,neu,59.134537,1
+28-year,neu,73.746236,1
+28-year,neu,55.451838,1
+28-year,neg,45.775553,1
+29-year,neu,46.173924,1
+30 years,pos,44.769851,1
+30km,neg,71.955867,3
+30km,neg,42.061138,1
+30-year,neu,64.040288,1
+32-year,pos,58.08347,1
+33 days,neg,70.108702,2
+33-year,pos,50.360312,1
+34-year,neu,64.443238,1
+36-year,neg,55.752244,1
+37-year,neg,49.534805,1
+40 days,neu,87.946479,1
+40 years,pos,48.62605,1
+40-hour,neg,38.976081,1
+40-year,neu,51.989457,1
+42 minutes,neg,51.763898,1
+48 hours,neu,63.404803,1
+50 days,neg,58.032951,1
+50 years,neu,63.262502,1
+500 days,neg,51.269375,1
+54-year,neu,40.832112,1
+59-year,neg,46.200627,1
+60 days,pos,53.814328,1
+61-year,neg,42.301727,1
+64 years,neg,42.711834,2
+70 years,pos,58.377912,1
+70 years,neg,77.929549,2
+72 hours,neg,62.736977,1
+76-year,neu,69.775221,1
+8:39PM ET,neg,65.547264,1
+8pm,pos,42.82155,1
+97-year,pos,70.136068,2
+a day,neg,67.70527,1
+a day,neu,56.45233,1
+a day,pos,47.598062,1
+a day,neg,76.082022,1
+a day,neg,53.398171,1
+A day,neg,59.193788,1
+a day,neg,51.010036,1
+a day,neg,53.354458,1
+a decade,neg,56.945108,1
+a decade,neu,73.151104,1
+a decade,pos,63.092465,1
+a decades,neg,51.99372,1
+a hundred years,pos,59.436381,1
+a month,neg,38.142239,1
+A month,neu,63.59526,1
+a month,pos,44.650221,2
+a night,pos,46.2997,1
+a night,neg,49.048273,1
+a second,neg,41.453442,1
+a second,neg,57.6943,2
+A week,pos,43.609034,1
+a week,neu,70.398119,1
+A week,pos,45.740633,1
+a year,neu,77.118556,1
+a year,neg,72.502202,1
+a year,neg,58.425292,1
+a year,neu,75.076305,1
+a year,neu,77.467405,1
+a year,neg,35.629835,2
+a year,neg,65.78037,1
+a year,neg,70.323007,1
+a year,neu,72.919458,1
+a year,neu,49.65976,1
+a year,neu,69.075467,1
+Abbas Akhavan,neg,56.176037,1
+Abd al-Qader al-Husseini,neu,76.819464,7
+Abdallah Farah,pos,68.254559,1
+Abdel Fattah el-Sisi,pos,68.918194,10
+Abdel Hadi al-Shami,neg,85.937105,7
+Abdel Mansour Hadi,pos,36.042105,1
+Abd-Rabbu Mansour Hadi,neg,59.871175,1
+Abdullah II,neg,53.930765,1
+Abdullah II,neu,84.339806,1
+Abdullah II,neu,81.647682,1
+Abdullah II,neu,92.235905,2
+Abdullah II. Abu Odeh,neu,49.359426,4
+Abir,neu,74.85243,1
+Abiy Ahmed,neu,68.643802,16
+Abu Dhabi,pos,46.70564,1
+Abu Dhabi,neu,75.91885,1
+Abu Dhabi,neu,49.803212,1
+Abu Dhabi,neu,75.534523,1
+Abu Nihad,neu,93.67547,14
+ACHPR,neg,84.72159,4
+Addis Ababa,neu,70.25965,1
+"Addis Ababa, Ethiopia",pos,59.716137,2
+Adel Hana,pos,40.809029,1
+Adidas,neu,79.912263,1
+Adnan Abu Odeh,neu,80.74749,3
+Afghan,neg,78.891934,6
+Afghan,neg,56.817965,3
+Afghan,neg,51.417776,3
+Afghan,neg,78.853936,4
+Afghan,neg,67.873377,2
+Afghan,neg,83.169138,4
+Afghan army,neu,68.909295,1
+Afghan government,neu,48.607363,2
+Afghan government,neu,86.37197,2
+Afghan government,neg,87.788131,2
+Afghanistan,neu,59.994115,4
+Afghanistan,neg,49.389372,3
+Afghanistan,pos,55.819386,3
+Afghanistan,neg,80.571915,3
+Afghanistan,neg,46.955073,1
+Afghanistan,pos,45.053071,4
+Afghanistan,neu,58.079755,1
+Afghanistan,neu,69.917854,1
+Afghanistan,neu,87.579568,10
+Afghanistan,neu,82.808212,1
+Afghanistan,neg,62.767495,8
+Afghans,neg,52.730349,1
+Afghans,neg,53.818826,1
+AFP,neg,60.083135,1
+AFP,neg,76.8542,1
+AFP news agency,neg,68.956948,1
+AFP news agency,neu,63.959222,1
+Africa,neu,76.588005,1
+Africa,neg,78.356188,2
+Africa,neu,91.491993,1
+Africa,neu,67.201654,1
+Africa,neu,55.034444,1
+Africa Command,neg,55.499383,2
+African,neu,61.027981,14
+African,neg,44.510813,1
+African affairs,pos,45.640383,1
+African Charter on Democracy,neu,61.689917,1
+African Charter on Human and Peoples' Rights,neg,52.741896,1
+African Court on Human and Peoples' Rights,neu,67.337739,2
+African Union,neu,64.004286,1
+African Union,neg,91.168406,29
+Africans,pos,84.597135,2
+Africans,neu,70.790648,1
+Afrin,neu,87.098112,1
+Agency for International Development Cooperation,neu,56.30466,1
+Agreed Framework,neg,42.374342,2
+Agriculture Minister,pos,54.480621,1
+Ahmed al-Hissi,neg,53.246588,2
+Ahmed Idris,neg,51.773352,2
+Ahmed Mahjoub,neg,84.172734,4
+Ahmed Rashid,neu,86.144834,3
+Ahmed Rashid,pos,41.018782,1
+Aina Khan,pos,54.003619,2
+Air China 747,pos,62.098883,1
+Air China 747,neg,58.858583,1
+Air China 747,neu,60.061094,2
+Air Force,neg,40.105478,1
+Air Force One,pos,56.996512,1
+Air Force One,neu,59.036148,1
+Air Force One,neu,49.856586,1
+Air Force One,pos,53.210436,1
+Air Force One,neg,51.347121,1
+Aivin Hans,pos,36.194048,4
+Akbar Al Baker,neu,66.923469,1
+Akram Ahmed,neg,88.528664,2
+Al Arish,neu,64.340697,1
+Al Ghouri Palace,pos,51.031213,1
+Al Jazeera,neu,85.157411,1
+Al Jazeera,pos,43.321141,1
+Al Jazeera,neu,81.474916,1
+Al Jazeera,neu,90.982585,2
+Al Jazeera,neu,60.445663,1
+Al Jazeera,neu,71.176961,4
+Al Jazeera,neu,55.751387,1
+Al Jazeera,neu,81.474916,1
+Al Jazeera,pos,66.873458,2
+Al Jazeera,neu,76.085903,1
+Al Jazeera,neg,51.181849,1
+Al Jazeera,neg,57.976084,2
+Al Jazeera,neu,78.760936,1
+Al Jazeera,pos,43.767412,1
+Al Jazeera,neu,86.045506,1
+Al Jazeera,pos,42.797788,1
+Al Jazeera,neu,68.78554,1
+Al Jazeera,neg,90.540713,1
+Al Jazeera,neu,81.474916,1
+Al Jazeera,neu,67.621791,1
+Al Jazeera,neu,81.474916,1
+Al Jazeera,neg,64.153619,1
+Al Jazeera,neu,81.474916,1
+Al Jazeera,neu,83.741883,1
+Al Jazeera,neu,81.474916,1
+Al Jazeera,neg,51.604229,2
+Al Jazeera,neg,83.055422,7
+Al Jazeera,pos,50.921634,1
+Al Jazeera,neu,68.679139,1
+Al Jazeera,pos,51.541871,1
+Al Jazeera,neu,92.087512,1
+Al Jazeera,neg,61.207419,1
+Al Jazeera,neg,46.050517,1
+Al Jazeera,neg,57.612548,1
+Al Jazeera,neu,89.586305,1
+Al Jazeera,pos,37.636916,1
+Al Jazeera,neg,64.195475,2
+Al Jazeera,neg,76.425292,4
+Al Jazeera,neu,82.313515,2
+Al Jazeera,neu,54.53361,3
+Al Jazeera,neu,45.833735,1
+Al Jazeera,neg,84.067569,4
+Al Jazeera,neu,81.474916,1
+Al Jazeera,pos,47.329943,1
+Al Jazeera,neg,53.208798,1
+Al Jazeera,neu,56.761804,1
+Al Jazeera,neu,88.770143,3
+Al Jazeera,neg,64.589539,1
+Al Jazeera,neg,86.968829,6
+Al Jazeera,neg,66.815885,1
+Al Jazeera,neg,42.960502,4
+Al Jazeera,neu,63.630435,5
+Al Jazeera,neu,81.474916,1
+Al Jazeera,neu,77.338841,1
+Al Jazeera,pos,40.379062,1
+Al Jazeera,neg,71.571192,1
+Al Jazeera,neu,66.920951,1
+Al Jazeera,neu,53.675634,1
+Al Jazeera,neg,52.101643,3
+Al Jazeera,neg,54.544107,2
+Al Jazeera,neu,70.084336,1
+Al Jazeera Media Network,neu,60.175898,1
+Al Jazeera Media Network,neu,60.175898,1
+Al Jazeera News,pos,50.844477,2
+Al Jazeera News,pos,47.148668,8
+Al Jazeera News,neg,44.544309,8
+Al Jazeera News,neu,54.424451,1
+Al Jazeera News,pos,57.84923,8
+Al Jazeera News,neu,51.804785,1
+Al Jazeera News,pos,55.39334,2
+Al Jazeera News,neg,50.569859,1
+Al Jazeera News,neg,55.844658,1
+Al Jazeera News,neu,85.034325,5
+Al Jazeera News,neg,56.086522,4
+Al Jazeera News,neg,81.191033,3
+Al Jazeera News,neg,63.484508,1
+Al Jazeera News,pos,54.048038,5
+Al Jazeera News,pos,46.993409,4
+Al Jazeera News,pos,58.631918,2
+Al Jazeera News,neg,82.554052,4
+Al Jazeera News,pos,53.651024,4
+Al Jazeera News,neu,49.261894,1
+Al Jazeera News,neu,61.560018,1
+Al Jazeera Trump,pos,65.453856,2
+Al Rai,neg,64.358974,2
+Ala'a Abo Alrob,pos,49.308918,2
+Alan Fisher,pos,45.96811,2
+Al-Aqsa Mosque,neu,66.30518,1
+Alaskan Natives,neu,38.109779,1
+al-Ekhbariya,neu,61.734579,1
+Aleppo,neu,77.709959,3
+Aleppo province,pos,48.500096,1
+Alexander Zemlianichenko,pos,66.298834,1
+Alexander Zemlianichenko,neg,50.001054,1
+Alexei Druzhinin,neg,38.94844,1
+Alexei Kuznetsov,pos,54.576254,1
+Alfredo Stroessner,pos,44.378381,2
+Algeria,pos,64.316355,2
+Algerian,pos,51.226636,1
+Algiers Agreement,pos,49.893484,1
+Algiers Peace Accord,neg,69.63075,2
+Al-Hathloul,pos,52.235369,1
+Ali Abdullah Saleh,pos,49.835699,1
+Ali Ansari,neu,83.906458,1
+Ali Noorani,neg,70.666385,4
+Ali Younes,neg,49.696994,2
+Ali Younes,neg,48.162862,1
+al-Jihad al-Muqadas,pos,45.932109,1
+Allahdad,neg,43.470037,3
+Al-Masdar,neu,56.937517,1
+Al-Noor,neg,40.764724,1
+al-Nusra Front,neg,47.724781,1
+Alotenango,neu,68.143437,1
+Alotenango,neu,55.238319,1
+al-Qaeda,neu,71.334178,1
+al-Qaeda,neg,55.693571,1
+al-Qaeda,neu,77.375531,1
+al-Rusafa,pos,48.030762,2
+al-Shabaab,neg,59.69254,1
+al-Shabab,pos,55.209975,3
+al-Tanf,neu,69.562797,1
+Amazon,neu,61.917525,1
+ambassador,neu,73.684025,1
+ambassador,neu,73.968298,1
+ambassador,neg,44.020334,1
+ambassador,neu,59.329754,1
+ambassador,neu,83.193379,1
+ambassador,neg,49.955251,1
+ambassadors,pos,51.66411,1
+America,neg,47.374117,2
+America,neg,46.365474,1
+America,neg,45.716094,2
+America,neg,58.960345,2
+America,neg,51.178606,2
+America,pos,41.616798,1
+America,neg,62.793648,2
+America First,pos,48.799017,1
+America First,neu,75.603372,1
+American,neg,48.736319,4
+American,pos,58.154311,1
+American,neg,61.751506,1
+American,neu,81.656534,1
+American,neg,45.238341,3
+American,neg,70.540412,1
+American,neu,64.192848,1
+American,pos,62.165073,1
+American,neg,71.693405,1
+American,neu,54.101144,1
+American,pos,68.570197,1
+American,neg,66.448417,1
+American,neu,48.927849,1
+American dream,neg,84.751298,3
+American Midwest,neu,83.252979,1
+American University,neu,73.53029,1
+Americans,neg,59.582584,3
+Americans,neu,69.008395,1
+Americans,neu,74.894579,1
+Americans,pos,50.982457,1
+Americans,neg,52.369818,1
+Americans,neg,50.707175,1
+Amir Yagana,neu,67.60957,1
+Amman,neg,55.93322,1
+Amman,neg,63.068812,3
+Amman,neu,64.72451,1
+Amman,neg,60.449837,3
+Amman Stock Exchange,neu,88.764872,2
+Amnesty International,neg,47.569577,1
+Amnesty International,neg,45.043006,2
+Amr Abdallah Dalsh,neu,70.202362,1
+an hour,neg,71.427286,1
+Anadolu,neu,86.008591,1
+Andre Pain,neu,43.626199,1
+Andrew Brunson,pos,54.057619,2
+Andrew Thomas,neg,52.782014,1
+Andrew Thomas,neg,53.358888,2
+Andrew Wilks,pos,43.4142,3
+Andrew Wilks,pos,55.734926,2
+Andrey] Arshavin,pos,64.157603,1
+Andy Gallacher,neu,93.065747,1
+Angela Merkel,neu,48.102345,1
+Angela Merkel,neg,45.321077,1
+Angela Merkel,neg,74.300684,5
+Angela Merkel,pos,64.227392,1
+Angela Merkel,neg,76.046842,2
+Ankara,neg,64.750994,2
+Ankara,neg,46.101948,2
+Ankara,neg,62.302772,4
+Ankara,neg,83.744382,3
+"Ankara, Turkey",pos,58.958,1
+Anna Seaman,neg,43.306035,1
+Antanimora Prison,neg,65.281332,1
+Anthony,neg,52.951888,2
+Anthony Bourdain,neu,64.9164,6
+Antoine Fountain,neu,55.672933,1
+Anwar Gargash,neu,87.835934,1
+AP,neu,51.400967,1
+AP,neg,54.919744,1
+AP,neu,70.059272,1
+AP,neg,77.043974,8
+AP,neg,52.092506,1
+AP,pos,62.250135,1
+AP,neg,63.092988,1
+AP,pos,67.970935,1
+AP,neg,45.193285,7
+AP,neu,39.287908,1
+Appeal,neu,47.983508,1
+Apple,neu,64.992027,1
+April,neg,72.552184,1
+April,neg,69.11806,1
+April,pos,73.621458,3
+April,neg,81.373019,2
+April,neg,43.556682,1
+April,neu,69.954133,1
+April,neu,56.781883,1
+April,neg,79.498301,1
+April,neg,39.007237,1
+April,neg,65.656561,1
+April,neg,72.921933,1
+April,neg,51.072692,2
+Aqeela Tavakoli,pos,40.859401,2
+Arab,neg,40.436982,1
+Arab,neu,50.126849,3
+Arab,neu,51.311335,1
+Arab,pos,48.332214,1
+Arab,neu,72.91534,1
+Arab,neg,58.915104,1
+Arab,neg,61.269359,3
+Arab countries,pos,56.163883,1
+Arab countries,neg,55.81318,1
+Arab countries,neu,61.279683,2
+Arab countries,pos,37.39697,2
+Arab Higher Committee,neu,57.561087,1
+Arab League,neg,42.062507,4
+Arab nations,pos,58.039743,1
+Arab Religious Community,neu,57.046592,1
+Arab Spring,neu,48.265425,1
+Arab Spring,neg,74.303262,4
+Arab states,neg,51.863808,1
+Arabs,neg,51.543408,1
+Arctic Circle,neg,50.318027,2
+ARD,neg,73.192818,1
+Argentina,pos,48.857114,1
+Arhab,pos,59.004659,1
+Ari Harow,neu,83.986884,1
+Arkady Babchenko,pos,48.570371,3
+Arkahdy Babchenko,neg,71.929805,2
+Arusha,pos,62.799812,1
+Arwa Ibrahim,neg,52.687748,1
+Arwa Ibrahim,neu,41.134758,2
+Ashraf Ghani,neg,40.19587,6
+Ashraf Ghani,neu,90.792424,8
+Ashraf Ghani,neu,49.677794,6
+Ashraf Ghani,neg,62.628399,9
+Asia,neu,84.991203,1
+Asia,neu,74.184755,1
+Asia,pos,74.955923,2
+Asia Pacific,neu,44.131445,1
+Asia Pacific,pos,56.310587,1
+Asia Society,neu,65.472119,1
+Asian,neu,70.434169,1
+Asmara,neu,72.748378,2
+Assad government,neu,98.753896,11
+Assad regime,neu,91.707431,7
+assistant professor,pos,50.839608,1
+associate professor,neu,69.568378,1
+associate professor,neu,88.509333,1
+associate professor of law,pos,62.500233,1
+Associated Press,neu,59.138565,1
+Associated Press,neu,69.939864,2
+Associated Press,neg,46.429485,3
+Associated Press,neu,64.605173,1
+Associated Press,neu,85.848907,1
+Associated Press,neu,78.977852,1
+Association of Abductees,neu,40.247873,1
+Athens,pos,52.206637,1
+"Athens, Greece",neg,68.388911,1
+ATIB,neu,76.336794,1
+"Atlanta, Georgia",pos,60.171919,1
+Atlantic,neg,73.783541,2
+ATR Television Network,pos,47.088288,1
+ATS,neu,38.299983,1
+August,neu,80.276284,1
+Australia,neg,86.944974,10
+Australia,neu,68.462932,2
+Australia,neg,74.68819,3
+Australian,neg,73.766718,1
+Australian,neg,52.707578,2
+Australian,pos,48.750881,1
+Australians,neu,77.698442,1
+Austria,neu,68.137675,1
+Austria,neu,74.155491,8
+Austria,neg,53.679474,1
+Austria,neu,65.974591,1
+Austrian,pos,36.565101,2
+Austrian,neg,51.275199,2
+Austrian,neg,42.42358,2
+Austrian Islamic Faith Community,neg,65.674989,1
+Auxiliary bishop,neg,59.932698,1
+Auxiliary Territorial Service,neu,42.794672,1
+Ayder Muzhdabaev,neu,40.349608,1
+Aziza Al-Yousef,neu,68.421149,1
+BA,pos,50.330673,1
+Baakar,neu,74.282213,1
+Baakar,neu,80.43255,1
+Baakar,pos,51.58674,1
+Baakar,neu,54.878257,1
+Baakar,neg,51.302588,1
+Baakar,neg,85.977478,1
+"Badakhshan, Baghlan",neu,69.186163,1
+Badme,neg,43.628607,8
+Baghdad,neg,78.259944,3
+Baghdad,neg,50.122086,7
+Baghdad,neg,60.268237,2
+Baghdad,neg,95.938746,5
+Bahrain,pos,47.919647,1
+Bahrain,neu,62.162062,2
+Bakr al-Ubaidi,neu,60.771294,1
+Bali,neu,66.629766,1
+Balinese,neg,55.892539,1
+Baloch,neg,73.751866,1
+Bangladesh,pos,45.307325,2
+Bangladeshi,pos,49.374653,1
+Baraa Shiban,neg,54.796757,2
+Barack Obama,pos,56.685045,1
+Barack Obama,neg,43.271625,3
+Barcelona,pos,49.712562,1
+Barchi,neu,54.214207,1
+Bashar al-Assad,neu,41.536104,2
+Bashar al-Assad,neg,47.840165,1
+Bashar al-Assad,pos,46.479616,1
+Bashar al-Assad,neu,79.295473,1
+BBC,neu,77.148051,1
+BBC,neg,58.719223,1
+Beijing,neu,79.86377,2
+Beijing,neu,83.141303,1
+Beijing,pos,45.485944,1
+Beijing,pos,43.230295,3
+Beijing,neu,73.733277,1
+Beijing,neg,47.327883,4
+Beijing,pos,45.485944,1
+Beirut,neu,38.034348,1
+Beirut,neu,77.42261,2
+Belt and Road,neu,58.773179,1
+Bemba,neg,91.178907,9
+Bemba,neg,65.589341,2
+Ben Curtis,neu,43.540521,1
+Ben Winsor,neu,57.357773,3
+Benjamin Netanyahu,pos,53.3836,2
+Benoit Tessier,neg,41.641764,1
+Bering Strait,neu,72.853237,1
+Berlin,pos,42.674586,1
+Berlin,neu,91.823081,1
+Berlin Wall,neu,42.240631,1
+Berlin Werbefrei,neg,79.264145,18
+Bernard Smith,neg,47.294075,2
+Bernie Sanders,pos,57.504753,1
+Big Diomede,neu,48.855666,4
+Big Diomede island,neu,79.097456,1
+Big Island,neg,60.04738,2
+Bill C,pos,77.997189,2
+Bill C-45,pos,73.283249,1
+Bill Cosby,neg,65.731959,3
+Binali Yildirim,neg,59.551634,10
+Binnish,pos,43.556409,1
+Birmingham,pos,48.71133,1
+bishop,neu,62.121431,1
+bishops,neu,70.5449,1
+bishops,pos,63.327305,1
+Bloomsbury,neg,50.232331,1
+Boddin,pos,84.55401,5
+Bolivia,neu,65.431344,1
+BP,neu,51.418678,1
+Bradford,neg,45.274837,1
+Brazil,pos,43.066752,2
+Brendan McDermid,neu,77.178371,1
+Brink,pos,55.920017,1
+Britain,pos,48.554601,1
+Britain,neu,79.823965,1
+Britain,neg,52.914883,1
+Britain,neu,44.873775,2
+Britain,neu,38.824418,1
+Britain,neu,42.99614,1
+Britain,neg,52.704076,1
+British,neg,58.381823,11
+British,neu,40.827519,3
+British,pos,45.664186,1
+British,neu,75.213742,1
+British army,pos,53.746756,3
+British colonial,neu,88.992748,1
+British military,neu,78.393488,1
+Brookings Institution,neu,79.332504,1
+Bucharest,neu,56.15583,1
+Bulgarian,neg,41.413591,1
+Burke,pos,47.32602,2
+Burundi,neg,36.362623,4
+Burundi,neg,95.996589,6
+Burundi,neg,66.906759,1
+Busan,neu,90.616913,1
+Bush administration,neg,38.790675,2
+cabinet,pos,65.986033,1
+cabinet,neg,45.166342,1
+Cafe Olimpico,neu,61.39305,1
+Cairo,pos,55.795682,1
+Cairo,neu,71.541184,1
+California,neg,52.231375,1
+Calvin Chua,pos,77.740615,9
+Cambodia,neu,51.396155,1
+Canada,neg,58.335168,4
+Canada,pos,52.047964,12
+Canada,pos,61.058604,3
+Canada,neu,79.83305,2
+Canada,neg,64.758179,3
+Canada,pos,47.462688,1
+Canada,neg,41.795521,2
+Canada,neg,73.642345,5
+Canada,neu,72.304642,1
+Canada,neg,68.363164,3
+Canada,neu,63.255817,1
+Canada,neg,58.115986,2
+Canada,neg,57.30272,8
+Canada,neg,71.876485,3
+Canada,neg,52.081491,5
+Canada,neg,53.587632,1
+Canadian,neg,56.618321,1
+Canadian,pos,57.153721,2
+Canadian,pos,52.680526,1
+Canadian,neu,38.219984,2
+Canadian,neg,48.389283,2
+Canadian,pos,69.085733,1
+Canadian,pos,67.509657,1
+Canadian,neg,37.52891,3
+Canadian,neg,43.583379,1
+Canadian,neg,51.275686,2
+Canadian Global Affairs Institute,pos,53.008874,1
+Canadian ministry of finance,neu,42.367995,1
+Canadians,pos,58.990391,1
+Canadians,neu,73.942364,1
+Canadians,pos,51.504559,1
+Capella Hotel,pos,74.953079,1
+Capella Hotel,neu,42.798489,1
+Capella hotel,neu,51.118731,1
+Capella Hotel,neu,74.742518,1
+Caribbean,neg,70.087676,1
+Carlos Jasso,neu,68.185234,1
+Catholic,neu,40.358701,1
+Catholic,pos,66.189698,1
+Catholic University of America,neu,82.787924,1
+Caty,neg,95.545936,19
+CCTV,neu,75.985214,1
+Cecilia Baeza,neu,73.770147,1
+Cem Ozdel,neu,68.566145,1
+Center for Economic and Policy Research,neg,83.413575,1
+Central African Republic,neg,68.894382,2
+Central America,neu,56.869225,1
+Central Asia,neg,58.585233,1
+Central Asia,neg,54.057621,1
+Central Asia,neu,80.029283,1
+Central Asian,pos,47.937189,1
+Central Asian,neu,58.036274,1
+central Bank of Korea,neu,59.278555,1
+Central Highlands,neu,79.910422,1
+CEO,neg,47.674009,1
+Chabahar,neg,69.396783,3
+Chairman,neu,57.557334,1
+chairman,neu,72.757148,1
+chairman,neu,47.347392,1
+Chairman,pos,69.864668,1
+Chairman,pos,52.114914,1
+Chancellor,neu,42.610494,1
+Chancellor,neg,47.938883,1
+Chancellor,neu,71.900062,1
+chancellor,pos,39.622213,1
+Chancellor,neu,59.126754,1
+chancellor,neu,88.039167,1
+Chancellor,pos,45.467801,1
+Chancellor,pos,43.408787,1
+Chancellor,neg,50.085989,1
+Changi Airport,neu,56.505039,1
+Changi Airport,neu,55.775207,1
+Channel 4,neu,87.227219,1
+Charles Hankla,pos,77.678968,8
+Charles Stratford,neg,77.344161,2
+Charles Taylor,neg,48.524846,1
+Charlevoix,neu,39.668768,1
+Chennai,neu,76.734349,1
+Chicago,pos,48.594212,3
+chief,neu,77.283472,1
+chief,neu,34.114723,1
+chief,neu,81.869842,1
+chief justice,neg,52.240985,1
+Chief of Staff,neg,56.333383,1
+chief of staff,neu,76.506111,1
+chief of staff,neu,73.300692,1
+Chief of Staff,neu,85.588349,1
+chief spokesperson,neu,72.675697,1
+Chile,neg,45.61236,2
+Chile,neg,61.087066,1
+China,neu,98.557825,27
+China,neg,69.630226,4
+China,pos,71.791358,2
+China,neu,87.440269,4
+China,neg,54.184205,5
+China,neu,75.366782,6
+China,pos,48.742348,2
+China,neg,50.352387,4
+China,pos,48.123179,1
+China,neu,59.037044,1
+China,neg,54.346479,3
+China,neu,66.080296,6
+China,pos,44.964241,1
+China,neu,56.637409,1
+China Development Bank,neu,64.33771,1
+China in Africa,neg,63.547089,1
+Chinandega,neu,84.890884,1
+Chinese,neg,61.151225,6
+Chinese,pos,68.184667,1
+Chinese,neu,68.312589,1
+Chinese,neg,48.825948,2
+Chinese,neg,49.595332,1
+Chinese,neu,84.639363,1
+Chinese,pos,57.516109,2
+Chinese,pos,43.342162,2
+Chinese,neg,51.975659,1
+Chinese,pos,40.507047,2
+Chinese Foreign Ministry,neu,40.495536,1
+Choson,neu,65.470043,1
+Choson Exchange,neg,44.5002,2
+Choson Exchange - Choson,neu,44.278762,1
+Chosun Exchange,neu,46.921295,1
+Christianity,pos,65.791031,1
+Christine Van den Wijngaert,neg,77.282159,8
+Christoph Vogt,neg,70.501175,2
+Christophe Rogier,neu,73.765539,1
+Chrystia Freeland,neu,63.536397,1
+Chrystia Freeland,neu,63.536397,1
+Chrystia Freeland,neg,55.711356,2
+CIA,neg,54.1084,1
+CIA,neg,42.060221,1
+CIA,pos,41.277624,1
+CITIC Group,neu,79.118715,1
+City,neu,72.519217,1
+Civil Defence,neu,80.141874,1
+Civil Defence White Helmets,neu,73.538047,1
+Claire Gilbody-Dickerson,neg,49.027887,1
+Clean City Law,neu,66.093063,1
+Clinton administration,neg,51.398681,2
+CNDD-FDD,neu,78.052948,1
+CNN,pos,48.082729,1
+CNN,neu,75.603886,1
+CNPC,pos,50.736312,1
+Coalition Against Workplace Sexual Violence,pos,81.798364,2
+Coastal,neg,73.400938,1
+Col,pos,61.477451,1
+Colin Robertson,pos,48.142033,1
+Colombia,neu,74.906678,2
+Colonel,neu,72.124156,1
+Colorado Party,pos,61.320692,1
+Columbia Law School,neu,46.976395,3
+commander,pos,54.646841,1
+commander,neu,70.614403,1
+commander,neu,80.218144,1
+commander,neg,70.698379,1
+commander,pos,43.738966,1
+commander,neu,87.297345,1
+commanders,neg,59.215465,1
+commanders,neu,78.985368,1
+commanders,neu,42.028552,1
+Committee for Human Rights in North Korea,pos,58.477453,1
+Committee to Protect Journalists,neg,40.349943,1
+Congo,neg,78.505635,1
+Congolese,pos,41.070915,2
+Congolese,pos,50.543793,1
+Congolese,neg,62.031235,1
+Congress,neu,40.590898,1
+CONIFA,neu,42.055711,2
+CONRED,neg,60.269459,2
+"Corpus Christi, Texas",neg,48.173592,1
+Corpus Christis,neg,59.256683,1
+Cosby,neu,68.046173,1
+"Costa Rica, Ecuador",neu,64.720449,1
+Couscous,pos,71.38489,4
+couscous,neu,73.585269,1
+Crimea,neg,48.624619,1
+Crimea,neg,53.500767,1
+Crimea,neu,68.019189,1
+Croatia,neu,82.508224,1
+Crown Prince,neu,79.757842,1
+Crown Prince,neu,70.857172,1
+crown prince,pos,50.323132,1
+Crown Prince,neu,70.857172,1
+Crown Prince,neg,58.556058,1
+Crusades,neg,54.368633,1
+Cuban,neg,72.808923,1
+Culture Minister,neu,81.748075,1
+CUNY School of Law,neg,67.006108,2
+Cyril Ramaphosa,neg,63.94161,1
+Damascus,pos,49.173593,1
+Damascus,neu,95.409655,4
+Damascus,neu,86.734879,2
+Damir Sagolj,neu,74.862047,1
+Dania Ahmed,neg,39.458932,2
+Daniel Ortega,neg,58.128972,6
+Daniel Ortega,neg,70.563965,7
+Daniel Sonnentag,pos,60.245431,1
+Daoud Kuttab,neg,87.34435,4
+David Goldblatt,neu,94.620897,9
+David Melgar,neg,94.735739,10
+David Mercer,neg,63.589758,2
+David Mercer,neu,76.359916,1
+David Ovalle,neg,53.405698,1
+De Agostini,neg,52.974234,1
+De Re Militari,neg,47.718071,1
+DEA,neg,65.607681,1
+Debbie Hill,pos,48.715416,1
+December,pos,48.57597,1
+December,neu,50.438593,2
+December,pos,63.655685,2
+defence expert,neu,54.090533,1
+defence ministry,neg,56.687279,1
+Deir Yassin,neg,67.682591,1
+Democratic Republic of Congo,neg,70.731196,2
+Democratic Republic of Congo,neu,64.051615,2
+Democratic Republic of the Congo,neg,46.404187,5
+Denni,pos,38.817948,1
+deputy assistant,pos,69.551934,1
+deputy director general,pos,48.451391,1
+deputy editor,pos,40.900545,1
+deputy mission director,pos,49.389572,1
+deputy news editor,pos,58.780639,1
+deputy president,neg,42.264371,1
+deputy press secretary,pos,52.319207,1
+deputy prime minister,pos,39.131209,1
+Deraa,neg,63.147917,2
+"Derna, Libya",neu,84.730742,2
+Detroit,neg,52.677274,1
+Diane Eastabrook,pos,51.44335,1
+Dieu du Ciel,neu,79.315751,1
+Director,neu,46.86673,1
+director,neu,57.48523,1
+director,neg,65.391317,1
+director,neu,57.255413,1
+director,neg,56.866441,1
+director,neg,42.106174,1
+director,neg,58.032398,1
+Director,neu,41.734036,1
+director of Refugio de la,pos,48.004745,1
+Djibouti,neg,61.12344,1
+doctor,pos,60.708151,1
+doctor,neu,71.884488,1
+doctor,neu,60.495744,1
+doctor,neg,60.835834,1
+Doha,neg,76.778717,1
+Dominic Kane,neu,41.908107,2
+Dominic Thiem,pos,42.195765,4
+Dominican Republic,neg,71.417462,1
+Donald Abelson,neg,53.471199,6
+Donald J. Trump,neg,62.783014,10
+Donald Trump,neg,78.941082,2
+Donald Trump,neg,82.742323,9
+Donald Trump,neu,54.889878,1
+Donald Trump,neu,74.831903,1
+Donald Trump,neu,88.913773,13
+Donald Trump,neg,80.010467,3
+Donald Trump,pos,62.36301,2
+Donald Trump,pos,68.69536,2
+Donald Trump,neg,48.935352,2
+Donald Trump,neg,47.364981,4
+Donald Trump,neu,40.106206,3
+Donald Trump,neu,40.18115,1
+Donald Trump,pos,50.841245,3
+Donald Trump,neg,49.587272,4
+Donald Trump,pos,50.157653,1
+Donald Trump,neu,57.78163,1
+Donald Trump,neu,54.90795,1
+Donald Trump,neu,51.47463,1
+Donald Trump,neg,57.906768,1
+Donald Trump,neg,93.642822,13
+Donald Trump,pos,70.217364,1
+Donald Trump,pos,62.695284,6
+Donald Trump,neg,70.864992,3
+Donald Trump,neu,62.870307,1
+Donald Trump,pos,61.802223,5
+Donald Trump,neg,51.391559,3
+Donald Trump,pos,47.554955,2
+Donald Trump,neg,44.987261,5
+Donald Trump,pos,68.623308,4
+Donald Trump,pos,74.508654,2
+Donald Trump,neg,58.363273,3
+Donald Trump,neg,49.073491,1
+Donald Trump,neg,70.123317,3
+Donald Trump,neg,84.06904,7
+Donald Trump,neg,92.142756,19
+DPA,neg,59.187962,1
+DRC,neg,82.014515,3
+DRC,neu,94.305417,2
+Durban,neg,40.850933,2
+Durban High Court,neu,79.180031,2
+Dutch,neu,70.1302,1
+Dutch,neu,70.1302,1
+Dutch,neu,70.1302,1
+Dutch,neu,70.1302,1
+Dutch,neu,70.1302,1
+Dwight Eisenhower,neg,41.473909,1
+Earth,neu,49.829316,1
+East,neg,41.16035,1
+East,pos,74.867703,1
+East,neu,75.350098,1
+East,pos,74.867703,1
+East,pos,74.867703,1
+East,pos,74.867703,1
+East,pos,74.867703,1
+East Jerusalem,neu,59.203899,1
+East Side Gallery,neu,70.899295,1
+EBBC,pos,53.764828,1
+Economist,neg,43.075263,1
+Ecuador,neg,51.98148,1
+Edgar Su,neg,37.049951,1
+education minister,pos,52.542659,1
+Education Minister,neg,47.175794,1
+Edwin Bravo,neg,78.094351,2
+EEBC,neg,58.918327,3
+EFE,pos,59.198489,1
+EFE,neg,46.949007,1
+Efrain Rios Montt,neg,43.796607,2
+Efrain Suarez,neu,69.003937,1
+Egypt,pos,50.933529,1
+Egypt,neu,65.548231,1
+Egypt,neu,52.0464,1
+Egypt,neg,78.762482,10
+Egypt,pos,50.756302,1
+Egypt,neg,51.606881,1
+Egypt,neu,64.93539,1
+Egypt,pos,48.009637,2
+Egypt,neu,66.447121,1
+Egyptian,pos,68.185167,2
+Eid al-Fitr,neu,75.518995,1
+eight minutes,neg,61.155946,1
+eight months,pos,62.377577,1
+Eight-year,neg,45.15522,1
+El Porvenir,pos,50.456003,4
+El Rodeo,neg,60.68937,1
+El Salvador,neu,68.228849,1
+El Trumpo,pos,50.441555,1
+elders,neg,68.230269,1
+elders,pos,40.573754,1
+Eleven years,neg,52.839178,1
+Elizabeth Puranam,neg,48.986466,1
+Elizabeth Puranam,pos,47.681735,1
+"Elizabeth, New Jersey",neg,67.507086,1
+Eman Al-Nafajan,pos,49.911994,1
+Emirati,neg,52.693486,2
+Emiratis,neu,64.815793,1
+Emmanuel Macron,neg,84.173765,1
+Emmanuel Macron,neu,61.732635,1
+Emmanuel Macron,neg,64.761698,2
+Emmanuel Macron,neg,66.269953,1
+Emmerson Mnangagwa,neu,67.075879,1
+English,neu,88.218312,1
+Eni,neu,47.354147,1
+Environmental Protection Agency,neu,79.216733,1
+Environmental protesters,neu,38.868762,1
+envoy,pos,65.906469,1
+envoy,pos,57.384876,1
+EPA,pos,59.809745,1
+EPA,neg,41.841963,1
+EPA,neg,43.449085,1
+EPA,pos,44.819469,2
+EPA,neg,58.851149,1
+"Equatorial Guinea, Gabon",pos,47.320598,1
+Erick Rivas,neg,93.13277,2
+Eritrea,neg,70.72584,21
+Eritrean,neg,84.751353,5
+Eritreans,neg,68.280713,2
+Escuintla,neu,49.109871,1
+Escuintla,neu,42.33919,1
+"Escuintla, Guatemala",pos,55.766129,1
+"Escuintla, Guatemala",neu,46.038122,1
+Esmeralda Lopez,pos,48.041687,1
+Ethan Gutmann,neg,75.845983,1
+Ethiopia,neu,49.830977,22
+Ethiopia,pos,55.6856,2
+Ethiopia Boundary Commission,pos,48.971677,1
+Ethiopian,neu,66.276858,7
+Ethiopians,neg,71.114167,2
+EU,neg,69.563508,1
+EU,neg,51.188004,4
+EU,neg,63.545172,3
+EU,neu,43.349483,1
+EU,neu,87.83156,2
+EU,neu,64.251463,1
+EU,neg,59.197287,2
+EU,neg,40.638249,1
+Eugene Tan,pos,50.946608,1
+Euphrates,neu,63.775906,2
+Euphrates,neu,67.637964,1
+Euphrates river,neu,71.91383,1
+Eurasian,neu,85.704007,1
+Europe,neu,82.225324,1
+Europe,neg,77.405034,1
+Europe,neg,55.391439,1
+Europe,neu,67.515194,1
+Europe,neu,63.236082,1
+Europe,neg,64.237343,2
+Europe,neu,82.914217,3
+Europe,pos,51.87797,1
+Europe,pos,41.105024,1
+Europe,pos,47.519948,1
+Europe,pos,54.662162,1
+Europe,neg,63.823454,1
+European,neg,57.094726,2
+European,pos,53.755282,1
+European,neu,91.081522,2
+European,pos,50.013534,1
+European,neu,83.064002,1
+European,pos,51.81498,1
+European,neu,79.280279,1
+European,neu,43.95002,1
+European,pos,66.836996,1
+European,neu,70.395642,1
+European,neg,51.122775,1
+European Commission,neu,62.174453,2
+European Commission,neg,61.916998,1
+European Union,pos,44.241887,1
+European Union,pos,50.294824,1
+European Union,neu,89.573134,1
+European Union,neu,58.559478,1
+European Union,neu,59.700357,1
+European Union,pos,56.716863,1
+European Union,neu,73.600266,1
+European Union,neg,48.198141,2
+European Union,neg,48.205225,1
+Europeans,neu,74.204697,1
+Evart,neg,82.233292,1
+Evrard Ngendakumana,neg,59.192019,1
+executive director,neu,61.077489,1
+ExxonMobil,neu,50.921375,1
+Facebook,neu,54.109756,1
+Fadi el-Ghazi,pos,45.939223,1
+Fahad Khitan,neu,67.78686,2
+Fairmount,pos,58.185607,1
+Fairmount Street,pos,53.239818,1
+False alarm,neg,57.525568,1
+Far,neg,69.098646,1
+Farah,neu,73.51521,2
+Farouk Baakar,neg,99.527306,19
+FAROUK BAAKAR,neg,70.71643,1
+Faryab,neu,63.468265,1
+Fatah,neu,65.819234,2
+Fatih al-Salaam,neg,54.815625,3
+Fatih Yildiz,neg,45.480792,5
+February,pos,46.076403,1
+February,neu,74.21483,1
+February,neu,85.195851,1
+February,pos,52.810034,1
+February,neu,79.255378,1
+February,pos,45.832705,1
+February,neg,50.844107,1
+February,neu,41.959766,1
+Felix Tshisekedi,pos,55.969583,2
+Fernand Pouillon,neu,70.537446,1
+Fethullah Gulen,pos,42.466753,1
+FIFA,pos,61.659709,7
+Fifth Brigade,neg,85.178284,1
+fifth day,neu,38.733945,1
+Film producer,neg,59.629245,1
+Financial Tribune,neu,69.928059,1
+first four months,neg,74.827067,1
+five months,neu,69.526505,1
+five weeks,neu,85.074652,1
+five years,neu,36.99713,1
+Five years,neu,59.697818,1
+five years,neu,64.450711,1
+five years,pos,56.690329,1
+five years,neu,64.533628,1
+five-mile,pos,40.277031,1
+five-minute,neg,37.632005,1
+five-year,neg,50.828756,1
+five-year,pos,40.322341,1
+five-year,neu,57.027345,1
+five-year,neg,76.891098,1
+five-year,neg,56.305738,1
+Flightradar24,neg,57.40149,1
+Flint,neg,98.872059,9
+Flint River,pos,45.761828,1
+"Flint, Michigan",neg,99.46159,11
+Flints,neg,58.280069,1
+Florence Looi,neu,59.659674,2
+Florence Looi,pos,68.236446,2
+Florence Looi,pos,45.73364,1
+For the moment,pos,56.43861,1
+Forbes,neu,82.087504,1
+Ford,neu,69.835287,1
+Foreign Minister,neu,75.34909,1
+Foreign Minister,neu,70.295373,1
+Foreign Minister,neu,64.691718,1
+Foreign minister,neg,42.618475,1
+Foreign Minister,neu,74.729679,1
+Foreign Minister,neu,64.691718,1
+foreign minister,neu,37.039489,1
+Foreign Minister,pos,40.444059,1
+Foreign Minister,neu,69.3217,1
+Foreign Minister,pos,64.528828,1
+foreign ministry,pos,43.697291,1
+foreign ministry,neu,71.622989,1
+foreign ministry,pos,37.889822,1
+foreign ministry,neu,67.28685,1
+foreign ministry,neu,60.424507,1
+foreign ministry,pos,40.940102,1
+Formula One,neu,73.063508,1
+Fort Siloso,pos,69.69485,1
+forty days,pos,50.683277,1
+Foua,neg,43.728801,2
+four days,neu,67.12087,1
+four decades,neg,62.508128,2
+four decades,neg,73.76044,1
+four hours,pos,41.964782,1
+four months,neg,56.565041,1
+four years,neg,75.649185,2
+four years,neg,52.979987,1
+four years,neg,75.252389,1
+four-year,neg,51.279529,1
+four-year,neu,46.489395,1
+Fox,neu,85.587513,1
+Fox News,pos,39.80967,1
+France,pos,56.845043,1
+France,neu,56.278252,2
+France,pos,71.192125,1
+France,neu,82.954106,1
+France,neu,77.967065,1
+France,pos,64.081904,1
+France,neu,64.256661,1
+France,neg,56.180434,1
+France,neg,44.089341,3
+France,neu,64.566931,1
+France,neg,45.005761,2
+France,neg,62.782202,3
+France,neu,44.971134,1
+Frances Sistook Ozenna,pos,70.23377,18
+Freedom,pos,52.308789,1
+Freedom Party,pos,47.179055,1
+French,neg,86.343747,1
+French,neu,77.003931,1
+French,neu,84.50984,2
+French,pos,43.944322,1
+French,neu,86.265137,1
+French,pos,55.156074,1
+French,neg,47.772539,1
+Fri Jun 08 2018,neu,59.869628,1
+Friday,neu,47.332253,1
+Friday,neg,57.159382,2
+Friday,neu,74.605792,1
+Friday,pos,42.051298,2
+Friday,pos,74.401806,2
+Friday,neg,43.456901,2
+Friday,neg,47.890567,1
+Friday,neg,65.023945,2
+Friday,neu,59.588103,1
+Friday,neu,65.785769,1
+Friday,neg,74.065688,2
+Friday,neg,52.314184,1
+Friday,neu,86.673998,1
+Friday,pos,48.051108,1
+Friday,neg,70.662494,1
+Fuego,neg,72.153805,5
+Fuego,neg,74.029609,1
+Fuego Emergency,neg,77.029676,1
+G7,neu,95.330661,12
+G7,pos,62.115463,3
+G7,neu,69.176566,7
+G7,pos,59.182762,3
+G7,neg,45.122929,3
+G7,neg,85.462648,14
+G7,neu,70.562734,1
+G7,neg,60.125138,9
+G7,neu,66.219082,1
+G7,pos,65.254956,2
+G7,neg,65.625204,1
+G7,neg,61.099886,4
+G7,neg,57.395381,1
+G-7,neg,53.804306,1
+G8,pos,47.282486,2
+G8,neu,64.786173,1
+Galilee,neu,77.315131,1
+Galleria d'Arte Moderna,neu,65.938633,1
+"Galveston, Texas",pos,43.418395,1
+Gambia,neg,45.911487,2
+Gaza,neg,89.039793,4
+Gaza,neg,65.931532,1
+Gaza,neg,79.749916,15
+Gaza,neg,53.603488,1
+Gaza Strip,neg,42.358321,1
+Gaza Strip,neg,42.638529,2
+GCC,neu,97.392796,6
+GCC,neu,48.119225,1
+Gebran Bassil,neu,96.145939,2
+Gelani Farhad,neg,49.478367,2
+General,neg,45.737402,1
+General,neu,71.741998,1
+General,neg,48.421823,1
+General,neg,48.634815,1
+General,neu,79.436814,1
+General,neu,73.940875,1
+general manager,neg,64.770338,1
+Geneva,neu,71.500857,1
+Geneva,neg,59.502401,1
+Geoffrey See,neu,86.932875,1
+George H W Bush,neg,59.047163,1
+George Kennan,pos,48.39988,1
+Georgia State University,neu,92.087617,1
+German,neu,37.783119,1
+German,pos,35.806632,1
+German,neg,62.390215,1
+German,neu,64.801427,1
+German,pos,41.805092,1
+German,pos,39.238799,1
+German,neg,53.070495,2
+German Federal Government,neg,39.668159,1
+German Federal Government,pos,45.70957,1
+Germany,neg,44.046211,2
+Germany,pos,49.249709,1
+Germany,neu,59.871677,1
+Germany,neu,63.068806,1
+Germany,pos,34.586443,2
+Germany,neu,68.904418,1
+Germany,neu,84.46435,1
+Germany,neg,66.678254,3
+Germany,neg,47.383459,1
+Germany,neu,46.83689,1
+Gernot Blumel,neu,76.522498,2
+Getty Images,neg,44.77519,1
+Ghadi al-Khoury,neg,44.262184,2
+Ghana,neu,70.94884,1
+Ghardaia,neu,81.623779,1
+Ghazni,neu,65.441052,1
+Gina Benevento,neu,74.356407,1
+Ginette Petitpas Taylor,neu,83.460451,2
+Gitega,neu,68.34773,1
+Giuseppe Conte,neu,72.530311,1
+"Glen Norah, Harare",neg,39.655018,1
+Global Times,neu,83.02879,1
+God,pos,55.290293,1
+God,neu,70.843481,1
+God,neu,75.71923,1
+Golan Heights,neg,81.952231,1
+Goldblatt's,neu,58.177581,2
+Goldman Environmental Prize,pos,58.984931,1
+Gouri Sharma,pos,38.105486,3
+Gouri Sharma,neu,77.116466,1
+governor,neu,91.332894,1
+Graham Ong-Webb,neu,52.018045,1
+Greece,neg,81.333338,6
+Greek,neg,84.180068,3
+Greek,pos,36.249721,1
+Green,neu,75.955412,1
+Greensboro,neu,35.818025,1
+Greg Scarlatoiu,neg,56.761757,1
+Gregorio Borgia,neu,74.220802,1
+Grenoble,neu,58.879529,1
+Gross Domestic Product,neg,49.042632,1
+Group,neu,74.882722,1
+Group of Seven,pos,52.038026,3
+Group of Seven,neg,54.742902,7
+Guatemala,neg,89.138466,1
+Guatemala,pos,58.444433,6
+Guatemala,neg,55.708498,6
+Guatemala,neg,97.636707,10
+Guatemala,neu,70.705442,2
+Guatemala,neg,66.495654,3
+Guatemala,pos,65.632096,1
+Guatemala City,neg,73.991152,1
+Guatemala City,neu,54.005602,1
+Guatemalan,pos,54.184817,5
+Guatemalan,neg,64.366186,1
+Guatemalans,pos,48.537322,1
+Guatemalans,pos,49.189072,1
+Guggenheim Museum,neu,75.515381,1
+Guggenheim UBS MAP Global Art Initiative,pos,60.938512,1
+Gukurahundi,neg,68.129251,1
+Gulen,neu,34.671165,1
+Gulf,neu,77.387255,1
+Gulf,neg,53.56048,1
+Gulf,neg,83.206197,2
+Gulf,neg,51.665681,2
+Gulf,neu,59.603919,1
+Gulf,neu,84.015072,5
+Gulf Cooperation Council,neu,90.065843,1
+Gulf Cooperation Council,neg,42.987653,2
+Gulf Corporation Council,neg,69.46029,2
+Gulf nation,neg,60.093145,2
+Gulf nation,neg,43.550257,1
+Gulf States,pos,37.334192,1
+Gulsun Karamustafa,pos,46.032426,2
+Gustav,neu,38.262931,1
+Habitat loss,neg,51.608583,1
+Haid Haid,neg,48.660526,2
+Haider al-Abadi,pos,45.089417,1
+Haider al-Abadi,neu,89.095765,5
+Halima Aden,neu,93.855665,4
+Hamas,pos,73.106875,1
+Hamas,neg,88.890052,6
+Hamed Sarfarazi,pos,36.151688,1
+Hani al-Mulki,neu,41.862344,2
+Hani al-Mulki,neg,65.129574,2
+Hani al-Mulki,neu,58.528303,1
+Haru Mutasa,neu,88.482688,1
+Harvey,neg,66.669122,1
+Harvey Weinstein,neu,76.663875,28
+Hassan Rouhani,neg,56.559122,2
+Hassan Rouhani,pos,53.076362,1
+Hassan Rouhani,neg,49.935147,6
+Hawaii,neu,64.968364,2
+Hay'et Tahrir al-Sham,neu,72.456733,4
+Hazar Azzeh,neu,61.66911,1
+Health Minister,neu,69.359528,1
+Heather Nauert,pos,49.956983,3
+Heiko Wimmen,neg,70.856154,3
+Heinz-Christian Strache,neg,52.438764,1
+Herat province,neg,55.529932,1
+Herbert Kickl,neg,41.852202,2
+Hezbollah,neg,42.163552,2
+Hilary Clinton,pos,72.72512,1
+Hirak,pos,53.57777,1
+Hispanic,neg,41.56906,1
+Holland,neg,42.435543,2
+Hollywood,pos,60.671129,1
+Hollywood,neg,37.60219,4
+Honduran,neg,54.706212,1
+Honduras,pos,66.564029,4
+Horacio Cartes,pos,54.311489,3
+Horn of Africa,neg,47.212181,1
+Hospital,neu,72.645278,1
+House,neu,78.034299,1
+House of Commons,pos,43.803114,2
+Houthi,neu,54.223402,1
+Houthis,neu,68.077099,8
+Houthis,neu,38.7143,2
+Houthis,neg,81.869744,4
+Houthis,neu,64.744683,3
+Houthis,neg,99.341006,11
+Houthi-Saleh,neu,59.71166,1
+HTS,neg,49.198112,1
+https://t.co/KOlJkm37Z3,neu,79.976408,1
+Hua Chunying,neg,63.884109,2
+Hua Liming,neg,81.565316,1
+Hudaida,neg,51.895778,3
+Hudaida,neg,57.881836,2
+Hudaida,neu,48.055469,6
+Human Rights Commission of Pakistan,neu,44.180571,1
+Human Rights Watch,neg,60.417503,1
+Human Rights Watch,neu,41.46778,1
+Human Rights Watch,neg,62.080504,1
+Human Rights Watch,neg,91.902285,6
+Hussam Abdallat,neg,41.221495,1
+Hussein,neg,59.860243,3
+Hyde Park Corner,neu,52.667563,1
+I don't know why,neg,68.959148,1
+Ian Collins,pos,57.288792,3
+IATA,neu,83.732636,1
+Ibrahim Kalin,pos,44.889224,2
+Icahn School of Medicine,pos,62.729768,1
+Ice Curtain,neg,48.597566,2
+Idlib province,neg,60.232039,5
+Idlib province,neu,88.025437,8
+Idlib province,neg,52.71963,3
+Iftar dinner,pos,54.703474,1
+Ike,neu,56.867216,1
+Ilisu,neg,74.686651,1
+Ilisu Dam,neg,87.801144,5
+Independent High Elections Commission,neg,41.031267,1
+Inderjeet Parmar,pos,50.695635,1
+India,neg,78.597123,2
+India,neg,49.175447,5
+India,pos,43.859236,1
+India,pos,43.859236,1
+India,pos,43.859236,1
+India,neg,43.197458,1
+India,neu,49.642952,1
+India,pos,43.859236,1
+India,pos,43.859236,1
+Indian,neu,79.229815,1
+Indian,neg,68.11165,1
+Indian,neu,78.133183,1
+Indian,pos,74.720965,1
+Indochina,neu,49.739402,1
+Indonesia,pos,56.303693,1
+Indonesia,neu,68.383593,1
+Institute of International Relations,neu,50.505038,1
+Interfax,neg,49.603966,1
+Interior Minister,neu,75.373397,1
+interior ministry,pos,50.092304,1
+interior ministry,neg,49.895212,1
+International Centre for the Study of Radicalisation,pos,69.462642,1
+International Committee of the Red Cross,neg,62.627557,6
+International Committee of the Red Cross,neg,69.90623,7
+International Criminal Court,neu,51.934055,9
+International Criminal Court,pos,40.596134,10
+International Criminal Court,neg,80.318836,6
+International Criminal Court,neg,56.403581,3
+International Criminal Court,neu,77.639897,1
+International Crisis Group,neg,63.310037,1
+International Energy Agency,neg,37.631683,2
+International Human Rights Clinic,neu,53.716418,1
+International Monetary Fund,neg,43.285783,1
+International Monetary Fund,neu,40.521642,3
+International Monetary Fund,neu,46.216276,7
+International Monetary Fund,neg,60.634503,2
+Ioana-Cristina Moldovan,neg,57.522406,1
+IQ,neg,45.675473,1
+Iran,neu,83.150711,1
+Iran,neg,93.969106,8
+Iran,neu,87.656644,31
+Iran,pos,57.149216,1
+Iran,neu,82.029422,1
+Iran,neg,74.443843,2
+Iran,neg,38.26206,1
+Iran,neg,61.658492,1
+Iran,neg,54.109708,1
+Iran,neu,49.073246,6
+Iran,neu,41.898005,5
+Iran,pos,52.80744,1
+Iran,pos,45.336393,2
+Iran,neu,47.976401,6
+Iran,neg,43.333836,3
+Iran,neg,61.523783,1
+Iran,neu,43.190638,2
+Iran,neg,61.857327,2
+Iran nuclear deal,neg,60.632613,1
+Iran nuclear deal,neg,43.397334,1
+Iran nuclear deal,neu,83.817264,2
+Iran nuclear deal,neg,59.858543,1
+Iran nuclear deal,neg,60.663999,1
+Iran nuclear deal,pos,44.901288,2
+Iran nuclear deal,neu,86.819463,2
+Iranian,neg,78.329699,6
+Iranian,neg,40.409906,2
+Iranian,neg,90.178156,2
+Iranian,neg,43.398324,1
+Iranian,neu,76.975374,1
+Iranian,pos,49.829159,1
+Iranian,neu,60.717036,5
+Iranian diaspora,neg,75.335504,4
+Iranian Ministry of Agriculture,neg,68.157405,1
+Iranian President,neu,78.128373,2
+Iranian President,neg,77.862244,3
+Iranian President,neg,44.165886,1
+Iranian president,neg,58.968951,2
+Iranians,neg,54.608506,2
+Iranians,pos,50.846133,1
+Iraq,neu,67.582176,1
+Iraq,neu,90.428899,1
+Iraq,neu,76.531855,1
+Iraq,neg,92.687722,10
+Iraq,neu,77.442968,21
+Iraq,neu,82.841527,1
+Iraq,neg,38.527159,1
+Iraq,neg,44.888124,2
+Iraq,neg,89.161037,6
+Iraqi,neu,46.599109,2
+Iraqi,neg,64.0624,2
+Iraqi,neu,79.688986,1
+Iraqi,neg,87.254925,2
+Iraqi,neg,49.97404,2
+Iraqi foreign ministry,neg,93.423425,2
+Iraqi government,pos,58.978237,2
+Iraqi parliament,neg,58.827123,1
+Iraqi sovereignty,neg,45.271841,2
+Iraqis,neg,68.217806,3
+Isaac,pos,56.842045,1
+Isaac Stone,neg,54.040523,1
+Isabel,neu,66.972986,1
+ISIL,neg,51.900011,9
+Islam,neg,49.291717,2
+Islam,neu,82.678517,8
+Islam,neg,41.304921,3
+Islam,neg,60.805121,1
+Islam,neu,62.505211,2
+Islamic,neg,62.947838,1
+Islamic,neu,68.721033,1
+Islamic,neg,60.51003,1
+Islamic,pos,55.274485,2
+Islamic,neg,62.947838,1
+Islamic,neu,62.477484,1
+Islamic Republic of Iran,neu,42.801885,4
+Islamic Revolutionary Guard Corps,neg,46.021283,1
+Islamic State,neg,39.873058,4
+Islamic State,neu,78.565625,4
+Islamic State,neu,94.911727,3
+Islamic State,neg,78.740676,3
+Islamic State of Iraq,neu,74.193915,4
+Islamic State of Iraq and Levant,neu,90.380996,3
+Israel,pos,85.485261,13
+Israel,neg,70.554351,11
+Israel,neg,64.317217,5
+Israel,neu,66.941673,1
+Israeli,neu,81.663409,1
+Israeli,neu,45.524623,1
+Israeli,neu,57.000603,3
+Israeli,neg,69.500347,5
+Israeli,neg,49.020348,6
+Israeli Defence Ministry,neg,48.344197,1
+Israeli forces,neg,68.810148,1
+Israeli forces,neu,52.655172,1
+Israeli foreign ministry,neu,60.034928,1
+Israeli military,pos,60.978933,2
+Israelis,neu,85.17038,1
+Israelis,neg,53.055051,1
+Israelis,neu,85.17038,1
+Israelis,neu,85.17038,1
+Israelis,neg,70.427092,1
+Israelis,neu,85.17038,1
+Israelis,neu,85.17038,1
+Istanbul,neg,46.805169,1
+Istanbul,neu,61.829924,1
+Istanbul,neg,45.428971,1
+Istanbul,neu,80.993373,1
+Istanbul,pos,58.750698,2
+Itai Dzamara,neg,49.16449,1
+Italian,neu,63.343771,1
+Italian,pos,61.097072,1
+Italian Prime Minister,pos,73.72832,1
+Italy,neu,63.34519,1
+Italy,neu,69.201589,1
+Italy,neg,69.365122,2
+Italy,neg,53.582452,1
+Italy,neu,44.774797,1
+Ivan,neu,63.228009,1
+Ivory Coast,neu,70.236936,1
+Jabhat Tahrir Souriya group (Syria Liberation Front,neu,85.477833,1
+Jabin,neg,56.378292,1
+Jackson,neu,70.785834,1
+Jacob - associate editor,neg,62.286599,1
+Jacob Kirkegaard,neu,61.967106,4
+Jacob Zuma,neu,84.263676,29
+Jaden Smith,pos,71.302035,1
+Jae C Hong,neu,78.308127,1
+Jaffa,neu,67.831172,3
+Jair Bolsonaro,neg,36.625146,1
+James Bays,neu,41.44743,2
+James Bays,pos,55.674698,1
+January,pos,52.960764,1
+January,neg,47.992693,1
+Japan,neg,54.581897,2
+Japan,neu,76.577467,1
+Japan,pos,51.966822,2
+Japan,neg,57.071373,2
+Japan,neu,55.812818,1
+Japan,neu,76.814368,1
+Japan,neg,51.297587,1
+Japan,neu,54.308495,1
+Japanese,neu,70.388595,1
+Japanese,pos,54.684472,1
+Japanese,neu,58.143926,1
+Japanese,neu,76.812315,1
+Jared Kushner,neg,89.756438,14
+Jawad Anani,pos,47.459344,6
+Jean-Claude Juncker,pos,60.64542,1
+Jean-Pierre Bemba,neg,50.95809,2
+Jean-Pierre Bemba,neg,61.910918,4
+Jean-Pierre Bemba,pos,55.808215,2
+Jeddah,neu,88.529034,1
+Jeff Cohen,pos,48.459994,2
+Jerusalem,pos,49.967069,1
+Jerusalem,pos,48.963298,4
+Jerusalem,pos,60.700278,7
+Jerusalem,neg,52.176473,2
+Jerusalem,neu,70.162253,1
+Jesco Denzel,neu,41.256743,1
+Jesco Denzel,pos,46.948198,1
+Jewish,neg,52.959336,3
+Jewish,neg,48.746478,1
+Jewish,neu,64.880148,1
+Jewish state,neu,90.669678,3
+Jews,neu,60.74745,5
+Jillian Kestler,pos,57.776217,1
+Jillian Kestler-D'Amours,neu,37.625427,2
+Jim Kossin,neg,42.03774,1
+Jimmy Carter,pos,68.722552,3
+Jimmy Morales,neg,78.997415,7
+Jinotega,neg,79.870225,3
+Jizan,neg,59.757953,2
+Jizan province,neu,62.069847,1
+Joana Hadjithomas,pos,51.204618,2
+Johannes P Christo,neu,59.649761,1
+Johannesburg,neu,81.070629,1
+John Bolton,neu,91.475575,1
+John Bolton,neg,50.376997,1
+John Foster Dulles,pos,44.944176,2
+John Hendren,neu,86.899967,2
+John Hendren,pos,46.057357,2
+John Hendren,pos,44.576042,3
+John Kelly,neu,90.742005,1
+John Tanzer,neu,62.268979,1
+Johnson,neu,61.406374,1
+Joint Communique,neg,48.974192,1
+Joint Comprehensive Plan of Action,pos,50.624372,6
+Jon Snow,neu,89.895518,1
+Jonathan Schienberg,neu,82.685838,1
+Jordan,neg,52.142287,2
+Jordan,pos,53.679491,2
+Jordan,neg,89.412502,10
+Jordan,neu,72.96786,16
+Jordan,pos,59.464431,1
+Jordan,pos,44.991373,2
+Jordan,neu,65.419861,1
+Jordan,neu,98.495553,21
+Jordan Land Forces Retired,neu,98.967178,12
+Jordan River,neu,69.571954,1
+Jordanian,neu,42.647728,2
+Jordanian,neg,47.045651,3
+Jordanian,pos,46.768771,1
+Jordanian,neu,56.89229,1
+Jordanian,neu,68.746638,5
+Jordanian parliament,neu,63.143461,1
+Jordan's parliament,pos,46.017185,1
+Jorge Cabrera,neu,70.930597,1
+Jose Cabezas,pos,44.265046,2
+Joseline Perez,neu,68.327792,1
+Joseline Xeron,neg,98.068827,10
+Joseph Kabila,neg,52.714103,1
+Joseph Kabila,neg,56.537306,2
+Journal of Climate,neg,52.42757,1
+journalist,neu,76.811337,1
+Juan Orlando Hernandez,neg,63.084633,4
+Jubaland,neg,67.164473,2
+Judaism,pos,58.450714,1
+judge,neg,51.292272,1
+judge,neg,48.883258,1
+Judge,neu,59.782688,1
+judge,neg,34.677219,1
+judge,pos,66.860375,1
+judge,neu,36.81148,1
+Julia Brodersen,neu,73.262824,1
+Julie Goldscheid,neg,64.048952,3
+July,neg,79.323937,2
+July,neu,72.57414,1
+July,neg,52.643609,1
+Justice and Development Party,neu,74.28857,2
+Justin Trudeau,neg,39.556075,4
+Justin Trudeau,neu,82.239094,1
+Justin Trudeau,pos,67.558931,3
+Justin Trudeau,neg,51.523591,5
+Justin Trudeau,neg,60.069495,1
+Justin Trudeau,pos,48.186877,2
+Justin Trudeau,neg,49.760932,1
+Justin Trudeau,neg,92.692255,12
+Kabila,neg,68.51522,2
+Kabul,neg,49.878317,3
+Kabul,neu,68.650667,1
+Kabul,neg,52.959129,2
+Kabul,neg,59.576553,1
+Kabul,neg,60.074183,2
+Kabul,pos,41.381567,2
+Kader Attia,pos,51.741156,4
+Kainat Soomro,neg,79.982133,16
+Kakuma camp,pos,89.460819,8
+Karla Altmayer,pos,56.812385,8
+Katanga,neu,85.35956,1
+Kayhan,neu,65.32374,1
+Kazakhstan,neu,76.91601,1
+Kazakhstan,pos,50.616764,1
+Kazakhstan,neg,46.522902,2
+Kazakhstan,neu,78.418856,1
+Kefraya,neg,40.079562,2
+Kennedy,neu,57.901227,1
+Kenya,pos,58.017584,5
+Kenyan,neg,63.244452,3
+Kenyan,neg,44.689924,2
+Kevin Lamarque,neu,56.534859,1
+Khadija Siddiqi,neg,83.638485,18
+Khaled Abdullah,neu,80.217382,1
+Khaled Sofar,neu,73.907892,1
+Khalid al-Mousily,pos,36.978451,1
+Khalid al-Mousily,neg,74.437686,1
+Khalifa Haftar,pos,53.078071,3
+Khalil Atieh,neu,80.694493,1
+Khalil Joreige,pos,57.379378,2
+Khalil Mazraawi,pos,45.545851,1
+Khan Younis,neu,60.407819,1
+Khartoum,pos,48.106462,3
+"Kiev, Ukraine",neg,81.838672,1
+Kilauea Volcano,neu,67.056219,3
+Kim Chang Son,pos,77.280104,6
+Kim Il-sung,pos,64.776746,2
+Kim Jong,neg,63.06982,2
+Kim Jong Il,neg,77.055118,11
+Kim Jong Un,pos,56.5541,1
+Kim Jong-un,pos,55.019487,1
+Kim Jong-un,pos,56.503022,1
+Kim Jong-un,neg,49.16804,3
+Kim Jong-un,pos,67.53791,1
+Kim Jong-un,neu,40.161484,1
+Kim Jong-un,neg,58.525769,1
+Kim Jong-un,pos,66.134754,1
+Kim Jong-un,neu,64.145296,2
+Kim Jong-un,neg,61.593196,7
+Kim Jong-un,pos,50.430237,2
+Kim Jong-un,pos,56.227342,10
+Kim Jong-un,neg,45.298974,4
+Kim Jong-un,pos,61.223151,1
+Kim Jong-un,pos,58.345647,2
+Kim Jong-un,pos,77.604528,11
+Kim Jong-un,pos,70.932719,1
+Kim Jong-un,pos,60.60881,2
+Kim Jong-un,neg,55.797398,2
+Kim Jong-un,neg,72.311695,13
+Kim Kyung-Hoon,neg,57.729383,1
+Kim Kyung-hoon,neu,66.255602,1
+Kim Yong-chol,neg,65.958228,9
+Kimberly Halkett,pos,49.25237,3
+Kimberly Sofia Gonzalez,neg,77.224188,3
+Kim-Trump,pos,49.514391,1
+king,pos,39.939221,1
+King,neu,72.183628,1
+king,pos,53.356406,1
+king,pos,48.85658,1
+king,pos,58.590828,1
+king,neg,37.403525,1
+king,neu,63.240502,1
+king,neu,48.000094,1
+king,neg,69.341869,1
+king,pos,39.416379,1
+king,pos,41.115501,1
+King,neu,83.206652,1
+king,neg,47.83971,1
+King,neu,64.370352,1
+King,neu,83.206652,1
+King,neu,76.182992,1
+king,neu,73.388067,1
+King,pos,67.262332,1
+King Abdullah,neg,57.25097,1
+King Abdullah,neg,48.168992,1
+King Abdullah,neg,46.831844,1
+King Hussein,neu,80.619111,1
+King Salman,neu,74.794658,1
+King Salman,neu,74.794658,1
+Kinshasa,pos,50.278668,1
+Kinshasa,neg,51.255956,1
+Koch,neg,67.01036,1
+Korea Resources Corporation,neu,73.999966,1
+Korean,pos,89.617478,8
+Korean,pos,75.955547,2
+Korean,pos,57.211635,1
+Korean Central News Agency,neu,56.304594,2
+Korean conflict,neg,50.837975,1
+Korean Kaesong Industrial Complex,neu,64.043481,1
+Korean Peninsula,neu,54.999529,2
+Korean Peninsula,pos,44.923876,1
+Korean Peninsula,neg,72.870347,4
+Korean Peninsula,pos,40.11738,2
+Korean Peninsula,pos,44.923876,1
+Koreas,pos,44.350308,3
+Koreas,pos,52.07323,1
+Koreas,pos,55.011485,1
+Kremlin,neu,51.188115,1
+Kremlin,neg,47.002685,1
+Kremlin,neu,80.098259,1
+Kremlin spokesman,neu,79.22271,2
+Kreuzberg,neg,56.625751,1
+Kristine Beckerle,neg,59.063668,3
+KRISTINE BECKERLE,neg,64.583192,1
+Krzysztof Pelc,pos,35.52792,4
+Kunduz,neg,51.019544,1
+Kurdish,neg,41.759371,1
+Kurdish,neg,51.20847,3
+Kurdish,neg,85.619358,1
+Kurdish,neu,61.233933,3
+Kurdish People's Protection Units,neg,59.439471,5
+Kurdish People's Protection Units,neu,77.387265,4
+Kurdish People's Protection Units,neu,37.789952,2
+Kurdish-controlled areas,neu,70.010389,1
+Kurdistan Regional Government,neu,85.683446,3
+Kurdistan Workers' Party,neu,53.537387,3
+Kurdistan Workers' Party,neg,56.761546,7
+Kurdistan Workers' Party,neg,50.721653,3
+Kurds,neu,66.405345,2
+Kuwait,neg,57.97437,11
+Kuwait,neu,64.448154,1
+Kuwait,neu,74.726058,1
+Kuwait City,neu,75.139748,1
+Kuwaiti,neg,60.881483,2
+Kyle Orton,neu,77.118285,1
+Kyrgyzstan,neu,47.341411,1
+Kyrgyzstan,pos,46.649204,1
+Kyrgyzstan,neu,81.946812,1
+La Khaima,neg,58.942607,6
+La Malbaie,neg,57.5517,1
+La Malbaie,neg,63.643356,2
+"La Malbaie, Quebec",pos,47.011446,1
+Lahore,neu,59.765509,1
+Lambert Mende,neu,77.405826,1
+Lamu County,neg,51.686384,1
+Landmark Trump,neg,58.063447,1
+Larry Kudlow,neg,51.488978,2
+Larry Kudlow,neg,50.19617,2
+Larry Nasser,neu,67.938257,2
+last April,neg,64.877637,1
+last December,neg,64.080946,1
+last July,pos,55.462664,1
+Last July,neu,60.75473,1
+last November,neg,43.918997,1
+last Saturday,neg,54.550975,1
+last September,neg,53.779758,1
+last Sunday,neg,79.978725,2
+Last Wednesday,pos,62.059265,1
+last Wednesday,pos,49.902954,1
+Latin America,neu,58.499527,1
+Latin America,neg,51.896032,6
+Latin America,neu,78.752579,1
+Latin America,pos,62.912271,1
+Latin American,pos,43.702753,7
+Lauren Carasik,neu,63.093934,2
+Lauren Carasik,neg,72.00267,1
+Laurent Gbagbo,pos,48.545636,1
+lawyer boyfriend,pos,52.564385,1
+Le Corbusier,neu,60.489191,1
+Lebanese,neg,61.43095,1
+Lebanese,neu,59.095842,1
+Lebanese,neg,60.614025,5
+Lebanese,neg,59.889533,1
+Lebanese Ministry of Foreign Affairs,neg,73.750319,1
+Lebanon,neu,82.688519,5
+Lebanon,neg,51.475866,1
+Lee,pos,62.354143,2
+Lee,pos,60.94309,1
+Lee Hsien Loong,neu,57.135757,1
+Lee Hsien Loong,pos,59.681117,2
+Lee Hsien Loong,pos,64.55529,3
+LeeAnne Walters,neg,70.06048,8
+Leo Correa,neu,42.347958,1
+Leonel Dubon,neg,49.784337,3
+Leonhard Foeger,neu,55.12385,1
+Levant,neu,74.800322,1
+Levant,neu,94.465637,1
+Levant,neu,90.572947,1
+Levant,neu,92.591771,1
+Levant,neu,81.665398,1
+Levant Institute for Strategic Affairs,neu,59.867537,1
+Liberals,neu,80.316685,1
+Libya,neu,69.773158,1
+Libya,pos,51.509244,1
+Libyan,pos,52.756053,1
+Libyan National Army,neu,69.646636,1
+Lida Abdul,neg,56.619798,1
+Lisa Abu Khaled,neu,66.861071,1
+Lisa Curtis,pos,67.917269,1
+Lise Grande,neu,39.026824,2
+Listening Post,neu,64.117886,1
+Little Diomede,neg,83.127996,11
+Little Zab,pos,44.595581,1
+Little Zab River,neg,37.285175,1
+Liwa al-Baqir,neu,59.542314,3
+Lizzie Porter,neg,56.094698,1
+Lizzie Porter,neg,56.225798,1
+London,neg,44.521619,5
+London,neu,65.279893,1
+London,neu,62.025094,1
+London,neu,75.279456,1
+"London, England",neu,93.308236,3
+Londoners,neg,67.524275,1
+Louisa Reynolds,neg,68.51268,3
+Louisa Reynolds,neg,57.050588,1
+Lucia Evans,pos,57.667182,1
+Lucy Nicholson,neg,40.569517,2
+Luis Echeverria,neu,49.449907,1
+Luis Soto,neu,40.740482,1
+Macron,pos,46.393297,1
+Macron,pos,58.183618,1
+Macron,neg,64.456874,1
+Macron,pos,61.401218,1
+Madagascar,neu,35.492179,6
+Madrid,neg,46.582621,1
+Magma,neg,48.405371,1
+Maha el-Wadia,neu,52.328003,3
+Mahmoud Hammad,neu,44.791148,5
+Mahnoz Aliyar,neg,80.203719,2
+Mahnoz Aliyar,pos,52.822066,6
+Maine,pos,47.433645,1
+Majed al-Ansari,neu,61.680689,1
+Major General,neu,67.346922,1
+Makhmur,neg,43.778756,1
+Malaysia,pos,57.34931,1
+Malcolm Turnbull,neg,48.742629,2
+Malet Street Gardens,neu,75.098146,1
+Malik Rashid,neg,69.066384,1
+Mamnoon Hussain,neu,81.121784,1
+Mamnoon Hussain,pos,68.558954,1
+managing director,neu,65.819951,1
+managing editor,neu,76.929149,1
+Managua,neg,53.623374,1
+Managua,neg,82.646132,5
+Manbij,neg,36.288699,1
+Manbij,neu,81.336704,4
+Manchester,pos,45.110558,1
+Mandsaur,neg,62.952193,1
+Mandsaur Farmers,neg,77.782139,1
+Manhattan,neu,72.79264,1
+Manhattan,neg,50.148657,2
+Manoto,pos,51.132786,1
+Mansur Mirovalev,neg,58.522014,1
+Manuel Teodoro,neg,43.527602,2
+Manus Island,neg,86.567254,13
+MAP,neu,70.484978,1
+Marah Natshe,neu,72.756256,12
+Margaret Court,neg,44.138774,2
+Mariana Sanchez,neg,75.71788,2
+Marib,neg,59.648375,2
+Marie-Claire Feghali,neu,67.188824,1
+Mark Galeotti,pos,45.578629,1
+Martin Griffiths,pos,58.847578,1
+Mary Nyiriak Maker,neu,67.374973,1
+Masikryong Ski Resort,pos,52.687873,1
+Massoud Hossaini,neg,42.747005,1
+"Matabeleland, Zimbabwe",neg,68.207395,1
+Mattia Tomba,pos,46.253796,1
+Mattia Tomba,neu,60.139357,1
+Mauritania,pos,73.227063,10
+Mauritanian,pos,47.881586,10
+Max Walker,neg,82.981512,5
+Mayaa al-Zahrani,neu,85.645201,4
+Mayaa al-Zahrani,pos,62.454223,1
+Mayor,neu,80.111358,1
+mayor,neg,37.097885,1
+Mazen Irsheid,neg,55.717153,2
+Mazen Irsheid,neg,43.098725,2
+Maziar Motamedi,neu,66.773882,2
+MBS,pos,53.787085,1
+McGill University,pos,40.137926,1
+Mecca,neu,40.140955,2
+Mecca,neg,54.473188,2
+Mediterranean,neg,39.945585,8
+Meenakshi,neu,59.016452,1
+Mekare,neg,50.26691,1
+Melissa Fleming,pos,47.350772,3
+Mende,neu,82.668103,1
+Mengistu Haile Mariam,pos,64.313167,1
+Mercado Oriental,pos,47.766962,1
+Mercedes Benz,neu,66.927874,2
+Mereana Hond,neu,57.629184,1
+Mereana Hond,neg,59.132717,2
+Mevlut Cavusoglu,neu,74.461068,5
+Mexican,neg,82.31235,1
+Mexico,neg,43.267241,2
+Mexico,neu,72.407489,1
+Mexico,neu,62.970979,1
+Mexico,neg,59.940872,1
+Mexico,neu,70.892294,1
+Mexico,neu,85.105945,2
+Mexico,neu,74.566406,1
+Mexico,neg,44.164688,1
+Michael Klimentyev,neg,42.659446,1
+Michael Kooren,neg,53.076447,1
+Michael Pembroke,pos,52.942191,1
+Michele Geraci,pos,54.156413,1
+Michigan,neg,76.861348,7
+Michigan,neu,81.758759,1
+Middle East,pos,64.084945,2
+Middle East,pos,70.762233,1
+Middle East,pos,41.238134,3
+Middle East,pos,43.706315,1
+Middle East,neg,57.418592,1
+Middle East,pos,82.04845,6
+Middle East,pos,40.937159,1
+Middle East,neg,61.619243,1
+Middle East,pos,56.8657,1
+Middle East,neu,70.239087,1
+Middle East,neg,65.379656,1
+"Middle East , Saudi Arabia",neg,49.938928,3
+"Middle East, Europe",neu,72.842268,1
+Middle Eastern,pos,49.930453,1
+Middle Eastern,pos,65.916045,3
+Mike Pence,neg,57.398996,1
+Mike Pompeo,neu,95.453405,1
+Mike Pompeo,pos,40.969852,1
+"Milan, Italy",pos,64.161471,3
+Mile End,pos,66.267475,2
+Mile End,pos,54.443733,1
+Military Veterans Association,pos,66.729868,1
+minister,neu,88.985415,1
+minister of state for foreign affairs,pos,52.96071,1
+ministers,neu,72.419669,1
+Ministry of Agriculture and Water Resources,neg,69.571659,1
+Ministry of Communications and Information,neg,48.877241,1
+Mirza Toma,pos,46.206108,4
+Mjabuliseni Madondo,neu,75.230506,1
+MLC,neg,36.579671,2
+Mo Salah,pos,68.844239,1
+Mogadishu,neg,69.804767,1
+Mohamed al-Bukhati,neu,62.210234,1
+Mohamed Ansari Fard,neg,91.69625,2
+Mohamed Ould Atigh,pos,54.681139,47
+Mohammed Abu al-Amin,neu,75.087347,1
+Mohammed al-Rabeei,neg,71.410883,1
+Mohammed bin Salman,neg,37.868329,2
+Mohammed bin Salman,neg,41.667598,3
+Mohammed bin Zayed Al Nahyan,neu,84.414126,2
+Mohammed bin Zayed Al Nahyan,neu,56.583749,1
+Mohammed bin Zayed Al Nahyan,neu,83.903181,1
+Mohammed Jamjoom,neu,89.136697,2
+Mohammed Saleh,neu,68.298187,1
+Moise Katumbi,neu,80.000291,8
+Moises Castillo,pos,58.207276,1
+Monash University's Australian Border Deaths Database,neu,47.4577,1
+Monday,neu,70.896157,1
+Monday,neu,84.429758,1
+Monday,neu,52.874738,1
+Monday,neg,64.49854,1
+Monday,neg,81.353954,1
+Monday,pos,69.130507,1
+Monday,pos,54.637992,1
+Monte Carlo,pos,54.232901,1
+Montreal - Canada,pos,66.517994,3
+"Montreal, Canada",neu,43.674826,2
+"Montreal, Canada",neg,88.245863,8
+Moon,neg,49.396244,2
+Moon Jae-in,neg,70.7787,1
+MORE FROM AL JAZEERA,neg,60.501317,1
+MORE FROM AL JAZEERA,neg,60.501317,1
+Moroccan,pos,64.663115,1
+Moscow,neu,76.844525,1
+Moscow,neg,54.306282,1
+Moscow,pos,62.579669,1
+Moscow,pos,53.18049,1
+Moscow,neg,61.667998,2
+Moscow,pos,53.95527,3
+Moscow,pos,55.722225,2
+Mostafa Azizi,neu,60.553824,1
+Mount Fuego,neg,46.185567,1
+Mr,neg,76.105434,1
+Mr,neu,70.816798,1
+Muhammad Mahmoud Jadallah,pos,67.974069,1
+Muhammed Ghurab,neg,92.626337,12
+Muharrem Ince,pos,60.236615,14
+Mukhtar Mai,neg,47.559162,6
+Muqtada al-Sadr,neg,49.7105,2
+Muqtada al-Sadr,pos,73.792173,2
+Murillo,neg,53.097714,1
+Musa al-Adwan,neu,75.395404,4
+Muslim,pos,53.47119,2
+Muslim,pos,62.194788,3
+Muslim,neg,47.49728,1
+Muslim,neg,54.237994,2
+Muslim,neg,48.910548,1
+Muslims,pos,67.828839,1
+Muslims,neu,73.004727,1
+Muslims,neg,78.086983,1
+Muslims,pos,56.318608,1
+Muslims,neu,92.54083,8
+Muslims,neu,78.225315,1
+Muslims,neu,73.724491,1
+Mustafa Yalcin,neu,57.032355,1
+Musun Kim,neg,38.104277,3
+Muzaffar Shah,neg,54.959678,5
+Myanmar,neg,51.551312,2
+Myanmar,neg,43.324344,14
+Myanmar,neu,55.29466,1
+M'zab Valley,neg,36.996461,2
+Nafez Adayess,neu,78.912191,2
+Nahed al-Ghool,neu,53.921954,1
+Nairobi,neg,48.215681,1
+Nanyang Technological University,neg,90.848643,3
+Narendra Modi,neu,70.971024,1
+Narendra Modi,pos,80.176679,1
+Nasiriya,neu,73.94861,1
+Nassar,pos,60.663186,3
+National Disaster Management Agency,neg,50.098609,1
+National Economic,neg,59.376264,1
+National Security Adviser,neu,92.113439,1
+National Security Adviser,pos,48.126271,1
+National Sexual Violence Resource Center,neu,69.780872,1
+National Women's Law Center,neg,54.516698,2
+Native American,neg,49.712149,1
+NATO,neg,40.515132,1
+NATO,pos,45.852204,1
+NATO,pos,57.673006,1
+Nauru,pos,57.151642,4
+Nazenin Ansari,neu,75.743184,1
+Nazi,pos,45.222232,1
+NCAR,neg,62.983544,1
+Nepalese,neu,81.382493,1
+Nestle,neg,75.536576,6
+Netanyahu,neu,82.32488,1
+Netherlands,neu,71.645517,1
+Netherlands,neu,76.000451,1
+Neutral Nations Supervisory Commission,neu,68.660007,1
+New Delhi,neu,73.937965,1
+New Republic,pos,42.621874,1
+New York,neu,65.476357,1
+New York,neu,65.470614,1
+New York,neu,75.241624,1
+New York,neu,70.572328,1
+New York City,neu,86.395946,2
+New York City - Shafiq,neg,39.366607,5
+New York Times,neg,67.328631,1
+New York Times building,pos,41.504683,2
+New Yorkers,neg,66.175415,2
+Nicaragua,pos,43.300251,3
+Nicaragua,neg,55.754395,5
+Nicaragua,neg,59.308742,1
+Nicaragua,neg,74.501698,4
+Nicaraguan,neg,47.255133,4
+Nicaraguan Center for Human Rights,neg,64.272576,1
+Nicaraguan Center for Human Rights (CENIDH,neg,69.114575,1
+Nidia Bautista,pos,64.920999,1
+Nigeria,neg,41.197352,3
+Nigerian,neg,49.323047,2
+Nike,neu,74.19445,1
+Niki Akhavan,neg,43.662996,1
+Nimr al-Nimr,neg,69.469077,2
+Nina Ognianova,pos,49.646146,1
+nine months,pos,47.392493,1
+nine years,neg,52.756315,1
+Ninez,neg,49.696729,1
+Nixon,neg,48.095725,1
+NOAA,neu,60.368736,1
+Nobel Prize,neg,61.204441,1
+Non-Proliferation Treaty,pos,53.772917,2
+Noof Abdulaziz,pos,42.848044,1
+Normalise,neu,82.519383,1
+North,neu,87.983404,11
+North,neg,55.951649,1
+North Africa,neg,58.118563,1
+North Africa,pos,71.593798,4
+North Africa,neu,63.440558,1
+North African,neu,80.130661,1
+North America,pos,45.530854,1
+North America Free Trade Agreement,neu,47.923608,1
+North Carolina,neu,52.991783,2
+North Korea,pos,41.279961,4
+North Korea,neu,71.729644,1
+North Korea,pos,47.66819,4
+North Korea,neu,97.593202,17
+North Korea,neg,91.7323,8
+North Korea,pos,53.980508,11
+North Korea,pos,60.934252,2
+North Korea,neg,51.548045,2
+North Korea,pos,40.143002,1
+North Korea,neg,49.550412,3
+North Korea,neg,64.322317,2
+North Korea,pos,53.382758,2
+North Korea,neu,56.172801,16
+North Korea,neu,58.052091,1
+North Korea,pos,51.868437,4
+North Korea,neg,53.827604,4
+North Korean,pos,60.826719,1
+North Korean,pos,49.334056,1
+North Korean,neg,69.263616,4
+North Korean,pos,62.315402,1
+North Korean,pos,50.783499,1
+North Korean,pos,75.006764,5
+North Korean,pos,62.578353,1
+North Korean,neg,52.421606,2
+North Korean,pos,64.630093,1
+North Korean,neg,59.721298,6
+North Korean,neg,89.118943,4
+North Korean,pos,69.608891,1
+North Korean,neg,76.433994,4
+North Korean,pos,72.401768,1
+North Korean,pos,65.418042,1
+North Korean,neu,50.804901,1
+North Korean,pos,62.483347,4
+North Koreans,pos,57.904124,1
+North Koreans,neg,63.801378,5
+North Koreans,neg,53.853007,1
+North Korea's nuclear weapons,pos,42.960783,1
+North Korea's nuclear weapons,pos,53.930999,1
+North Korea's nuclear weapons,pos,46.481968,1
+Northern Ireland,neg,58.929735,1
+North-South,neg,44.108877,1
+Nottingham University,neu,89.530466,1
+Nouakchott,pos,34.937894,1
+Nouf Abdelaziz al-Jerawi,neu,64.050914,1
+Nouf Abdulaziz al-Jerawi,neg,46.3237,7
+Nouf Abdulaziz al-Jerawi,pos,41.659715,1
+November,neu,62.159469,1
+Now 24,neg,48.38993,1
+Nuclear Non-Proliferation Treaty,neu,78.663846,1
+Nueva Guinea,neu,82.614995,1
+Obama administration,neg,67.739055,1
+October,neg,84.156974,1
+October,neu,81.460265,1
+Officers,neu,89.922004,1
+Oliver de Ros,neu,36.939074,1
+Olympic Team,neu,76.73525,1
+Oman,neu,64.904221,1
+Omar al-Razzaz,neu,63.678028,9
+Omar al-Razzaz,neu,98.646521,26
+Omar al-Razzaz,neg,47.945384,2
+Omar al-Shogre,neg,53.127019,1
+Omar Hashim,pos,60.358442,1
+Omar Salha,pos,57.881119,5
+Omar Sobhani,neu,54.669349,1
+one day,neu,52.644073,2
+one month,neu,75.04134,1
+one week,pos,47.05174,1
+One year,neg,68.874096,1
+one year,neu,62.139686,1
+one year,neg,46.43906,1
+one-day,pos,54.561245,1
+Organisation of African Unity,neg,46.811397,3
+Osama bin Laden,neu,45.002572,1
+Oswaldo Rivas,neg,48.889973,1
+Ottawa,pos,69.150631,1
+Ottawa,neu,72.34222,1
+Our Lives,pos,76.021779,3
+Pacific Partnership,neu,56.612537,1
+Pahlavi monarchy,neu,65.593281,1
+Pakistan,neg,82.233369,13
+Pakistan,neg,56.216907,1
+Pakistan,neu,84.78137,1
+Pakistan,neg,44.217533,1
+Pakistan,neu,65.127595,2
+Pakistan,neu,40.17886,1
+Pakistan,neu,81.042245,2
+Pakistan,neu,76.302266,4
+Pakistani,neg,58.741844,3
+Pakistani,neg,56.68396,1
+Pakistani,pos,75.552194,1
+Pakistani,neg,46.199893,1
+"Palang Khali, Bangladesh",neg,59.004802,11
+Palestine,neu,80.80612,13
+Palestine,neu,52.491598,2
+Palestine,neu,42.004842,2
+Palestine,neg,60.319886,1
+Palestine,neu,56.137227,1
+Palestinian,neu,69.480298,9
+Palestinian,neg,56.877423,5
+Palestinian,neu,54.621943,7
+Palestinian,neg,59.666628,2
+Palestinian,neu,47.871391,5
+Palestinian,neu,51.022792,1
+Palestinian authorities,pos,55.141534,2
+Palestinians,neg,79.521394,9
+Palestinians,neu,47.383904,1
+Palestinians,neu,83.96398,1
+Palestinians,pos,65.00253,4
+Palestinians,neu,83.96398,1
+Palestinians,neu,83.96398,1
+Palestinians,neu,83.96398,1
+Palestinians,neu,83.96398,1
+Panama,neu,86.8214,3
+Papua New Guinea,pos,43.241303,1
+Parachinar,pos,34.862924,2
+Paraguay,neg,46.681888,3
+Paraguayan,pos,44.401876,1
+Parc Ave,neg,37.120025,1
+Paris,neg,50.732966,1
+Paris,neg,73.843517,1
+parliament,neu,78.069628,1
+parliament,neg,49.220919,1
+parliament,neu,54.330143,1
+parliament,pos,49.066409,1
+parliament,neg,49.727327,4
+Party Congress,pos,54.328643,1
+Pasteur Institute of Madagascar,pos,39.46919,2
+pastor,neg,40.818246,1
+pastor,neu,57.789621,1
+Paul Brennan,neg,50.95546,1
+Paul Kagame,pos,81.503635,3
+Paul Kagame,neg,65.440334,2
+Paya Lebar Airbase,pos,50.529069,1
+Paya Lebar Airbase,pos,62.881443,1
+PCS,neu,79.380408,9
+peace envoy,neu,52.360593,1
+Pemex,neu,74.85181,1
+Pentagon,pos,49.302811,1
+People's Party,pos,53.187519,1
+Perence Shiri,pos,53.156769,1
+Peru,neg,64.535417,1
+Peter Dobbie,neu,50.935277,1
+Peter Navarro,neu,83.482998,1
+Peterson Institute for International Economics,pos,48.525851,1
+Pew Study,neg,54.522997,1
+Philip Landrigan,neg,58.952126,1
+Phillip Alston,pos,56.53149,5
+"Phoenix, Arizona",pos,57.717139,1
+physician,neu,56.604381,1
+pic.twitter.com/eGAS15j4uc,neu,80.5301,1
+pic.twitter.com/PhBPlkgsar,neu,77.669939,1
+pic.twitter.com/QL7g8FZCgA,neu,68.656362,1
+pic.twitter.com/rd8xvuDMGF,neu,73.702714,1
+pic.twitter.com/TLv1wr6xrW,neu,39.113769,1
+Pierre Nkurunziza,neg,87.977185,12
+Pietermaritzburg,neu,61.41833,1
+Playboy,pos,53.902645,1
+PM,neg,56.175911,1
+PM,neg,52.537781,1
+PM,neg,56.537354,1
+PNG,neu,58.772532,1
+Poor People's Campaign,neu,63.365182,1
+pope,neg,46.608419,1
+pope,pos,48.194553,1
+Pope Francis,neg,58.254876,9
+Port Harcourt,neu,71.147258,1
+Portuguese,neu,72.425175,1
+Poverty & Development,pos,46.096666,1
+Prague,pos,44.401411,1
+president,neu,67.608482,1
+President,neu,50.726879,1
+President,neu,77.239438,1
+president,neu,67.289692,1
+president,neu,66.619212,1
+President,neg,44.980136,1
+President,neg,67.010514,1
+President,pos,55.852314,1
+President,pos,65.600449,1
+president,pos,41.13597,1
+President,pos,46.895962,1
+President,pos,49.773745,1
+President,neu,73.976049,1
+president,neu,89.776378,1
+president,neg,69.955108,1
+President,neg,49.315818,1
+president,pos,65.255686,1
+president,neu,44.547223,1
+president,neg,55.929322,1
+President,neg,83.4623,1
+president,pos,47.633337,1
+president,neu,71.661738,1
+President,pos,54.593943,1
+President,neg,73.885938,1
+President,neg,66.720609,1
+President,neu,81.922406,1
+president,neu,48.174762,1
+President,neu,87.349931,1
+President,neg,62.670085,1
+president,neu,54.847879,1
+President,pos,78.219118,1
+President,neg,42.131702,1
+President,neu,65.504458,1
+President,pos,36.168316,1
+President,pos,56.095162,1
+president,neg,47.676095,1
+president,pos,45.410112,1
+president,neu,70.452168,1
+President,neu,56.426923,1
+president,neu,53.527867,1
+president,neu,81.498212,1
+President,neu,83.814683,1
+President,pos,71.389375,1
+president,pos,69.266324,1
+president,neu,73.265928,1
+President,pos,63.248519,1
+President,neu,68.513685,1
+President,pos,58.223847,1
+President,neu,68.496265,1
+President,pos,48.026538,1
+President,neg,42.868246,1
+president,neu,79.400025,1
+president,pos,38.712484,1
+President,neu,76.474434,1
+President,neu,66.798999,1
+President,neg,38.761144,1
+President,neg,54.968695,1
+President,neu,40.884711,1
+President,neg,38.417726,1
+President,neg,59.820796,1
+President,neg,52.204974,1
+President,neu,75.16961,1
+president,pos,48.699115,1
+President,pos,52.55929,1
+president,neu,80.661738,1
+President,neu,63.995267,1
+President,neg,54.939376,1
+President,pos,57.809378,1
+President,pos,52.443374,1
+president,neg,68.053103,1
+President,neu,62.778344,1
+president,neg,60.50293,1
+president,neg,56.921284,1
+president,neg,45.26785,1
+President,neg,52.601371,1
+President,neg,67.924818,1
+President,pos,44.348462,1
+president,neu,86.62218,1
+President,pos,44.776729,1
+president,neg,50.292336,1
+President,neu,83.428017,1
+President,pos,64.580716,1
+president,neu,45.105564,1
+President,pos,48.115495,1
+President,pos,51.078865,1
+President,pos,58.680381,1
+President,pos,45.839488,1
+President,pos,53.020417,1
+President,neu,78.090221,1
+President,neg,49.16243,1
+President,neu,88.925248,1
+President,pos,45.284995,1
+President,neg,56.094889,1
+President,neg,63.669259,1
+President,pos,47.666469,1
+President,neg,78.309234,1
+President,neu,71.970638,1
+President,neg,52.67901,1
+President,pos,61.998837,1
+president,neu,40.527218,1
+President,neg,56.720776,1
+President,neg,51.340707,1
+President,neg,71.99212,1
+President,pos,74.292492,1
+President,pos,58.220733,1
+President,pos,62.829934,1
+president,neu,56.152234,1
+President,neu,68.606784,1
+President,pos,58.033118,1
+President,neg,39.646807,1
+President,pos,51.025926,1
+President,pos,50.247924,1
+President,neg,60.303688,1
+President,neu,42.929349,1
+President,pos,59.766832,1
+President,pos,64.726775,1
+president,neg,58.174375,1
+President,pos,46.920718,1
+President,pos,45.750205,1
+President,pos,65.306333,1
+President,neg,42.052811,1
+President,neg,66.526896,1
+president,neu,53.108243,1
+President,pos,58.001984,1
+president,neu,55.908372,1
+President,pos,50.91878,1
+President,pos,71.309251,1
+President,neg,48.698616,1
+President,pos,56.32101,1
+President,neg,69.745867,1
+President,neg,60.714449,1
+President,neu,43.367083,1
+President,neu,53.716774,1
+President,pos,59.847115,1
+President,pos,56.192682,1
+president,neu,38.415152,1
+President,neg,61.71651,1
+President,pos,53.406846,1
+President,pos,47.133596,1
+president,neu,41.302746,1
+President,pos,59.216605,1
+president,pos,69.164215,1
+president,pos,50.282406,1
+President,pos,53.061166,1
+President Nkurunziza,neg,50.685616,6
+President Rouhani,pos,40.846499,7
+presidents,neg,72.683095,1
+presidents,neg,63.387505,1
+presidents,neg,66.484435,1
+Presiding judge,neg,60.206893,1
+Presiding judge,pos,57.500379,1
+Press Secretary,neu,86.059052,1
+Prime Minister,neg,50.805681,1
+prime minister,neu,56.366735,1
+Prime Minister,neu,57.987647,1
+prime minister,neu,64.852071,1
+prime minister,neg,47.83968,1
+prime minister,pos,47.799386,1
+Prime Minister,pos,65.932008,1
+Prime Minister,neu,41.302658,1
+prime minister,neg,60.153765,1
+Prime Minister,pos,50.398415,1
+Prime Minister,neu,76.78291,1
+Prime Minister,neg,41.094167,1
+Prime Minister,neu,57.640507,1
+prime minister,neg,49.633412,1
+Prime Minister,neg,56.149559,1
+prime minister,neg,49.180367,1
+prime minister,pos,52.358772,1
+prime minister,pos,59.875658,1
+prime minister,neu,71.854181,1
+Prime Minister,neu,35.526794,1
+prime minister,neu,92.142785,1
+prime minister,neu,42.499401,1
+prime minister,neg,51.833603,1
+prime minister,neg,50.849462,1
+prime minister,neg,40.242391,1
+Prime Minister,pos,49.513445,1
+Prime Minister,neu,43.073114,1
+Prime Minister,pos,67.236444,1
+Prime minister,neg,69.704621,1
+Prime Minister,neu,80.111563,1
+Prime Minister,neu,74.913449,1
+Prime Minister,pos,47.423997,1
+prime minister,neg,46.23868,1
+Prime Minister,neg,77.809984,1
+prime minister,neu,87.723469,1
+Prime Minister,neu,72.345446,1
+Prime Minister,pos,42.138825,1
+Prime Minister,neg,64.27644,1
+Prime Minister,neu,48.020386,1
+Prime Minister,neg,54.228267,1
+Prime Minister,pos,75.08006,1
+prime minister,pos,65.962017,1
+Prime Minister,neu,39.42591,1
+Prime Minister,pos,59.901328,1
+prime minister,neu,54.983399,1
+prime minister,pos,52.791285,1
+Prime Minister,neu,59.190056,1
+prime minister,pos,50.868154,1
+Prime Minister,neg,49.404003,1
+Prime Minister,neg,48.087957,1
+Prime Minister,neg,51.857622,1
+Prime Minister,pos,58.269773,1
+Prime Minister,pos,34.9405,1
+prime ministers,neg,42.476825,1
+Prisoners of Conscie,neu,69.790274,1
+Prisoners of Conscience,neu,77.111141,1
+Priya Pillai,neu,53.487861,2
+product manager,pos,53.478733,1
+professor,neu,40.280478,1
+professor,neg,58.453317,1
+professor,neu,65.911219,1
+professor,neu,70.629907,1
+professor,neu,74.565378,1
+professor,pos,55.893333,1
+professor,neu,61.069886,1
+professor,neg,56.686356,1
+professor,neu,74.856303,1
+project director,neg,45.667103,1
+prosecutor,neg,55.687015,1
+prosecutor,neu,54.150365,1
+prosecutor,neu,71.543833,1
+prosecutor,pos,55.378464,1
+prosecutor,neg,68.251588,1
+prosecutor,neg,55.839189,1
+prosecutor,pos,43.506648,1
+prosecutor,pos,57.034594,1
+prosecutor,neg,49.375199,1
+prosecutor,neg,52.555741,1
+Protectionist,pos,69.868514,1
+provincial governor,neu,69.876772,1
+Puerto Rico,pos,50.706363,1
+Pyongyang,neu,37.797126,1
+Pyongyang,neu,69.217615,6
+Pyongyang,neg,48.181902,4
+Pyongyang,neg,37.27715,2
+Pyongyang,neu,79.961999,1
+Pyongyang,pos,55.273578,1
+Pyongyang,pos,57.413721,2
+Pyongyang,neg,56.582847,2
+Pyongyang,neg,92.003303,8
+Pyongyang,pos,44.853537,1
+Pyongyang,neg,65.460188,2
+Qaladze,neg,74.191161,1
+Qandeel,neg,76.691784,1
+Qandil,neu,77.570342,4
+Qandil Mountains,neu,89.80107,1
+Qatana,neu,92.659848,2
+Qatar,pos,43.870949,2
+Qatar,neg,53.681927,3
+Qatar,neu,82.351598,1
+Qatar Airways,neg,46.321109,1
+Qatar University,neu,64.140831,1
+Qatari,neg,90.793536,1
+Qingdao,neu,89.067797,2
+Qingdao,neu,89.914096,3
+Qingdao,neu,57.701912,3
+"Qingdao, China",neu,53.099788,1
+"Qingdao, Russia",neg,61.914582,1
+Quebec,neg,54.929458,1
+Quebec,pos,59.545621,1
+Quebec,neg,51.572775,1
+Quebec,pos,66.460585,1
+Quebec City,neu,84.064973,1
+Quebec City,neu,60.539265,2
+Quebec City,pos,38.101807,1
+Quebec City,neu,85.594387,1
+Quebec City,neg,54.390886,1
+Quetta,pos,56.763621,2
+Quneitra,neg,48.910628,2
+Raad al-Adayleh,neg,52.073901,1
+Rafa,pos,62.704357,1
+Rafael Nadal,neg,71.234894,11
+Rafeah,pos,56.340667,2
+Rafiullah Yousafzai,neg,84.418719,5
+Raj Shah,pos,52.179459,1
+Rakhmat Akilov,neg,73.890475,9
+Ram Hamdan,neu,65.274404,1
+Ramadan Tent Project,pos,70.505431,6
+Ramallah,neu,60.141019,2
+Ramallah,neu,56.695109,1
+Rami Abdulrahman,neg,70.386232,2
+Ravi,neu,56.743768,1
+Rebecca Cook,pos,57.417129,1
+Recep Tayyip Erdogan,pos,48.695315,4
+Recep Tayyip Erdogan,pos,50.824589,2
+Red Cross,neg,55.450644,1
+Red Cross,neg,62.42618,2
+Red Sea,neg,56.050993,1
+regional governors,neg,43.730581,1
+Reprieve,neu,55.263868,1
+Republican,pos,54.74602,1
+Republican People's Party,pos,44.275921,6
+Republicans,neg,60.262328,1
+Reuters,neu,62.962482,1
+Reuters,neu,60.874365,1
+Reuters,neu,54.40779,1
+Reuters,neg,51.035385,1
+Reuters,neu,75.034727,1
+Reuters,neu,42.386964,1
+Reuters,neu,64.874375,1
+Reuters,neg,62.109527,1
+Reuters,neu,63.921965,1
+Reuters,neg,37.179815,1
+Reuters,neg,64.638346,1
+Reuters,neu,53.025305,1
+Reuters,neg,56.236648,2
+Reuters,neu,94.014698,3
+Reuters,neu,45.491496,1
+Reuters,neg,47.875305,1
+Reuters,neu,75.367902,1
+Reuters,neu,94.944247,1
+Reuters,neu,62.057398,1
+Reuters,pos,37.693421,1
+Reuters,pos,73.746967,2
+Reuters,neg,67.960678,1
+Reuters,neg,57.185334,2
+Reuters,neu,69.612331,1
+Reuters,neg,46.089465,2
+Reuters,neu,62.059446,4
+Reuters,neg,73.424351,1
+Reuters,neu,51.852507,1
+Reuters,neu,85.560531,1
+Reuters,neg,44.497073,3
+Reuters,neu,67.209571,1
+Reuters,neu,63.047814,1
+Reuters,neu,62.196449,1
+Reuters,pos,55.122267,1
+Reuters,neu,35.785796,1
+Reuters,neg,73.769474,1
+Reuters,neu,39.446932,1
+Reuters,pos,43.028511,3
+Reuters,pos,50.510696,1
+Reuters,neg,43.005396,1
+Reuters,neg,77.555876,1
+Reuters,pos,59.749133,2
+Richard Armstrong,neu,57.854388,1
+Richard Gizbert,neu,81.911221,1
+Rio de Janeiro,neu,84.810894,1
+"Rio de Janeiro, Brazil",neu,82.285993,2
+Rita,pos,49.139746,1
+river Tigris,neu,61.263816,1
+Riyadh,pos,49.291227,2
+Riyadh,neu,83.824434,1
+Riyadh,neg,78.051724,1
+Riyadh,neu,60.552754,1
+Rob McElwee,neu,55.631754,1
+Robert Mugabe,pos,54.213298,1
+Rocket Man,neg,49.247216,1
+Rocket man,neg,51.007525,1
+Rodrigo Abd,neg,94.775122,6
+Rogan Ward,neg,62.297123,1
+Roger Federer,neg,54.167169,1
+Rohingya,neg,48.231918,3
+Rohingya,neu,46.367746,6
+Rokni Haerizadeh,pos,47.541712,2
+Roland-Garros,neg,60.525086,1
+Romania,neu,61.097125,1
+Rome,neg,49.651342,1
+Rome,neg,52.1845,1
+Rome Statute,neu,56.532051,1
+Rome Statute,neu,50.937171,2
+Ronald Reagan,pos,47.068065,5
+Rouhani administration,neu,46.181856,1
+Royal Court,neu,56.758842,1
+Royal Dutch Shell,neu,49.207054,1
+RT,pos,55.848685,1
+Rupert Murdoch,neu,83.874567,1
+Ruslan Trad,neu,93.647556,2
+Russia,neg,61.835055,1
+Russia,pos,49.326716,1
+Russia,pos,49.202436,4
+Russia,pos,64.133302,1
+Russia,pos,60.48961,1
+Russia,neu,74.318576,1
+Russia,neg,86.371115,3
+Russia,neu,68.095746,4
+Russia,neg,88.184184,9
+Russia,neg,42.788507,1
+Russia,neu,81.744822,12
+Russia,neg,92.706812,3
+Russia,neg,72.183717,3
+Russia,neu,62.287443,4
+Russia,neg,60.77173,2
+Russia,neg,81.393059,3
+Russia,neg,89.970834,5
+Russia,neg,43.9904,1
+Russia,neg,40.171261,2
+Russia,neg,54.862337,3
+Russian,neu,84.839155,1
+Russian,neg,79.510521,3
+Russian,pos,67.813042,2
+Russian,neu,64.35575,1
+Russian,pos,58.980018,2
+Russian,neu,67.017172,1
+Russian,neg,65.049206,3
+Russian,neg,56.338992,2
+Russian,neg,55.594961,6
+Russian nation,neg,49.293071,11
+Russian President,pos,50.492215,1
+Russian President,neu,66.00989,3
+Russian president,neu,55.71713,2
+Russian president,neu,93.097268,2
+Russian President,neu,62.265764,1
+Russian President,neu,81.403022,1
+Russian President,neu,75.668741,1
+Russian President,pos,62.076534,1
+Russian President,neu,63.569978,1
+Russians,pos,34.585818,1
+Russians,neg,53.59428,2
+Russians,neg,48.424073,2
+Russia's Far East,pos,47.849289,1
+Rwanda,pos,73.616721,1
+Rwanda,neu,63.249845,1
+Rwandan,neu,57.1774,1
+Rwandan,neg,65.28926,1
+S Rajaratnam School of International Studies,neg,52.31747,5
+S. Rajaratnam School of International Studies Einar Tangen,neu,82.22793,1
+Saad Maan,neu,63.03397,2
+Sabah Al Ahmad Al Sabah,neu,91.497823,2
+Sabah Al Ahmad Al Sabah,neu,91.497823,2
+Sadiq Khan,neu,91.757978,3
+Safad,neg,39.723499,1
+Salafi,neu,66.211647,1
+Salafism,neg,59.566074,1
+Salem Abdullah al-Jaber Al Sabah,neg,36.290674,2
+Salim al-Jabouri,neg,65.287535,5
+Sami Hamdi,neu,58.599555,1
+Sami Nader,neu,70.343836,1
+San Juan Alotenango,neg,74.738137,2
+San Juan Altoenango,neg,61.227502,1
+San Juan de Dios Hospital,neg,69.648704,1
+San Miguel Los Lotes,neu,62.446097,3
+San Miguel Los Lotes,pos,41.850015,1
+Sanaa,neg,52.459154,1
+Sanaa,neg,49.989652,1
+Sanaa,neu,77.680855,1
+Sanaa,neg,94.115419,11
+Sandinista,neu,82.838719,1
+Sandy,pos,50.089399,1
+"Sao Paolo, Brazil",pos,49.023248,1
+Sara Raza,neu,87.965384,14
+Sarafand,neg,52.230321,2
+Sarah Mohs,neg,44.518084,1
+Sarah Sanders,neu,91.060064,1
+Sasha Goryunov,pos,37.859858,3
+Saturday,neu,67.713726,1
+Saturday,neu,57.697162,1
+Saturday,pos,45.779748,1
+Saturday,pos,69.320704,1
+Saturday,neu,46.324971,2
+Saturday,neu,60.169228,1
+Saturday,neg,47.182376,3
+Saturday,neg,62.261341,2
+Saturday,pos,57.093583,2
+Saturday,neg,67.177817,1
+Saturday,neg,46.260401,1
+Saturday,neu,51.837538,1
+Saturday,pos,49.183315,1
+Saturday,pos,38.07137,1
+Saturday,neu,80.424904,1
+Saturday,pos,54.994172,1
+Saturday,neu,90.33783,1
+Saturday,pos,63.963067,2
+Saturday,neg,43.688302,3
+Saturday,neg,64.20698,1
+Saturday,pos,61.736413,1
+Saud Arabia,pos,41.54539,1
+Saudi,neg,88.314369,5
+Saudi,neu,81.331441,2
+Saudi,neu,91.388204,2
+Saudi,neg,59.776432,3
+Saudi,neg,42.685218,1
+Saudi,neu,72.55132,1
+Saudi,neu,65.319639,12
+Saudi,pos,60.230515,1
+Saudi,neg,72.345918,2
+Saudi,neg,42.878373,3
+Saudi,neg,50.562185,2
+Saudi Arabia,pos,51.744359,1
+Saudi Arabia,neu,42.680254,1
+Saudi Arabia,neu,34.633091,1
+Saudi Arabia,neg,65.02608,4
+Saudi Arabia,pos,59.823533,3
+Saudi Arabia,pos,34.396164,3
+Saudi Arabia,neg,54.984299,2
+Saudi Arabia,neu,74.480765,3
+Saudi Arabia,neg,76.064552,5
+Saudi Arabia,neg,53.702181,7
+Saudi Arabian,neu,79.797849,1
+Saudi military,neu,72.627372,1
+Saudi Press Agency,neg,53.802907,1
+Saudi Press Agency,neu,46.744939,1
+Saudi Royal Court,neg,44.547848,1
+Saudi security forces,neu,72.305888,1
+Saudis,neu,58.265034,1
+Sayedul Shahada,neg,49.262471,2
+Sayedul Shahada school,neu,59.298083,1
+Sayedul Shohada,neg,65.291055,2
+Sayedul Shohada School,neg,56.113725,2
+Sayedul Shohada school,pos,59.425443,1
+School of Oriental and African Studies,pos,46.030654,3
+Scott Heidler,pos,62.584346,2
+Scott Heidler,neu,69.613289,1
+SDF,neg,62.194362,3
+Sea of Japan,neg,70.190656,1
+Sebastian Kurz,neu,59.327906,8
+Sebastian Kurz,neu,92.814558,2
+Secretary of State,neu,90.396574,1
+Secretary of State,pos,38.450888,1
+secretary of state,pos,48.788259,1
+Senate,neg,50.76716,5
+Senate Department for Urban Development,neg,47.024313,1
+senior adviser,neu,76.988764,1
+Sentosa,pos,59.261442,2
+Sentosa,neu,57.405696,1
+Seoul,neu,71.93846,1
+"Seoul, South Korea",neu,83.747137,4
+Sepp Blatter,neu,82.120698,2
+September,neu,56.837447,1
+Sergei,neg,75.779811,1
+Sergei Karpukhin,neu,55.546973,1
+Sergey Lavrov,neg,45.607702,1
+Serwah,neg,50.989806,2
+Serwah Directorate,neu,44.569793,1
+seven months,neu,41.55631,1
+Seven years,neu,53.598849,1
+seven-year,neg,73.524077,2
+seven-year,neg,56.020702,1
+Shafiq,neg,53.176425,23
+Shafiqa Rahimi,neu,69.534303,2
+Shah Hussain,neg,62.69275,3
+Shanghai,neu,59.557174,1
+Shanghai,pos,59.040169,1
+Shanghai,pos,59.040169,1
+Shanghai Cooperation Organisation,neu,63.754108,1
+Shanghai Cooperation Organisation,neg,67.474492,6
+Shanghai Cooperation Organisation,neu,77.82305,3
+Shanghai Cooperation Organisation,pos,67.519088,9
+Shanghai Cooperation Organisation,neg,60.790709,6
+Shanghai Cooperation Organisation (SCO,pos,46.539718,4
+Shangri-La Hotel,pos,58.056938,2
+Shangri-La Hotel,neu,55.791004,1
+Sheikh,neu,54.209262,1
+Sheikh,neu,79.7153,1
+Shia,pos,54.610144,1
+Shia,pos,56.141128,1
+Shia,neu,43.431088,1
+Shia,pos,51.479121,1
+Shia Muslims,neu,47.968617,1
+Shinzo Abe,neg,49.953229,2
+Shinzo Abe,pos,47.881268,1
+Shinzo Abe,pos,54.385354,1
+Showkat Shafi,neu,47.818546,4
+Shriners Children,neu,59.184356,1
+Sicily,pos,40.615542,1
+Sierra Leone,neu,58.70832,1
+SIGAR,neu,80.009922,1
+Silvio Jose Baez,neg,57.048028,1
+Silvio Jose Baez,neg,61.337093,1
+Sinem Koseoglu,pos,60.868432,2
+Singapore,neu,49.53022,3
+Singapore,pos,57.701867,1
+Singapore,neg,57.019288,4
+Singapore,pos,70.832934,2
+Singapore,neg,54.367165,2
+Singapore,neu,45.464589,1
+Singapore,neg,48.820286,1
+Singapore,pos,83.949995,6
+Singapore,pos,66.592497,2
+Singapore,pos,57.115007,2
+Singapore,neu,62.784654,1
+Singapore,pos,60.433148,8
+Singapore,neg,41.726376,1
+Singapore,pos,75.452567,12
+Singapore,pos,62.706856,1
+Singapore,pos,60.827473,5
+Singapore,neu,60.504976,1
+Singapore,neu,68.576541,1
+Singapore,pos,78.176871,2
+Singapore,neu,49.450131,1
+Singapore,pos,61.205459,13
+Singapore Management University,neg,41.680092,1
+Singapore police,neu,81.983715,1
+Singaporean,neu,46.309108,4
+Singaporeans,neu,49.964983,1
+Singaporeans,pos,58.377984,1
+Sinjar,neg,44.587643,1
+six hours,neu,50.727249,1
+six months,neu,83.801819,1
+Six Party Talks,neu,59.759974,1
+six years,neu,66.514967,1
+Six years,neu,69.794657,1
+six years,neg,62.431353,1
+six years,neu,46.071205,1
+six-month,pos,48.24266,1
+Sixteen-year,neu,60.831597,1
+six-year,neg,71.254084,2
+Sky,neu,69.459539,1
+Skype,pos,55.184262,2
+SMS,neu,90.253816,1
+Sochi,neg,54.270794,2
+Social Democratic,neu,74.95182,1
+Social Democratic party,neu,72.667081,1
+Social Rights Initiative,neg,60.613336,1
+Solo Sandeng,neg,57.049447,1
+Solomon R Guggenheim Foundation,neu,36.295803,6
+Solomon R. Guggenheim Foundation,pos,83.586899,2
+Somali,neu,48.86803,4
+Somali,neu,70.357335,1
+Somalia,neg,72.900179,1
+Somalia,neg,67.634321,3
+Sookmyung Women's University,neu,73.793133,1
+SOS,neg,58.551867,1
+South,neu,77.589337,3
+South Africa,neu,55.164311,1
+South Africa,neg,66.315564,5
+South Africa,neg,59.584243,1
+South Africa,pos,55.172158,1
+South Korea,neu,74.165897,10
+South Korea,neu,71.831322,1
+South Korea,pos,60.195784,4
+South Korea,neu,68.083921,2
+South Korean,neg,67.538463,4
+South Korean,pos,55.834181,1
+South Korean,neg,44.837478,1
+South Korean,pos,55.834181,1
+South Koreans,pos,39.584158,2
+South Sudan,neu,59.065455,1
+Southeast Asia,neu,74.410699,1
+Southeast Asia,pos,57.696258,1
+Southern Africa,neu,76.268479,1
+Soviet,neg,41.340676,1
+Soviet,neu,55.770887,1
+Soviet,neu,63.164453,1
+Soviet,neu,90.789902,1
+Soviets,neu,63.176116,1
+Spain,neu,58.212359,1
+Spain,neu,78.621319,1
+Spaniard,pos,53.471207,2
+speaker,neu,55.536989,1
+Speakers' Corner,neg,54.734716,1
+Special Forces,neu,86.086038,1
+Special Forces Retired,neu,74.719241,1
+Special Inspector General for Afghanistan Reconstruction,neu,64.422416,1
+Spotify,pos,61.33943,1
+Sputnik,neu,39.989163,1
+Squint,neu,76.997668,1
+St Lucia,neg,63.649469,1
+St Regis Hotel,neu,57.391843,1
+State Department,neu,87.516575,1
+state of Palestine,neu,79.61446,2
+Statoil,neu,77.52791,1
+Stefanie Dekker,pos,53.8296,1
+Steffen Nikolaj Boddin,neg,82.639836,3
+Stockholm,neg,52.998382,6
+Stockholm District Court,neg,54.866775,1
+Straits Times,pos,67.903646,1
+Straits Times,neu,39.787383,1
+Suad Abu-Dayyeh - Equality,neu,75.751627,1
+Subhi al-Khadra,neu,51.001467,4
+Sudan,neg,55.650287,9
+"Sudan, South Sudan",neg,78.300426,2
+Sudanese,neg,62.17068,1
+Sudanese,neu,70.243801,2
+Suez Canal,neu,66.793079,1
+Sufi,pos,61.738472,1
+Sulaimaniyah,neg,86.931436,4
+Sultan,neu,52.529722,1
+Sumitha Narayanan Kutty,neg,59.560516,8
+Sun Jun 10 2018,pos,55.328886,1
+Sunday,neg,48.456249,1
+Sunday,neg,55.081091,1
+Sunday,neg,79.771628,1
+Sunday,neg,50.4403,1
+Sunday,pos,51.907088,1
+Sunday,neu,65.086352,4
+Sunday,neg,88.516159,2
+Sunday,neg,52.225201,4
+Sunday,pos,72.015751,3
+Sunday,neg,47.431205,1
+Sunday,neg,71.869851,4
+Sunday,neu,63.525832,1
+Sunday,neu,73.852402,2
+Sunday,neu,51.875005,1
+Sunken Garden,neg,72.227397,1
+Sunni,neg,57.976728,2
+Supreme Court,neg,50.129346,2
+Supreme Court,neg,50.122155,1
+Sur Baher,pos,51.250913,4
+Suzanne Goldberg,neu,64.688463,9
+Sweden,neg,60.035117,1
+Swedish,neg,47.450276,2
+Swiss,pos,42.189325,1
+Switzerland,pos,58.209448,1
+Sydney,neu,77.681213,1
+Syria,neu,73.3978,1
+Syria,neg,41.962989,2
+Syria,neg,57.839008,4
+Syria,neg,61.689497,1
+Syria,neu,60.458014,2
+Syria,neg,76.092735,2
+Syria,neu,69.608983,2
+Syria,neu,98.744217,21
+Syrian,neu,70.343006,1
+Syrian,pos,39.628272,2
+Syrian,neg,64.295325,1
+Syrian,neg,58.606738,3
+Syrian,neu,83.89066,1
+Syrian,neg,51.363099,5
+Syrian,neu,99.316587,9
+Syrian,neg,60.436419,1
+Syrian army,neg,50.367058,4
+Syrian forces,neg,61.580875,1
+Syrian government,neg,46.774888,4
+Syrian government,neg,47.54708,5
+Syrian military,neg,45.393507,1
+Syrian rebel,pos,53.561364,1
+Syrians,neg,68.085303,2
+Syrians,neg,44.294054,1
+Syrians,neg,37.041012,1
+Syrians,pos,59.248187,1
+Tafi Mhaka,neg,43.033744,1
+Tafi Mhaka,neu,90.107179,3
+Taftanaz,neu,81.843378,2
+Tahrir al-Sham,neu,85.689696,1
+Taiz,neg,50.908324,1
+Tajikistan,neu,40.560067,1
+Tajikistan,pos,43.677469,1
+Tajikistan,neu,75.585208,1
+Takeshita - dean,neu,72.864917,1
+Taliban,neg,97.016324,8
+Taliban,neu,80.457273,21
+Taliban,pos,62.546266,1
+Taliban,neg,96.407382,15
+Taliban,neg,56.296435,1
+Taliban,neg,88.477028,2
+Taliban,pos,59.502224,1
+Taliban,neg,67.357667,20
+Taliban Shura,neu,77.865766,2
+Tammy Walkers,neg,50.453892,2
+Tanglin,pos,43.824144,1
+Tanoura,pos,40.975522,1
+Tashkent,neg,60.832753,1
+Ted Regencia,neg,53.554402,1
+TEDx,pos,55.716348,1
+TEDx,pos,66.68246,2
+Tehran,pos,64.261907,1
+Tehran,neu,54.829247,8
+Tehran,neg,82.616069,1
+Tehran,neg,68.945828,1
+Tehran,neu,83.512584,1
+Tel Aviv,pos,57.206743,3
+Tel Aviv,neg,47.785174,1
+Tenganan Village,pos,59.753852,1
+Texas,neu,41.466153,1
+Texas A & M University,neu,73.98496,1
+Texas Tribune,neg,46.6908,1
+Thailand,pos,54.766437,1
+Thanassis Stavrakis,neg,69.228172,1
+The Choson Exchange,neg,35.036599,1
+The Economist,neg,52.019905,1
+the Hague,neu,43.081947,2
+The Hague,neu,72.044875,1
+The Hague,neg,39.948404,1
+The Listening Post,neg,65.327159,2
+The Stream,neu,46.710855,2
+The Stream,neu,80.376528,1
+Thierry Quenette,pos,67.797273,1
+This may,pos,65.472452,1
+this may,neg,67.241639,1
+Thomas Wright,neg,41.399946,6
+three days,neu,47.862728,1
+three days,neu,71.511339,1
+three decades,neg,43.706639,1
+three decades,pos,52.835436,1
+three decades,neu,42.389708,1
+three months,pos,46.743416,2
+three months,neu,77.200069,1
+three months,neg,77.54114,2
+three years,pos,40.006229,1
+three years,neu,76.757349,1
+three years,neu,74.291963,1
+three years,pos,42.647273,1
+three years,neu,75.04346,1
+three years,neg,51.057146,1
+three-day,neu,67.709368,1
+three-day,neu,77.912874,1
+three-meter,pos,59.751966,1
+three-month,neg,77.101297,1
+three-year,neu,88.340123,1
+three-year,neg,51.744493,1
+three-year,neg,55.082579,1
+three-year,neg,46.067417,1
+Thursday,neu,88.063258,2
+Thursday,neg,50.474822,1
+Thursday,neg,58.327931,1
+Thursday,neg,59.895859,1
+Thursday,neu,82.82827,1
+Thursday,neu,81.152447,1
+Thursday,neg,59.32754,2
+Thursday,neg,48.366592,1
+Thursday,neg,69.198031,1
+Thursday,neu,89.695222,1
+Thursday,neu,56.504449,2
+Thursday,neg,73.879105,1
+Thursday,neg,55.806396,2
+Thursday,neu,75.794252,2
+Thursday,neu,76.442203,1
+Thursday,neg,73.615058,1
+Thursday,neu,53.200705,1
+Thursday,neg,93.221588,2
+Thursday,neg,46.64322,1
+Thursday,pos,46.310193,1
+Thursday,neg,67.671871,1
+Thursday,neg,56.435687,1
+Thursday,pos,57.410329,1
+Tigris,neu,62.437355,1
+Tigris River,neg,55.492823,1
+Tigris River,neg,81.313309,9
+Tik Root,neu,76.842145,1
+Tiksa Negeri,neu,57.425104,1
+Times Square,neu,56.849843,1
+Tokyo,neu,47.110782,2
+Tom Benner,pos,73.546589,3
+Tom Benner,neu,47.917153,1
+Tony Karon,neu,59.198719,2
+Tora Bora,neg,52.327225,1
+trade adviser,neu,75.709041,1
+Trans Mountain,neu,87.588173,1
+Trans Siberian Railways,pos,62.999366,1
+Trudeau,neg,79.171112,3
+Trump,pos,87.261521,13
+Trump,pos,38.924937,1
+Trump,pos,50.896957,1
+Trump Administration,neg,38.992089,2
+Trump Kim-Chi,pos,73.216164,8
+Trump-Kim,pos,62.055659,4
+Trump-Kim,neu,41.220061,1
+Tuesday,neu,60.931329,1
+Tuesday,pos,51.65866,1
+Tuesday,pos,46.876189,1
+Tuesday,neg,80.136069,2
+Tuesday,neg,64.38134,1
+Tuesday,pos,44.222176,1
+Tuesday,pos,46.126722,1
+Tuesday,neu,83.54498,1
+Tuesday,neg,43.025889,1
+Tuesday,neu,38.016688,2
+Turkey,neu,98.22604,29
+Turkey,neg,74.294574,8
+Turkey,neu,75.03384,3
+Turkey,neg,48.813678,2
+Turkey,pos,54.464217,2
+Turkey,neu,63.288857,1
+Turkey,neg,52.012432,2
+Turkey,neg,92.119492,13
+Turkey,neg,46.211677,10
+Turkey,pos,39.87367,1
+Turkey,neu,70.441726,1
+Turkey,neg,53.87101,1
+Turkey,pos,52.447573,5
+Turkey,neu,65.16936,1
+Turki al-Malki,neu,77.280943,2
+Turkish,neg,42.515458,6
+Turkish,neg,65.330514,6
+Turkish,neu,51.016833,2
+Turkish,pos,68.597395,4
+Turkish,neu,67.006557,1
+Turkish,neg,44.775775,1
+Turkish,neu,77.155096,8
+Turkish,neg,75.698327,3
+Turkish,neg,69.968104,3
+Turks,neu,82.831741,2
+Turks,pos,37.931171,1
+Twitter,pos,66.408426,1
+Twitter,neu,67.718508,1
+Twitter,neu,74.02346,1
+Twitter,neu,66.421022,1
+Twitter,neu,61.743064,1
+Twitter,pos,50.321075,1
+Twitter,pos,54.285495,1
+Twitter,neu,60.522769,1
+Twitter,pos,58.373071,1
+Twitter,neu,54.526756,1
+Twitter,neu,50.264455,1
+Twitter,neg,36.480906,2
+Twitter,neg,57.726437,1
+two days,neu,63.564203,1
+two days,pos,51.506694,1
+two days,neg,48.588621,1
+two decades,pos,49.144482,1
+two decades,neg,47.410844,1
+two decades,neg,46.609938,1
+two hours,neg,84.582551,2
+two hours,neg,47.084301,1
+two hours,neg,65.243149,1
+two months,pos,72.671516,2
+two months,neg,61.50227,1
+two weeks,neu,55.469921,1
+two weeks,pos,49.969881,1
+two weeks,neg,48.136004,1
+two years,neu,58.767737,1
+two years,neg,93.37097,2
+two years,neu,71.450043,1
+two years,neg,59.040706,1
+two years,neu,68.394353,1
+two years,neg,55.341946,1
+two-day,neu,78.110815,1
+two-day,neu,85.753095,1
+two-day,neu,71.036041,1
+two-day,neu,71.353798,1
+two-day,pos,62.33879,1
+two-month,neu,72.365331,1
+two-month,neg,83.768786,1
+two-month,neu,73.480762,1
+two-year,neg,54.835869,1
+two-year,neu,37.991419,1
+two-year,neu,47.467569,1
+Tyler Perry,pos,41.500715,1
+U.S.,neg,82.610109,7
+U.S.,neg,71.050168,9
+U.S. Centers for Disease Control and Prevention,neg,77.303286,1
+UAE,neg,45.975326,3
+UBS,neu,42.177528,2
+Uganda,neg,55.650874,2
+Uganda,neu,47.489053,1
+Ugandan,neg,54.07706,1
+Ugandan,pos,68.989571,1
+Uighur,neu,88.020953,2
+Uighurs,neu,47.002998,3
+UK,neu,73.848988,1
+UK,pos,54.298858,1
+UK,neu,89.301034,4
+UK,neu,68.604315,2
+UK,pos,49.969889,1
+UK,neu,55.869375,1
+UK,neu,48.836828,1
+UK Supreme Court backs N Ireland,pos,54.242025,1
+Ukraine,neg,57.73217,2
+Ukraine,pos,46.57655,1
+Ukraine,pos,70.179953,1
+Ukraine,neg,49.779296,1
+Ukrainian security services,neg,50.089895,1
+Um Muhammed,neu,66.490314,1
+UN,neu,65.423099,1
+UN,neu,69.50866,1
+UN,neg,60.96633,9
+UN,neg,61.36837,1
+UN,neu,79.922859,1
+UN Humanitarian Coordinator,neu,68.458647,1
+UN Security Council,neg,46.790701,1
+UN Security Council,neg,44.954886,1
+UN Security Council,pos,70.417056,4
+Una Tempesta Del Paradiso,neu,54.792111,1
+UNESCO,neu,83.430936,1
+UNHCR,neu,96.914883,8
+UNICEF,neg,67.990985,1
+United Arab Emirate,neu,84.339233,3
+United Arab Emirates,pos,53.166773,1
+United Arab Emirates,neu,83.113278,5
+United Arab Emirates,neg,44.818793,1
+United Arab Emirates,neg,63.829837,1
+United Arab Emirates,neu,72.931442,1
+United Kingdom,neu,39.982395,1
+United Kingdom,neg,49.399633,1
+United Nations,neu,52.179602,2
+United Nations,neu,70.05457,1
+United Nations,pos,64.018115,1
+United Nations,neg,72.444464,2
+United Nations,neg,66.493117,6
+United Nations,neu,66.27118,3
+United Nations,neg,40.868858,1
+United Nations,pos,42.683412,1
+United Nations,neg,54.907354,1
+United Nations,neu,46.835544,1
+United Nations Assistance Mission in Afghanistan,neg,60.09909,2
+United Nations General Assembly,neg,48.458876,1
+United Nations Security Council,neg,83.045442,4
+United Nations Security Council,neu,56.361462,1
+United Nations Special Rapporteur,pos,49.709213,1
+United States,neg,78.812184,2
+United States,neg,84.517348,7
+United States,neu,80.279391,1
+United States,neu,82.465483,23
+United States,neg,60.878113,12
+United States,neu,61.923885,10
+United States,pos,87.451192,4
+United States,neg,46.88764,1
+United States,neu,78.989577,1
+United States,neg,63.235019,2
+United States,pos,69.041061,5
+United States,pos,53.826971,4
+United States,neu,62.453732,1
+United States,neu,52.256559,1
+United States,neg,74.710754,1
+United States,neg,62.671102,3
+United States,neg,57.543563,6
+United States,neg,49.685854,4
+United States,neg,92.398706,8
+United States,neg,35.282215,1
+United States,neg,81.008948,11
+United States,pos,76.221606,2
+United States,neg,58.960601,1
+United States,neg,70.949245,10
+United States,pos,60.458541,2
+United States,neg,73.762909,12
+United States,pos,44.505216,3
+Universite de Montreal,neg,64.446534,1
+University of Cape Town,pos,64.303787,1
+University of London Seijiro,neu,71.393877,1
+University of North Korean Studies,neu,78.675387,1
+University of Quebec in Outaouais,neu,80.300688,1
+University of Shizuoka Source,neg,61.25657,1
+University of St Andrews,neu,77.502099,1
+University of Western Ontario,neu,77.124519,1
+University of Wisconsin,neg,72.039138,1
+UNOCHA,neg,52.00912,1
+UNRWA,pos,59.232213,1
+Uruguay,neu,73.719137,1
+Uruguay,neu,71.247128,1
+Uruguay,neg,50.863624,1
+US,neg,67.269449,1
+US,neg,52.985655,1
+US,pos,78.293662,1
+US,neu,74.391445,1
+US,neu,56.729957,1
+US,neu,54.753167,2
+US,pos,37.869549,3
+US,pos,48.413732,1
+US,neu,78.617888,1
+US,neg,49.329169,1
+US,neu,76.032433,13
+US,pos,68.372673,2
+US,neg,81.282314,5
+US,pos,52.520509,1
+US,neu,46.814511,1
+US,pos,43.916491,1
+US,neg,49.03103,3
+US,pos,57.29651,1
+US,neg,69.18723,4
+US,neg,95.172799,2
+US,neg,68.894951,3
+US,pos,65.271496,1
+US,pos,48.713747,5
+US,pos,42.80434,1
+US,neg,56.775721,5
+US,neg,85.936221,20
+US,pos,53.657511,1
+US,pos,71.846537,1
+US,neu,97.27439,16
+US,neu,58.457088,6
+US,neg,57.963567,7
+US,pos,73.600835,2
+US,pos,68.163728,6
+US,neg,53.544381,10
+US & Canada,neg,42.417677,1
+US & Canada,pos,51.561688,1
+US Congress,neu,61.200321,1
+US Equal Employment Opportunity Commission,neg,64.90409,1
+US forces in Afghanistan,neu,49.685576,1
+US government,neu,45.55501,1
+US government,neg,54.651543,1
+US Navy,pos,53.069156,1
+US Open,neu,65.494762,1
+US sanctions,neg,79.305196,2
+US service member,neg,52.517786,4
+US State Department,neg,64.784386,1
+USA,pos,49.195748,13
+USA Olympic Gymnastic,neu,49.200845,1
+USAID,pos,61.388852,1
+USS Pueblo,pos,50.254473,1
+USSR,neu,63.422376,1
+Uzbek,neg,74.063735,1
+Uzbekistan,neu,78.649691,1
+Uzbekistan,pos,41.438708,1
+Uzbekistan,neu,81.956777,1
+Uzbekistan,neg,65.160665,1
+Variety,neu,55.419529,1
+Vatican,neg,64.901544,2
+Venezuela,neg,49.494465,2
+Vermont,pos,55.261122,1
+Vice Chancellor,neu,72.563626,1
+vice president,neg,60.786433,1
+vice president,neu,63.98603,1
+vice president,pos,55.786258,1
+vice president,neu,66.34704,1
+vice president,neu,61.963163,1
+Vice President,neg,56.357534,1
+Victim blaming,neu,78.168331,1
+Victoria,neu,72.718262,1
+Vienna,neu,61.428501,1
+VIP,neu,84.114329,1
+Vital Kamerhe,pos,44.576746,1
+Vivian Balakrishnan,neu,43.429393,2
+Vladimir Putin,neg,48.466914,1
+Vladimir Putin,neg,87.331314,5
+Vladimir Putin,pos,75.126454,9
+Vladimir Putin,neg,90.895738,22
+Vladimir Putin,neg,66.206632,10
+Vladimir Putin,pos,63.813115,2
+Vladimir Putin,neg,58.339131,12
+Vladimir Putin,neu,77.94693,4
+Vladimir Putin,pos,44.636708,5
+Vladimir Putin,neu,79.63826,3
+Vladivostok,neu,71.625557,1
+Vogue,neg,45.898651,1
+Voice Network,neu,56.807676,1
+Voice of America,neg,57.2031,1
+Volcan de Fuego,neg,94.07083,4
+Volcan de Fuego,neg,63.219442,1
+Volcano of Fire,neg,55.081452,1
+Volcano of Fire,neg,51.609505,1
+Wael Abbas,pos,55.684903,1
+Walid Mouallem,neu,79.062796,2
+Wall,neu,67.326303,1
+Washington,neg,65.875088,1
+Washington,neg,60.963041,1
+Washington,neu,72.384583,1
+Washington,neg,46.033774,1
+Washington,neg,63.348829,1
+Washington,neg,43.40748,1
+Washington,pos,43.20842,1
+Washington,neg,58.371854,1
+Washington,neu,52.03333,1
+Washington,pos,48.446146,1
+Washington,neg,75.028345,4
+Washington,pos,48.446146,1
+Washington,neg,50.738717,1
+Washington,pos,59.688969,1
+Washington,neg,57.605631,1
+Washington,neg,59.403047,1
+"Washington, DC",neu,46.841698,1
+"Washington, DC",neu,80.609475,1
+"Washington, DC",neu,61.75029,1
+"Washington, DC",neg,69.911375,1
+Wayne Hay,neg,61.509276,2
+Wednesday,neg,54.111021,1
+Wednesday,neg,43.934647,1
+Wednesday,neu,74.776938,1
+Wednesday,pos,61.49916,1
+Wednesday,neg,63.371847,1
+Wednesday,pos,65.063377,1
+Wednesday,neu,79.424525,1
+Wednesday,neu,83.081201,1
+Wednesday,neu,67.941313,1
+Wednesday,neu,72.562968,1
+Weinstein Company,neg,54.500407,1
+West,neg,73.109388,1
+West,neu,55.752685,1
+West,neu,41.102149,1
+West,neg,73.709633,1
+West,neg,71.777862,5
+West,neu,83.538658,1
+West,neg,63.852349,1
+West,neu,70.594927,1
+West Africa,neu,64.013916,1
+West African,neu,83.171549,1
+West Bank,pos,50.931026,1
+West Bank,neu,56.896401,1
+West Jerusalem,neg,46.564452,1
+West Jerusalem,pos,70.165956,1
+West Jerusalem,pos,70.165956,1
+West Jerusalem,pos,70.165956,1
+West Jerusalem,pos,70.165956,1
+West Jerusalem,pos,70.165956,1
+West Kabul,neg,61.911017,7
+Western allies,neg,55.995266,1
+Western allies,neg,44.723677,2
+Western New England University School of Law,neu,35.525761,1
+WhatsApp,pos,59.262778,1
+While Africa,neu,51.361518,11
+White Helmets,neg,54.848021,1
+White Helmets,neg,47.247953,1
+White Helmets,pos,38.178638,2
+White House,pos,53.8514,1
+White House,neu,45.340846,2
+White House,pos,52.504031,1
+White House,neu,55.911166,4
+White House,pos,79.050858,2
+White House,neu,61.194764,1
+White House,neg,68.972286,1
+White House,neu,90.418459,3
+White House,pos,64.240676,1
+White House,neg,45.36046,1
+White House,pos,65.872948,1
+Will Smith,pos,75.490141,1
+Will Yong,neu,77.628657,1
+Wilma,pos,54.985776,1
+Wimbledon,neu,79.392791,1
+Winter Olympics,neu,62.255254,1
+Wold Wildlife Fund,neu,59.917067,1
+Wong Maye-E,pos,60.257785,1
+Wonsan,neu,39.540369,2
+Workers' Party,pos,67.941653,1
+World Bank,neg,73.206584,1
+World Bank's International Finance Corporation,pos,50.039289,1
+World Health Organization,neg,55.582915,2
+World Health Organization,neg,79.177027,1
+World Oceans,neu,60.370653,1
+World Trade Organization,neu,40.867161,6
+World Trade Organization,neg,53.512425,1
+writer,neg,62.672462,1
+WWF International,pos,47.578996,4
+Xi Jinping,neg,49.544725,3
+Xi Jinping,neu,41.000056,1
+Xi Jinping,neu,56.321738,3
+Xi Jinping,pos,62.469381,9
+Xi Jinping,neu,49.114662,2
+Xinjiang,neu,53.21649,1
+Yahya Arhab,neg,66.226662,2
+Yahya Assiri,neu,94.834563,3
+Yahya Jammeh,pos,52.42962,1
+Yang Moo-jin,neu,81.533129,2
+Yemen,neg,84.112285,11
+Yemen,neu,62.342377,1
+Yemen,neg,63.627517,4
+Yemen,neu,48.566571,12
+Yemen,neg,50.23671,7
+Yemen,neg,91.144825,10
+Yemeni,neu,56.04912,1
+Yemeni,neu,37.768573,1
+Yemeni government forces,neg,59.351948,1
+Yemenis,neu,81.593162,1
+Yemenis,neg,66.681093,1
+Yemenis,neu,64.987148,1
+Yes,pos,59.523006,1
+Yiech Pur Biel,neu,83.947958,1
+Yousif Ajlan,pos,52.785094,11
+YouTube,neu,80.050538,2
+Yoweri Museveni,neg,53.356791,1
+Yoweri Museveni,pos,66.666861,1
+Yugoslavia,neu,65.195405,1
+Yulia Skripal,neu,41.598442,1
+Yves Herman,neu,66.736225,1
+Yves Herman,neu,58.658278,1
+Zafer Abdullah,neu,88.094397,2
+Zainab Ansari,neg,64.029192,1
+Zambia,neu,81.180158,1
+Zamir Kabulov,neu,69.284174,1
+Zardana,neg,87.875655,6
+Zardana,neg,49.90119,2
+Zeina Khodr,neu,96.771226,3
+Zena Tahhan,pos,65.515842,2
+Zhou Enlai,neg,48.322172,1
+Zimbabwe,neg,46.292241,1
+Zimbabwe,pos,50.827795,1
+Zintan,neu,56.683583,1
+Zionist,neu,94.662426,14
+Zionist,pos,52.916653,1
+Zionists,neg,66.5001,1

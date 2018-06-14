@@ -1,0 +1,1665 @@
+Entities,neg,pos,neu,Count
+United States,15,6,6,138
+Donald Trump,16,10,9,133
+US,12,14,8,130
+President,33,47,24,104
+Al Jazeera,20,9,32,101
+North Korea,5,7,4,82
+Turkey,6,3,5,79
+Iran,8,3,7,75
+Vladimir Putin,5,3,2,73
+Singapore,4,11,6,70
+Taliban,5,2,1,69
+China,4,4,6,67
+Kim Jong-un,6,11,2,66
+Al Jazeera News,7,8,5,66
+Russia,12,4,4,64
+G7,6,3,4,61
+Reuters,14,6,22,56
+Canada,10,3,3,56
+Jordan,2,3,3,55
+Mohamed Ould Atigh,0,1,0,47
+Yemen,4,0,2,45
+Iraq,4,0,5,44
+president,9,9,22,40
+North Korean,5,11,1,39
+Afghanistan,4,2,5,39
+Omar al-Razzaz,1,0,2,37
+Syria,4,0,4,35
+Saudi,6,1,4,34
+Turkish,5,1,3,34
+Prime Minister,9,10,12,31
+Pyongyang,5,3,3,30
+Saudi Arabia,4,3,3,30
+Israel,2,1,1,30
+African Union,1,0,1,30
+Saturday,6,8,7,29
+Guatemala,4,2,1,29
+Justin Trudeau,5,2,1,29
+Thursday,13,2,8,29
+International Criminal Court,2,1,2,29
+Ashraf Ghani,2,0,2,29
+Jacob Zuma,0,0,1,29
+Palestinian,2,0,4,29
+Harvey Weinstein,0,0,1,28
+Houthis,2,0,3,28
+Sunday,8,2,4,27
+Shanghai Cooperation Organisation,2,1,2,25
+Pakistan,3,0,5,25
+Ethiopia,0,1,1,24
+AP,5,2,3,23
+Syrian,4,1,3,23
+Shafiq,1,0,0,23
+Afghan,6,0,0,22
+prime minister,8,6,7,21
+Friday,7,3,5,21
+Russian,4,2,3,21
+Eritrea,1,0,0,21
+Gaza,4,0,0,21
+Middle East,3,7,1,19
+Chinese,4,4,2,19
+Washington,10,4,2,19
+Egypt,2,3,4,19
+France,4,3,6,19
+United Nations,4,2,4,19
+Palestinians,1,1,6,19
+Caty,1,0,0,19
+Farouk Baakar,1,0,0,19
+Palestine,1,0,4,19
+White House,2,5,4,18
+American,6,3,4,18
+Frances Sistook Ozenna,0,1,0,18
+Iranian,4,1,2,18
+Xi Jinping,1,1,3,18
+Berlin Werbefrei,1,0,0,18
+Khadija Siddiqi,1,0,0,18
+South Korea,0,1,3,17
+Baghdad,4,0,0,17
+Myanmar,2,0,1,17
+Canadian,5,4,1,16
+April,9,1,2,16
+British,1,1,2,16
+Abiy Ahmed,0,0,1,16
+Idlib province,2,0,1,16
+Islam,3,0,2,16
+Israeli,2,0,3,16
+Kainat Soomro,1,0,0,16
+U.S.,2,0,0,16
+Europe,4,4,4,15
+Jerusalem,1,3,1,15
+Trump,0,3,0,15
+Zionist,0,1,1,15
+African,1,0,1,15
+Australia,2,0,1,15
+EU,5,0,3,15
+India,3,5,1,14
+Twitter,2,4,7,14
+Germany,3,2,5,14
+Muslims,1,2,4,14
+Muharrem Ince,0,1,0,14
+Abu Nihad,0,0,1,14
+Islamic State,2,0,2,14
+Jared Kushner,1,0,0,14
+Sanaa,3,0,1,14
+Sara Raza,0,0,1,14
+European,2,4,5,13
+Beijing,1,3,3,13
+Nicaragua,3,1,0,13
+USA,0,1,0,13
+Daniel Ortega,2,0,0,13
+International Committee of the Red Cross,2,0,0,13
+International Monetary Fund,2,0,2,13
+Kurdistan Workers' Party,2,0,1,13
+Kuwait,1,0,2,13
+Manus Island,1,0,0,13
+UN,2,0,3,13
+king,3,6,3,12
+Tuesday,3,4,3,12
+America,6,1,0,12
+Jordanian,1,1,3,12
+Tehran,2,1,2,12
+Gulf,3,0,3,12
+Jordan Land Forces Retired,0,0,1,12
+Marah Natshe,0,0,1,12
+Muhammed Ghurab,1,0,0,12
+North,1,0,1,12
+Pierre Nkurunziza,1,0,0,12
+West,4,0,4,12
+Moscow,2,4,1,11
+Korean,0,3,0,11
+UK,0,2,5,11
+Arab,3,1,3,11
+Japan,3,1,4,11
+Kabul,4,1,1,11
+Yousif Ajlan,0,1,0,11
+Ankara,4,0,0,11
+Assad government,0,0,1,11
+Austria,1,0,3,11
+Bemba,2,0,0,11
+Burundi,3,0,0,11
+"Flint, Michigan",1,0,0,11
+Hudaida,2,0,1,11
+Kim Jong Il,1,0,0,11
+Kurdish People's Protection Units,1,0,2,11
+Little Diomede,1,0,0,11
+"Palang Khali, Bangladesh",1,0,0,11
+Rafael Nadal,1,0,0,11
+Russian nation,1,0,0,11
+While Africa,0,0,1,11
+European Union,2,3,4,10
+Korean Peninsula,1,3,1,10
+prosecutor,5,3,2,10
+Wednesday,3,2,5,10
+Abdel Fattah el-Sisi,0,1,0,10
+Angela Merkel,3,1,1,10
+Group of Seven,1,1,0,10
+Iran nuclear deal,4,1,2,10
+Mauritania,0,1,0,10
+Mauritanian,0,1,0,10
+Binali Yildirim,1,0,0,10
+David Melgar,1,0,0,10
+Donald J. Trump,1,0,0,10
+Joseline Xeron,1,0,0,10
+Mexico,3,0,5,10
+"Montreal, Canada",1,0,1,10
+Sebastian Kurz,0,0,2,10
+Tigris River,2,0,0,10
+Muslim,3,2,0,9
+Russian President,0,2,5,9
+Calvin Chua,0,1,0,9
+Hassan Rouhani,2,1,0,9
+Latin America,1,1,2,9
+professor,2,1,6,9
+United Arab Emirates,2,1,2,9
+Associated Press,1,0,5,9
+David Goldblatt,0,0,1,9
+Flint,1,0,0,9
+Human Rights Watch,3,0,1,9
+Iraqi,3,0,2,9
+ISIL,1,0,0,9
+Kim Yong-chol,1,0,0,9
+PCS,0,0,1,9
+Pope Francis,1,0,0,9
+Rakhmat Akilov,1,0,0,9
+Rohingya,1,0,1,9
+Sudan,1,0,0,9
+Suzanne Goldberg,0,0,1,9
+Syrian government,2,0,0,9
+February,1,3,4,8
+German,2,3,2,8
+Foreign Minister,0,2,6,8
+French,2,2,3,8
+Americans,3,1,2,8
+Britain,2,1,4,8
+Charles Hankla,0,1,0,8
+Jean-Pierre Bemba,2,1,0,8
+Kakuma camp,0,1,0,8
+Karla Altmayer,0,1,0,8
+Mahnoz Aliyar,1,1,0,8
+Nouf Abdulaziz al-Jerawi,1,1,0,8
+parliament,2,1,2,8
+South Africa,2,1,1,8
+Trump Kim-Chi,0,1,0,8
+Amman,3,0,1,8
+Badme,1,0,0,8
+Christine Van den Wijngaert,1,0,0,8
+Kurdish,3,0,1,8
+Lebanese,3,0,1,8
+LeeAnne Walters,1,0,0,8
+London,1,0,3,8
+Mediterranean,1,0,0,8
+Michigan,1,0,1,8
+Moise Katumbi,0,0,1,8
+Qingdao,0,0,3,8
+Sumitha Narayanan Kutty,1,0,0,8
+UNHCR,0,0,1,8
+Zardana,2,0,0,8
+East,1,5,1,7
+Chancellor,2,2,3,7
+John Hendren,0,2,1,7
+Monday,2,2,3,7
+South Korean,2,2,0,7
+Damascus,0,1,2,7
+FIFA,0,1,0,7
+Hamas,1,1,0,7
+Islamic,3,1,2,7
+Latin American,0,1,0,7
+North Koreans,2,1,0,7
+President Rouhani,0,1,0,7
+Abd al-Qader al-Husseini,0,0,1,7
+Abdel Hadi al-Shami,1,0,0,7
+Assad regime,0,0,1,7
+Ethiopian,0,0,1,7
+GCC,0,0,2,7
+Israelis,2,0,5,7
+Jimmy Morales,1,0,0,7
+two years,3,0,3,7
+West Kabul,1,0,0,7
+World Trade Organization,1,0,1,7
+West Jerusalem,1,5,0,6
+foreign ministry,0,3,3,6
+Arab countries,1,2,1,6
+commander,1,2,3,6
+EPA,3,2,0,6
+Lee Hsien Loong,0,2,1,6
+Recep Tayyip Erdogan,0,2,0,6
+three years,1,2,3,6
+Austrian,2,1,0,6
+Baakar,2,1,3,6
+Guatemalan,1,1,0,6
+Haider al-Abadi,0,1,1,6
+Istanbul,2,1,2,6
+Jawad Anani,0,1,0,6
+Joint Comprehensive Plan of Action,0,1,0,6
+Kim Chang Son,0,1,0,6
+King,0,1,5,6
+North Africa,1,1,1,6
+Pakistani,3,1,0,6
+Qatar,1,1,1,6
+Quebec City,1,1,3,6
+Ramadan Tent Project,0,1,0,6
+Republican People's Party,0,1,0,6
+UN Security Council,2,1,0,6
+Afghan government,1,0,2,6
+Africa,1,0,4,6
+ambassador,2,0,4,6
+Anthony Bourdain,0,0,1,6
+director,4,0,2,6
+Donald Abelson,1,0,0,6
+Fuego,2,0,0,6
+General,3,0,3,6
+Greece,1,0,0,6
+Iranian President,2,0,1,6
+Italy,2,0,3,6
+La Khaima,1,0,0,6
+Lebanon,1,0,1,6
+Madagascar,0,0,1,6
+Managua,2,0,0,6
+Mukhtar Mai,1,0,0,6
+Nestle,1,0,0,6
+President Nkurunziza,1,0,0,6
+Rodrigo Abd,1,0,0,6
+Solomon R Guggenheim Foundation,0,0,1,6
+Stockholm,1,0,0,6
+Thomas Wright,1,0,0,6
+Koreas,0,3,0,5
+Air Force One,1,2,2,5
+Andrew Wilks,0,2,0,5
+December,0,2,1,5
+Florence Looi,0,2,1,5
+Ukraine,2,2,0,5
+Bashar al-Assad,1,1,2,5
+Boddin,0,1,0,5
+five-year,3,1,1,5
+Hollywood,1,1,0,5
+judge,3,1,1,5
+Kazakhstan,1,1,2,5
+Kenya,0,1,0,5
+Mayaa al-Zahrani,0,1,1,5
+Omar Salha,0,1,0,5
+Paul Kagame,1,1,0,5
+Phillip Alston,0,1,0,5
+Riyadh,1,1,2,5
+Ronald Reagan,0,1,0,5
+Russians,2,1,0,5
+Syrians,3,1,0,5
+three months,1,1,1,5
+Trump-Kim,0,1,1,5
+two-day,0,1,4,5
+vice president,1,1,3,5
+Abdullah II,1,0,3,5
+Arab Spring,1,0,1,5
+Democratic Republic of the Congo,1,0,0,5
+DRC,1,0,1,5
+Dutch,0,0,5,5
+Emmanuel Macron,3,0,1,5
+Eritrean,1,0,0,5
+Fatih Yildiz,1,0,0,5
+Hani al-Mulki,1,0,2,5
+Ilisu Dam,1,0,0,5
+Jewish,2,0,1,5
+Jews,0,0,1,5
+Kenyan,2,0,0,5
+Levant,0,0,5,5
+Mahmoud Hammad,0,0,1,5
+Manbij,1,0,1,5
+Max Walker,1,0,0,5
+Mevlut Cavusoglu,0,0,1,5
+Mohammed bin Salman,2,0,0,5
+Muzaffar Shah,1,0,0,5
+New York City - Shafiq,1,0,0,5
+Rafiullah Yousafzai,1,0,0,5
+S Rajaratnam School of International Studies,1,0,0,5
+Salim al-Jabouri,1,0,0,5
+Senate,1,0,0,5
+Somali,0,0,2,5
+United Nations Security Council,1,0,1,5
+Volcan de Fuego,2,0,0,5
+Macron,1,3,0,4
+Shia,0,3,1,4
+Congolese,1,2,0,4
+Middle Eastern,0,2,0,4
+Quebec,2,2,0,4
+Shinzo Abe,1,2,0,4
+Abu Dhabi,0,1,3,4
+Ahmed Rashid,0,1,1,4
+Air China 747,1,1,1,4
+Aivin Hans,0,1,0,4
+Asia,0,1,2,4
+Australian,2,1,0,4
+Barack Obama,1,1,0,4
+Couscous,0,1,0,4
+doctor,1,1,2,4
+Dominic Thiem,0,1,0,4
+El Porvenir,0,1,0,4
+five years,0,1,3,4
+Gouri Sharma,0,1,1,4
+Greek,1,1,0,4
+Honduras,0,1,0,4
+Indian,1,1,2,4
+Japanese,0,1,3,4
+Kader Attia,0,1,0,4
+Krzysztof Pelc,0,1,0,4
+Mirza Toma,0,1,0,4
+Muqtada al-Sadr,1,1,0,4
+Nauru,0,1,0,4
+San Miguel Los Lotes,0,1,1,4
+Shanghai Cooperation Organisation (SCO,0,1,0,4
+Sur Baher,0,1,0,4
+Tel Aviv,1,1,0,4
+Tom Benner,0,1,1,4
+Uzbekistan,1,1,2,4
+White Helmets,2,1,0,4
+WWF International,0,1,0,4
+Abdullah II. Abu Odeh,0,0,1,4
+ACHPR,1,0,0,4
+Ahmed Mahjoub,1,0,0,4
+Ali Noorani,1,0,0,4
+Arab League,1,0,0,4
+Big Diomede,0,0,1,4
+Chrystia Freeland,1,0,2,4
+Crown Prince,1,0,3,4
+Daoud Kuttab,1,0,0,4
+Democratic Republic of Congo,1,0,1,4
+four years,3,0,0,4
+Halima Aden,0,0,1,4
+Hay'et Tahrir al-Sham,0,0,1,4
+Iranian diaspora,1,0,0,4
+Islamic Republic of Iran,0,0,1,4
+Islamic State of Iraq,0,0,1,4
+Jacob Kirkegaard,0,0,1,4
+Juan Orlando Hernandez,1,0,0,4
+July,2,0,1,4
+Larry Kudlow,2,0,0,4
+Louisa Reynolds,2,0,0,4
+Mazen Irsheid,2,0,0,4
+Mecca,1,0,1,4
+Mohammed bin Zayed Al Nahyan,0,0,3,4
+Musa al-Adwan,0,0,1,4
+New York,0,0,4,4
+Nicaraguan,1,0,0,4
+Qandil,0,0,1,4
+Russian president,0,0,2,4
+Sabah Al Ahmad Al Sabah,0,0,2,4
+"Seoul, South Korea",0,0,1,4
+Showkat Shafi,0,0,1,4
+Singaporean,0,0,1,4
+Somalia,2,0,0,4
+Soviet,1,0,3,4
+Subhi al-Khadra,0,0,1,4
+Sulaimaniyah,1,0,0,4
+Syrian army,1,0,0,4
+Tafi Mhaka,1,0,1,4
+three-year,3,0,1,4
+two hours,3,0,0,4
+US service member,1,0,0,4
+"Washington, DC",1,0,3,4
+North Korea's nuclear weapons,0,3,0,3
+Canadians,0,2,1,3
+Chairman,0,2,1,3
+Lee,0,2,0,3
+Mile End,0,2,0,3
+NATO,1,2,0,3
+Shanghai,0,2,1,3
+TEDx,0,2,0,3
+Africans,0,1,1,3
+al-Shabab,0,1,0,3
+Arkady Babchenko,0,1,0,3
+Bahrain,0,1,1,3
+British army,0,1,0,3
+Capella Hotel,0,1,2,3
+Chicago,0,1,0,3
+CIA,2,1,0,3
+G8,0,1,1,3
+God,0,1,2,3
+Heather Nauert,0,1,0,3
+Horacio Cartes,0,1,0,3
+Ian Collins,0,1,0,3
+Iranians,1,1,0,3
+James Bays,0,1,1,3
+Jimmy Carter,0,1,0,3
+Khalifa Haftar,0,1,0,3
+Khartoum,0,1,0,3
+Kimberly Halkett,0,1,0,3
+Kyrgyzstan,0,1,2,3
+Melissa Fleming,0,1,0,3
+"Milan, Italy",0,1,0,3
+Montreal - Canada,0,1,0,3
+Nassar,0,1,0,3
+Our Lives,0,1,0,3
+Sasha Goryunov,0,1,0,3
+School of Oriental and African Studies,0,1,0,3
+Scott Heidler,0,1,1,3
+Sentosa,0,1,1,3
+Shangri-La Hotel,0,1,1,3
+Tajikistan,0,1,2,3
+three decades,1,1,1,3
+Turks,0,1,1,3
+two days,1,1,1,3
+two decades,2,1,0,3
+two months,1,1,0,3
+two weeks,1,1,1,3
+Adnan Abu Odeh,0,0,1,3
+Aleppo,0,0,1,3
+Ali Younes,2,0,0,3
+Allahdad,1,0,0,3
+al-Qaeda,1,0,2,3
+American dream,1,0,0,3
+Amnesty International,2,0,0,3
+Andrew Thomas,2,0,0,3
+Arwa Ibrahim,1,0,1,3
+Beirut,0,0,2,3
+Ben Winsor,0,0,1,3
+Bill Cosby,1,0,0,3
+Central Asia,2,0,1,3
+Chabahar,1,0,0,3
+chief,0,0,3,3
+Chile,2,0,0,3
+Columbia Law School,0,0,1,3
+commanders,1,0,2,3
+Crimea,2,0,1,3
+David Mercer,1,0,1,3
+EEBC,1,0,0,3
+Euphrates,0,0,2,3
+European Commission,1,0,1,3
+Fatih al-Salaam,1,0,0,3
+four decades,2,0,0,3
+Gaza Strip,2,0,0,3
+Gulf Cooperation Council,1,0,1,3
+Gulf nation,2,0,0,3
+Heiko Wimmen,1,0,0,3
+Hussein,1,0,0,3
+Iraqis,1,0,0,3
+Islamic State of Iraq and Levant,0,0,1,3
+Jaffa,0,0,1,3
+Jewish state,0,0,1,3
+Jinotega,1,0,0,3
+Joseph Kabila,2,0,0,3
+Julie Goldscheid,1,0,0,3
+Kilauea Volcano,0,0,1,3
+Kimberly Sofia Gonzalez,1,0,0,3
+King Abdullah,3,0,0,3
+Kremlin,1,0,2,3
+Kristine Beckerle,1,0,0,3
+Kurdistan Regional Government,0,0,1,3
+La Malbaie,2,0,0,3
+Lauren Carasik,1,0,1,3
+Leonel Dubon,1,0,0,3
+Liwa al-Baqir,0,0,1,3
+"London, England",0,0,1,3
+Maha el-Wadia,0,0,1,3
+Manhattan,1,0,1,3
+Mereana Hond,1,0,1,3
+"Middle East , Saudi Arabia",1,0,0,3
+Musun Kim,1,0,0,3
+Nanyang Technological University,1,0,0,3
+Nigeria,1,0,0,3
+Organisation of African Unity,1,0,0,3
+Panama,0,0,1,3
+Paraguay,1,0,0,3
+PM,3,0,0,3
+presidents,3,0,0,3
+Ramallah,0,0,2,3
+Red Cross,2,0,0,3
+Rome Statute,0,0,2,3
+Sadiq Khan,0,0,1,3
+SDF,1,0,0,3
+seven-year,2,0,0,3
+Shah Hussain,1,0,0,3
+six years,1,0,2,3
+South,0,0,1,3
+Steffen Nikolaj Boddin,1,0,0,3
+Sudanese,1,0,1,3
+Supreme Court,2,0,0,3
+The Stream,0,0,2,3
+Trudeau,1,0,0,3
+two-month,1,0,2,3
+two-year,1,0,2,3
+UAE,1,0,0,3
+Uganda,1,0,1,3
+Uighurs,0,0,1,3
+United Arab Emirate,0,0,1,3
+Uruguay,1,0,2,3
+Western allies,2,0,0,3
+World Health Organization,2,0,0,3
+Yahya Assiri,0,0,1,3
+Yemenis,1,0,2,3
+Zeina Khodr,0,0,1,3
+envoy,0,2,0,2
+Guatemalans,0,2,0,2
+Paya Lebar Airbase,0,2,0,2
+"Addis Ababa, Ethiopia",0,1,0,2
+Aina Khan,0,1,0,2
+Al Jazeera Trump,0,1,0,2
+Ala'a Abo Alrob,0,1,0,2
+Alan Fisher,0,1,0,2
+Alexander Zemlianichenko,1,1,0,2
+Alfredo Stroessner,0,1,0,2
+Algeria,0,1,0,2
+al-Rusafa,0,1,0,2
+America First,0,1,1,2
+Andrew Brunson,0,1,0,2
+Aqeela Tavakoli,0,1,0,2
+Asia Pacific,0,1,1,2
+Bangladesh,0,1,0,2
+Benjamin Netanyahu,0,1,0,2
+Berlin,0,1,1,2
+Bill C,0,1,0,2
+bishops,0,1,1,2
+Brazil,0,1,0,2
+Burke,0,1,0,2
+cabinet,1,1,0,2
+Cairo,0,1,1,2
+Catholic,0,1,1,2
+Central Asian,0,1,1,2
+chancellor,0,1,1,2
+CNN,0,1,1,2
+Coalition Against Workplace Sexual Violence,0,1,0,2
+EFE,1,1,0,2
+Egyptian,0,1,0,2
+elders,1,1,0,2
+Elizabeth Puranam,1,1,0,2
+"Escuintla, Guatemala",0,1,1,2
+Felix Tshisekedi,0,1,0,2
+German Federal Government,1,1,0,2
+Gulsun Karamustafa,0,1,0,2
+House of Commons,0,1,0,2
+Ibrahim Kalin,0,1,0,2
+Indonesia,0,1,1,2
+interior ministry,1,1,0,2
+Iraqi government,0,1,0,2
+Israeli military,0,1,0,2
+Italian,0,1,1,2
+January,1,1,0,2
+Jeff Cohen,0,1,0,2
+Jesco Denzel,0,1,1,2
+Joana Hadjithomas,0,1,0,2
+John Foster Dulles,0,1,0,2
+Jose Cabezas,0,1,0,2
+Khalid al-Mousily,1,1,0,2
+Khalil Joreige,0,1,0,2
+Kim Il-sung,0,1,0,2
+Kinshasa,1,1,0,2
+Libya,0,1,1,2
+Mamnoon Hussain,0,1,1,2
+Mattia Tomba,0,1,1,2
+Mike Pompeo,0,1,1,2
+Narendra Modi,0,1,1,2
+National Security Adviser,0,1,1,2
+New York Times building,0,1,0,2
+Non-Proliferation Treaty,0,1,0,2
+Ottawa,0,1,1,2
+Palestinian authorities,0,1,0,2
+Parachinar,0,1,0,2
+Pasteur Institute of Madagascar,0,1,0,2
+pope,1,1,0,2
+Presiding judge,1,1,0,2
+Quetta,0,1,0,2
+Rafeah,0,1,0,2
+Rokni Haerizadeh,0,1,0,2
+Rwanda,0,1,1,2
+Secretary of State,0,1,1,2
+Sinem Koseoglu,0,1,0,2
+Singaporeans,0,1,1,2
+Skype,0,1,0,2
+Solomon R. Guggenheim Foundation,0,1,0,2
+South Koreans,0,1,0,2
+Southeast Asia,0,1,1,2
+Spaniard,0,1,0,2
+Straits Times,0,1,1,2
+Ugandan,1,1,0,2
+US & Canada,1,1,0,2
+West Bank,0,1,1,2
+Yoweri Museveni,1,1,0,2
+Zena Tahhan,0,1,0,2
+Zimbabwe,1,1,0,2
+Afghans,2,0,0,2
+AFP,2,0,0,2
+AFP news agency,1,0,1,2
+Africa Command,1,0,0,2
+African Court on Human and Peoples' Rights,0,0,1,2
+Agreed Framework,1,0,0,2
+Ahmed al-Hissi,1,0,0,2
+Ahmed Idris,1,0,0,2
+Akram Ahmed,1,0,0,2
+Al Jazeera Media Network,0,0,2,2
+Al Rai,1,0,0,2
+Algiers Peace Accord,1,0,0,2
+Alotenango,0,0,2,2
+Amman Stock Exchange,0,0,1,2
+Anthony,1,0,0,2
+Arctic Circle,1,0,0,2
+Arkahdy Babchenko,1,0,0,2
+Asmara,0,0,1,2
+associate professor,0,0,2,2
+Atlantic,1,0,0,2
+Baraa Shiban,1,0,0,2
+BBC,1,0,1,2
+Bernard Smith,1,0,0,2
+Big Island,1,0,0,2
+Bush administration,1,0,0,2
+Central African Republic,1,0,0,2
+chairman,0,0,2,2
+Changi Airport,0,0,2,2
+Charles Stratford,1,0,0,2
+Chief of Staff,1,0,1,2
+chief of staff,0,0,2,2
+Choson Exchange,1,0,0,2
+Christoph Vogt,1,0,0,2
+Clinton administration,1,0,0,2
+Colombia,0,0,1,2
+CONIFA,0,0,1,2
+CONRED,1,0,0,2
+CUNY School of Law,1,0,0,2
+Dania Ahmed,1,0,0,2
+Deraa,1,0,0,2
+"Derna, Libya",0,0,1,2
+Director,0,0,2,2
+Dominic Kane,0,0,1,2
+Durban,1,0,0,2
+Durban High Court,0,0,1,2
+Edwin Bravo,1,0,0,2
+Efrain Rios Montt,1,0,0,2
+Emirati,1,0,0,2
+Erick Rivas,1,0,0,2
+Eritreans,1,0,0,2
+Escuintla,0,0,2,2
+Ethiopians,1,0,0,2
+Fahad Khitan,0,0,1,2
+Farah,0,0,1,2
+Fatah,0,0,1,2
+Foua,1,0,0,2
+four-year,1,0,1,2
+Gambia,1,0,0,2
+Gebran Bassil,0,0,1,2
+Gelani Farhad,1,0,0,2
+Geneva,1,0,1,2
+Gernot Blumel,0,0,1,2
+Ghadi al-Khoury,1,0,0,2
+Ginette Petitpas Taylor,0,0,1,2
+Goldblatt's,0,0,1,2
+Guatemala City,1,0,1,2
+Gulf Corporation Council,1,0,0,2
+Haid Haid,1,0,0,2
+Hawaii,0,0,1,2
+Herbert Kickl,1,0,0,2
+Hezbollah,1,0,0,2
+Holland,1,0,0,2
+Hua Chunying,1,0,0,2
+Ice Curtain,1,0,0,2
+International Energy Agency,1,0,0,2
+Iranian president,1,0,0,2
+Iraqi foreign ministry,1,0,0,2
+Iraqi sovereignty,1,0,0,2
+Israeli forces,1,0,1,2
+Jillian Kestler-D'Amours,0,0,1,2
+Jizan,1,0,0,2
+John Bolton,1,0,1,2
+Jubaland,1,0,0,2
+Justice and Development Party,0,0,1,2
+Kabila,1,0,0,2
+Kefraya,1,0,0,2
+Kim Jong,1,0,0,2
+King Salman,0,0,2,2
+Korean Central News Agency,0,0,1,2
+Kremlin spokesman,0,0,1,2
+Kurds,0,0,1,2
+Kuwaiti,1,0,0,2
+Larry Nasser,0,0,1,2
+last Sunday,1,0,0,2
+Lise Grande,0,0,1,2
+Lizzie Porter,2,0,0,2
+Lucy Nicholson,1,0,0,2
+Malcolm Turnbull,1,0,0,2
+Manuel Teodoro,1,0,0,2
+Margaret Court,1,0,0,2
+Mariana Sanchez,1,0,0,2
+Marib,1,0,0,2
+Maziar Motamedi,0,0,1,2
+Mercedes Benz,0,0,1,2
+MLC,1,0,0,2
+Mohamed Ansari Fard,1,0,0,2
+Mohammed Jamjoom,0,0,1,2
+Moon,1,0,0,2
+MORE FROM AL JAZEERA,2,0,0,2
+Mr,1,0,1,2
+M'zab Valley,1,0,0,2
+Nafez Adayess,0,0,1,2
+National Women's Law Center,1,0,0,2
+Netherlands,0,0,2,2
+New York City,0,0,1,2
+New Yorkers,1,0,0,2
+Nigerian,1,0,0,2
+Nimr al-Nimr,1,0,0,2
+North Carolina,0,0,1,2
+October,1,0,1,2
+one day,0,0,1,2
+one year,1,0,1,2
+Paris,2,0,0,2
+pastor,1,0,1,2
+Priya Pillai,0,0,1,2
+Qatana,0,0,1,2
+Quneitra,1,0,0,2
+Rami Abdulrahman,1,0,0,2
+"Rio de Janeiro, Brazil",0,0,1,2
+Rome,2,0,0,2
+Ruslan Trad,0,0,1,2
+Rwandan,1,0,1,2
+Saad Maan,0,0,1,2
+Salem Abdullah al-Jaber Al Sabah,1,0,0,2
+San Juan Alotenango,1,0,0,2
+Sarafand,1,0,0,2
+Saudi Press Agency,1,0,1,2
+Sayedul Shahada,1,0,0,2
+Sayedul Shohada,1,0,0,2
+Sayedul Shohada School,1,0,0,2
+Sepp Blatter,0,0,1,2
+Serwah,1,0,0,2
+Shafiqa Rahimi,0,0,1,2
+Sheikh,0,0,2,2
+Silvio Jose Baez,2,0,0,2
+six-year,1,0,0,2
+Sochi,1,0,0,2
+Spain,0,0,2,2
+state of Palestine,0,0,1,2
+"Sudan, South Sudan",1,0,0,2
+Sunni,1,0,0,2
+Swedish,1,0,0,2
+Taftanaz,0,0,1,2
+Taliban Shura,0,0,1,2
+Tammy Walkers,1,0,0,2
+the Hague,0,0,1,2
+The Hague,1,0,1,2
+The Listening Post,1,0,0,2
+three days,0,0,2,2
+three-day,0,0,2,2
+Tokyo,0,0,1,2
+Tony Karon,0,0,1,2
+Trump Administration,1,0,0,2
+Turki al-Malki,0,0,1,2
+UBS,0,0,1,2
+Uighur,0,0,1,2
+United Kingdom,1,0,1,2
+United Nations Assistance Mission in Afghanistan,1,0,0,2
+US government,1,0,1,2
+US sanctions,1,0,0,2
+Vatican,1,0,0,2
+Venezuela,1,0,0,2
+Vivian Balakrishnan,0,0,1,2
+Volcano of Fire,2,0,0,2
+Walid Mouallem,0,0,1,2
+Wayne Hay,1,0,0,2
+Wonsan,0,0,1,2
+Yahya Arhab,1,0,0,2
+Yang Moo-jin,0,0,1,2
+Yemeni,0,0,2,2
+YouTube,0,0,1,2
+Yves Herman,0,0,2,2
+Zafer Abdullah,0,0,1,2
+Abdallah Farah,0,1,0,1
+Abdel Mansour Hadi,0,1,0,1
+Adel Hana,0,1,0,1
+African affairs,0,1,0,1
+Agriculture Minister,0,1,0,1
+Al Ghouri Palace,0,1,0,1
+Aleppo province,0,1,0,1
+Alexei Kuznetsov,0,1,0,1
+Algerian,0,1,0,1
+Algiers Agreement,0,1,0,1
+Al-Hathloul,0,1,0,1
+Ali Abdullah Saleh,0,1,0,1
+al-Jihad al-Muqadas,0,1,0,1
+ambassadors,0,1,0,1
+Andrey] Arshavin,0,1,0,1
+"Ankara, Turkey",0,1,0,1
+Arab nations,0,1,0,1
+Argentina,0,1,0,1
+Arhab,0,1,0,1
+Arusha,0,1,0,1
+assistant professor,0,1,0,1
+associate professor of law,0,1,0,1
+Athens,0,1,0,1
+"Atlanta, Georgia",0,1,0,1
+ATR Television Network,0,1,0,1
+BA,0,1,0,1
+Bangladeshi,0,1,0,1
+Barcelona,0,1,0,1
+Bernie Sanders,0,1,0,1
+Bill C-45,0,1,0,1
+Binnish,0,1,0,1
+Birmingham,0,1,0,1
+Brink,0,1,0,1
+Canadian Global Affairs Institute,0,1,0,1
+Christianity,0,1,0,1
+CNPC,0,1,0,1
+Col,0,1,0,1
+Colin Robertson,0,1,0,1
+Colorado Party,0,1,0,1
+Committee for Human Rights in North Korea,0,1,0,1
+crown prince,0,1,0,1
+Daniel Sonnentag,0,1,0,1
+Debbie Hill,0,1,0,1
+Denni,0,1,0,1
+deputy assistant,0,1,0,1
+deputy director general,0,1,0,1
+deputy editor,0,1,0,1
+deputy mission director,0,1,0,1
+deputy news editor,0,1,0,1
+deputy press secretary,0,1,0,1
+deputy prime minister,0,1,0,1
+Diane Eastabrook,0,1,0,1
+director of Refugio de la,0,1,0,1
+EBBC,0,1,0,1
+education minister,0,1,0,1
+eight months,0,1,0,1
+El Trumpo,0,1,0,1
+Eman Al-Nafajan,0,1,0,1
+"Equatorial Guinea, Gabon",0,1,0,1
+Esmeralda Lopez,0,1,0,1
+Ethiopia Boundary Commission,0,1,0,1
+Eugene Tan,0,1,0,1
+Fadi el-Ghazi,0,1,0,1
+Fairmount,0,1,0,1
+Fairmount Street,0,1,0,1
+Fethullah Gulen,0,1,0,1
+five-mile,0,1,0,1
+Flint River,0,1,0,1
+For the moment,0,1,0,1
+Fort Siloso,0,1,0,1
+forty days,0,1,0,1
+four hours,0,1,0,1
+Fox News,0,1,0,1
+Freedom,0,1,0,1
+Freedom Party,0,1,0,1
+"Galveston, Texas",0,1,0,1
+George Kennan,0,1,0,1
+Goldman Environmental Prize,0,1,0,1
+Guggenheim UBS MAP Global Art Initiative,0,1,0,1
+Gulf States,0,1,0,1
+Hamed Sarfarazi,0,1,0,1
+Hilary Clinton,0,1,0,1
+Hirak,0,1,0,1
+Icahn School of Medicine,0,1,0,1
+Iftar dinner,0,1,0,1
+Inderjeet Parmar,0,1,0,1
+International Centre for the Study of Radicalisation,0,1,0,1
+Isaac,0,1,0,1
+Italian Prime Minister,0,1,0,1
+Jaden Smith,0,1,0,1
+Jean-Claude Juncker,0,1,0,1
+Jillian Kestler,0,1,0,1
+Jordan's parliament,0,1,0,1
+Judaism,0,1,0,1
+Khalil Mazraawi,0,1,0,1
+Kim Jong Un,0,1,0,1
+Kim-Trump,0,1,0,1
+"La Malbaie, Quebec",0,1,0,1
+last July,0,1,0,1
+Last Wednesday,0,1,0,1
+last Wednesday,0,1,0,1
+Laurent Gbagbo,0,1,0,1
+lawyer boyfriend,0,1,0,1
+Libyan,0,1,0,1
+Lisa Curtis,0,1,0,1
+Little Zab,0,1,0,1
+Lucia Evans,0,1,0,1
+Maine,0,1,0,1
+Malaysia,0,1,0,1
+Manchester,0,1,0,1
+Manoto,0,1,0,1
+Mark Galeotti,0,1,0,1
+Martin Griffiths,0,1,0,1
+Masikryong Ski Resort,0,1,0,1
+MBS,0,1,0,1
+McGill University,0,1,0,1
+Mengistu Haile Mariam,0,1,0,1
+Mercado Oriental,0,1,0,1
+Michael Pembroke,0,1,0,1
+Michele Geraci,0,1,0,1
+Military Veterans Association,0,1,0,1
+minister of state for foreign affairs,0,1,0,1
+Mo Salah,0,1,0,1
+Moises Castillo,0,1,0,1
+Monte Carlo,0,1,0,1
+Moroccan,0,1,0,1
+Muhammad Mahmoud Jadallah,0,1,0,1
+Nazi,0,1,0,1
+New Republic,0,1,0,1
+Nidia Bautista,0,1,0,1
+Nina Ognianova,0,1,0,1
+nine months,0,1,0,1
+Noof Abdulaziz,0,1,0,1
+North America,0,1,0,1
+Nouakchott,0,1,0,1
+Omar Hashim,0,1,0,1
+one week,0,1,0,1
+one-day,0,1,0,1
+Papua New Guinea,0,1,0,1
+Paraguayan,0,1,0,1
+Party Congress,0,1,0,1
+Pentagon,0,1,0,1
+People's Party,0,1,0,1
+Perence Shiri,0,1,0,1
+Peterson Institute for International Economics,0,1,0,1
+"Phoenix, Arizona",0,1,0,1
+Playboy,0,1,0,1
+Poverty & Development,0,1,0,1
+Prague,0,1,0,1
+product manager,0,1,0,1
+Protectionist,0,1,0,1
+Puerto Rico,0,1,0,1
+Rafa,0,1,0,1
+Raj Shah,0,1,0,1
+Rebecca Cook,0,1,0,1
+Republican,0,1,0,1
+Rita,0,1,0,1
+Robert Mugabe,0,1,0,1
+RT,0,1,0,1
+Russia's Far East,0,1,0,1
+Sandy,0,1,0,1
+"Sao Paolo, Brazil",0,1,0,1
+Saud Arabia,0,1,0,1
+Sayedul Shohada school,0,1,0,1
+secretary of state,0,1,0,1
+Sicily,0,1,0,1
+six-month,0,1,0,1
+Spotify,0,1,0,1
+Stefanie Dekker,0,1,0,1
+Sufi,0,1,0,1
+Sun Jun 10 2018,0,1,0,1
+Swiss,0,1,0,1
+Switzerland,0,1,0,1
+Syrian rebel,0,1,0,1
+Tanglin,0,1,0,1
+Tanoura,0,1,0,1
+Tenganan Village,0,1,0,1
+Thailand,0,1,0,1
+Thierry Quenette,0,1,0,1
+This may,0,1,0,1
+three-meter,0,1,0,1
+Trans Siberian Railways,0,1,0,1
+Tyler Perry,0,1,0,1
+UK Supreme Court backs N Ireland,0,1,0,1
+United Nations Special Rapporteur,0,1,0,1
+University of Cape Town,0,1,0,1
+UNRWA,0,1,0,1
+US Navy,0,1,0,1
+USAID,0,1,0,1
+USS Pueblo,0,1,0,1
+Vermont,0,1,0,1
+Vital Kamerhe,0,1,0,1
+Wael Abbas,0,1,0,1
+WhatsApp,0,1,0,1
+Will Smith,0,1,0,1
+Wilma,0,1,0,1
+Wong Maye-E,0,1,0,1
+Workers' Party,0,1,0,1
+World Bank's International Finance Corporation,0,1,0,1
+Yahya Jammeh,0,1,0,1
+Yes,0,1,0,1
+Abbas Akhavan,1,0,0,1
+Abd-Rabbu Mansour Hadi,1,0,0,1
+Abir,0,0,1,1
+Addis Ababa,0,0,1,1
+Adidas,0,0,1,1
+Afghan army,0,0,1,1
+African Charter on Democracy,0,0,1,1
+African Charter on Human and Peoples' Rights,1,0,0,1
+Afrin,0,0,1,1
+Agency for International Development Cooperation,0,0,1,1
+Air Force,1,0,0,1
+Akbar Al Baker,0,0,1,1
+Al Arish,0,0,1,1
+Al-Aqsa Mosque,0,0,1,1
+Alaskan Natives,0,0,1,1
+al-Ekhbariya,0,0,1,1
+Alexei Druzhinin,1,0,0,1
+Ali Ansari,0,0,1,1
+Al-Masdar,0,0,1,1
+Al-Noor,1,0,0,1
+al-Nusra Front,1,0,0,1
+al-Shabaab,1,0,0,1
+al-Tanf,0,0,1,1
+Amazon,0,0,1,1
+American Midwest,0,0,1,1
+American University,0,0,1,1
+Amir Yagana,0,0,1,1
+Amr Abdallah Dalsh,0,0,1,1
+an hour,1,0,0,1
+Anadolu,0,0,1,1
+Andre Pain,0,0,1,1
+Andy Gallacher,0,0,1,1
+Anna Seaman,1,0,0,1
+Antanimora Prison,1,0,0,1
+Antoine Fountain,0,0,1,1
+Anwar Gargash,0,0,1,1
+Appeal,0,0,1,1
+Apple,0,0,1,1
+Arab Higher Committee,0,0,1,1
+Arab Religious Community,0,0,1,1
+Arab states,1,0,0,1
+Arabs,1,0,0,1
+ARD,1,0,0,1
+Ari Harow,0,0,1,1
+Asia Society,0,0,1,1
+Asian,0,0,1,1
+Association of Abductees,0,0,1,1
+"Athens, Greece",1,0,0,1
+ATIB,0,0,1,1
+ATS,0,0,1,1
+August,0,0,1,1
+Australians,0,0,1,1
+Austrian Islamic Faith Community,1,0,0,1
+Auxiliary bishop,1,0,0,1
+Auxiliary Territorial Service,0,0,1,1
+Ayder Muzhdabaev,0,0,1,1
+Aziza Al-Yousef,0,0,1,1
+"Badakhshan, Baghlan",0,0,1,1
+Bakr al-Ubaidi,0,0,1,1
+Bali,0,0,1,1
+Balinese,1,0,0,1
+Baloch,1,0,0,1
+Barchi,0,0,1,1
+Belt and Road,0,0,1,1
+Ben Curtis,0,0,1,1
+Benoit Tessier,1,0,0,1
+Bering Strait,0,0,1,1
+Berlin Wall,0,0,1,1
+Big Diomede island,0,0,1,1
+bishop,0,0,1,1
+Bloomsbury,1,0,0,1
+Bolivia,0,0,1,1
+BP,0,0,1,1
+Bradford,1,0,0,1
+Brendan McDermid,0,0,1,1
+British colonial,0,0,1,1
+British military,0,0,1,1
+Brookings Institution,0,0,1,1
+Bucharest,0,0,1,1
+Bulgarian,1,0,0,1
+Busan,0,0,1,1
+Cafe Olimpico,0,0,1,1
+California,1,0,0,1
+Cambodia,0,0,1,1
+Canadian ministry of finance,0,0,1,1
+Capella hotel,0,0,1,1
+Caribbean,1,0,0,1
+Carlos Jasso,0,0,1,1
+Catholic University of America,0,0,1,1
+CCTV,0,0,1,1
+Cecilia Baeza,0,0,1,1
+Cem Ozdel,0,0,1,1
+Center for Economic and Policy Research,1,0,0,1
+Central America,0,0,1,1
+central Bank of Korea,0,0,1,1
+Central Highlands,0,0,1,1
+CEO,1,0,0,1
+Channel 4,0,0,1,1
+Charles Taylor,1,0,0,1
+Charlevoix,0,0,1,1
+Chennai,0,0,1,1
+chief justice,1,0,0,1
+chief spokesperson,0,0,1,1
+China Development Bank,0,0,1,1
+China in Africa,1,0,0,1
+Chinandega,0,0,1,1
+Chinese Foreign Ministry,0,0,1,1
+Choson,0,0,1,1
+Choson Exchange - Choson,0,0,1,1
+Chosun Exchange,0,0,1,1
+Christophe Rogier,0,0,1,1
+CITIC Group,0,0,1,1
+City,0,0,1,1
+Civil Defence,0,0,1,1
+Civil Defence White Helmets,0,0,1,1
+Claire Gilbody-Dickerson,1,0,0,1
+Clean City Law,0,0,1,1
+CNDD-FDD,0,0,1,1
+Coastal,1,0,0,1
+Colonel,0,0,1,1
+Committee to Protect Journalists,1,0,0,1
+Congo,1,0,0,1
+Congress,0,0,1,1
+"Corpus Christi, Texas",1,0,0,1
+Corpus Christis,1,0,0,1
+Cosby,0,0,1,1
+"Costa Rica, Ecuador",0,0,1,1
+couscous,0,0,1,1
+Croatia,0,0,1,1
+Crusades,1,0,0,1
+Cuban,1,0,0,1
+Culture Minister,0,0,1,1
+Cyril Ramaphosa,1,0,0,1
+Damir Sagolj,0,0,1,1
+David Ovalle,1,0,0,1
+De Agostini,1,0,0,1
+De Re Militari,1,0,0,1
+DEA,1,0,0,1
+defence expert,0,0,1,1
+defence ministry,1,0,0,1
+Deir Yassin,1,0,0,1
+deputy president,1,0,0,1
+Detroit,1,0,0,1
+Dieu du Ciel,0,0,1,1
+Djibouti,1,0,0,1
+Doha,1,0,0,1
+Dominican Republic,1,0,0,1
+DPA,1,0,0,1
+Dwight Eisenhower,1,0,0,1
+Earth,0,0,1,1
+East Jerusalem,0,0,1,1
+East Side Gallery,0,0,1,1
+Economist,1,0,0,1
+Ecuador,1,0,0,1
+Edgar Su,1,0,0,1
+Education Minister,1,0,0,1
+Efrain Suarez,0,0,1,1
+Eid al-Fitr,0,0,1,1
+eight minutes,1,0,0,1
+Eight-year,1,0,0,1
+El Rodeo,1,0,0,1
+El Salvador,0,0,1,1
+Eleven years,1,0,0,1
+"Elizabeth, New Jersey",1,0,0,1
+Emiratis,0,0,1,1
+Emmerson Mnangagwa,0,0,1,1
+English,0,0,1,1
+Eni,0,0,1,1
+Environmental Protection Agency,0,0,1,1
+Environmental protesters,0,0,1,1
+Ethan Gutmann,1,0,0,1
+Euphrates river,0,0,1,1
+Eurasian,0,0,1,1
+Europeans,0,0,1,1
+Evart,1,0,0,1
+Evrard Ngendakumana,1,0,0,1
+executive director,0,0,1,1
+ExxonMobil,0,0,1,1
+Facebook,0,0,1,1
+False alarm,1,0,0,1
+Far,1,0,0,1
+FAROUK BAAKAR,1,0,0,1
+Faryab,0,0,1,1
+Fernand Pouillon,0,0,1,1
+Fifth Brigade,1,0,0,1
+fifth day,0,0,1,1
+Film producer,1,0,0,1
+Financial Tribune,0,0,1,1
+first four months,1,0,0,1
+five months,0,0,1,1
+five weeks,0,0,1,1
+Five years,0,0,1,1
+five-minute,1,0,0,1
+Flightradar24,1,0,0,1
+Flints,1,0,0,1
+Forbes,0,0,1,1
+Ford,0,0,1,1
+Foreign minister,1,0,0,1
+foreign minister,0,0,1,1
+Formula One,0,0,1,1
+four days,0,0,1,1
+four months,1,0,0,1
+Fox,0,0,1,1
+Fri Jun 08 2018,0,0,1,1
+Fuego Emergency,1,0,0,1
+G-7,1,0,0,1
+Galilee,0,0,1,1
+Galleria d'Arte Moderna,0,0,1,1
+general manager,1,0,0,1
+Geoffrey See,0,0,1,1
+George H W Bush,1,0,0,1
+Georgia State University,0,0,1,1
+Getty Images,1,0,0,1
+Ghana,0,0,1,1
+Ghardaia,0,0,1,1
+Ghazni,0,0,1,1
+Gina Benevento,0,0,1,1
+Gitega,0,0,1,1
+Giuseppe Conte,0,0,1,1
+"Glen Norah, Harare",1,0,0,1
+Global Times,0,0,1,1
+Golan Heights,1,0,0,1
+governor,0,0,1,1
+Graham Ong-Webb,0,0,1,1
+Green,0,0,1,1
+Greensboro,0,0,1,1
+Greg Scarlatoiu,1,0,0,1
+Gregorio Borgia,0,0,1,1
+Grenoble,0,0,1,1
+Gross Domestic Product,1,0,0,1
+Group,0,0,1,1
+Guggenheim Museum,0,0,1,1
+Gukurahundi,1,0,0,1
+Gulen,0,0,1,1
+Gustav,0,0,1,1
+Habitat loss,1,0,0,1
+Haru Mutasa,0,0,1,1
+Harvey,1,0,0,1
+Hazar Azzeh,0,0,1,1
+Health Minister,0,0,1,1
+Heinz-Christian Strache,1,0,0,1
+Herat province,1,0,0,1
+Hispanic,1,0,0,1
+Honduran,1,0,0,1
+Horn of Africa,1,0,0,1
+Hospital,0,0,1,1
+House,0,0,1,1
+Houthi,0,0,1,1
+Houthi-Saleh,0,0,1,1
+HTS,1,0,0,1
+https://t.co/KOlJkm37Z3,0,0,1,1
+Hua Liming,1,0,0,1
+Human Rights Commission of Pakistan,0,0,1,1
+Hussam Abdallat,1,0,0,1
+Hyde Park Corner,0,0,1,1
+I don't know why,1,0,0,1
+IATA,0,0,1,1
+Ike,0,0,1,1
+Ilisu,1,0,0,1
+Independent High Elections Commission,1,0,0,1
+Indochina,0,0,1,1
+Institute of International Relations,0,0,1,1
+Interfax,1,0,0,1
+Interior Minister,0,0,1,1
+International Crisis Group,1,0,0,1
+International Human Rights Clinic,0,0,1,1
+Ioana-Cristina Moldovan,1,0,0,1
+IQ,1,0,0,1
+Iranian Ministry of Agriculture,1,0,0,1
+Iraqi parliament,1,0,0,1
+Isaac Stone,1,0,0,1
+Isabel,0,0,1,1
+Islamic Revolutionary Guard Corps,1,0,0,1
+Israeli Defence Ministry,1,0,0,1
+Israeli foreign ministry,0,0,1,1
+Itai Dzamara,1,0,0,1
+Ivan,0,0,1,1
+Ivory Coast,0,0,1,1
+Jabhat Tahrir Souriya group (Syria Liberation Front,0,0,1,1
+Jabin,1,0,0,1
+Jackson,0,0,1,1
+Jacob - associate editor,1,0,0,1
+Jae C Hong,0,0,1,1
+Jair Bolsonaro,1,0,0,1
+Jeddah,0,0,1,1
+Jim Kossin,1,0,0,1
+Jizan province,0,0,1,1
+Johannes P Christo,0,0,1,1
+Johannesburg,0,0,1,1
+John Kelly,0,0,1,1
+John Tanzer,0,0,1,1
+Johnson,0,0,1,1
+Joint Communique,1,0,0,1
+Jon Snow,0,0,1,1
+Jonathan Schienberg,0,0,1,1
+Jordan River,0,0,1,1
+Jordanian parliament,0,0,1,1
+Jorge Cabrera,0,0,1,1
+Joseline Perez,0,0,1,1
+Journal of Climate,1,0,0,1
+journalist,0,0,1,1
+Judge,0,0,1,1
+Julia Brodersen,0,0,1,1
+Katanga,0,0,1,1
+Kayhan,0,0,1,1
+Kennedy,0,0,1,1
+Kevin Lamarque,0,0,1,1
+Khaled Abdullah,0,0,1,1
+Khaled Sofar,0,0,1,1
+Khalil Atieh,0,0,1,1
+Khan Younis,0,0,1,1
+"Kiev, Ukraine",1,0,0,1
+Kim Kyung-Hoon,1,0,0,1
+Kim Kyung-hoon,0,0,1,1
+King Hussein,0,0,1,1
+Koch,1,0,0,1
+Korea Resources Corporation,0,0,1,1
+Korean conflict,1,0,0,1
+Korean Kaesong Industrial Complex,0,0,1,1
+Kreuzberg,1,0,0,1
+KRISTINE BECKERLE,1,0,0,1
+Kunduz,1,0,0,1
+Kurdish-controlled areas,0,0,1,1
+Kuwait City,0,0,1,1
+Kyle Orton,0,0,1,1
+Lahore,0,0,1,1
+Lambert Mende,0,0,1,1
+Lamu County,1,0,0,1
+Landmark Trump,1,0,0,1
+last April,1,0,0,1
+last December,1,0,0,1
+Last July,0,0,1,1
+last November,1,0,0,1
+last Saturday,1,0,0,1
+last September,1,0,0,1
+Le Corbusier,0,0,1,1
+Lebanese Ministry of Foreign Affairs,1,0,0,1
+Leo Correa,0,0,1,1
+Leonhard Foeger,0,0,1,1
+Levant Institute for Strategic Affairs,0,0,1,1
+Liberals,0,0,1,1
+Libyan National Army,0,0,1,1
+Lida Abdul,1,0,0,1
+Lisa Abu Khaled,0,0,1,1
+Listening Post,0,0,1,1
+Little Zab River,1,0,0,1
+Londoners,1,0,0,1
+Luis Echeverria,0,0,1,1
+Luis Soto,0,0,1,1
+Madrid,1,0,0,1
+Magma,1,0,0,1
+Majed al-Ansari,0,0,1,1
+Major General,0,0,1,1
+Makhmur,1,0,0,1
+Malet Street Gardens,0,0,1,1
+Malik Rashid,1,0,0,1
+managing director,0,0,1,1
+managing editor,0,0,1,1
+Mandsaur,1,0,0,1
+Mandsaur Farmers,1,0,0,1
+Mansur Mirovalev,1,0,0,1
+MAP,0,0,1,1
+Marie-Claire Feghali,0,0,1,1
+Mary Nyiriak Maker,0,0,1,1
+Massoud Hossaini,1,0,0,1
+"Matabeleland, Zimbabwe",1,0,0,1
+Mayor,0,0,1,1
+mayor,1,0,0,1
+Meenakshi,0,0,1,1
+Mekare,1,0,0,1
+Mende,0,0,1,1
+Mexican,1,0,0,1
+Michael Klimentyev,1,0,0,1
+Michael Kooren,1,0,0,1
+"Middle East, Europe",0,0,1,1
+Mike Pence,1,0,0,1
+minister,0,0,1,1
+ministers,0,0,1,1
+Ministry of Agriculture and Water Resources,1,0,0,1
+Ministry of Communications and Information,1,0,0,1
+Mjabuliseni Madondo,0,0,1,1
+Mogadishu,1,0,0,1
+Mohamed al-Bukhati,0,0,1,1
+Mohammed Abu al-Amin,0,0,1,1
+Mohammed al-Rabeei,1,0,0,1
+Mohammed Saleh,0,0,1,1
+Monash University's Australian Border Deaths Database,0,0,1,1
+Moon Jae-in,1,0,0,1
+Mostafa Azizi,0,0,1,1
+Mount Fuego,1,0,0,1
+Murillo,1,0,0,1
+Mustafa Yalcin,0,0,1,1
+Nahed al-Ghool,0,0,1,1
+Nairobi,1,0,0,1
+Nasiriya,0,0,1,1
+National Disaster Management Agency,1,0,0,1
+National Economic,1,0,0,1
+National Sexual Violence Resource Center,0,0,1,1
+Native American,1,0,0,1
+Nazenin Ansari,0,0,1,1
+NCAR,1,0,0,1
+Nepalese,0,0,1,1
+Netanyahu,0,0,1,1
+Neutral Nations Supervisory Commission,0,0,1,1
+New Delhi,0,0,1,1
+New York Times,1,0,0,1
+Nicaraguan Center for Human Rights,1,0,0,1
+Nicaraguan Center for Human Rights (CENIDH,1,0,0,1
+Nike,0,0,1,1
+Niki Akhavan,1,0,0,1
+nine years,1,0,0,1
+Ninez,1,0,0,1
+Nixon,1,0,0,1
+NOAA,0,0,1,1
+Nobel Prize,1,0,0,1
+Normalise,0,0,1,1
+North African,0,0,1,1
+North America Free Trade Agreement,0,0,1,1
+Northern Ireland,1,0,0,1
+North-South,1,0,0,1
+Nottingham University,0,0,1,1
+Nouf Abdelaziz al-Jerawi,0,0,1,1
+November,0,0,1,1
+Now 24,1,0,0,1
+Nuclear Non-Proliferation Treaty,0,0,1,1
+Nueva Guinea,0,0,1,1
+Obama administration,1,0,0,1
+Officers,0,0,1,1
+Oliver de Ros,0,0,1,1
+Olympic Team,0,0,1,1
+Oman,0,0,1,1
+Omar al-Shogre,1,0,0,1
+Omar Sobhani,0,0,1,1
+one month,0,0,1,1
+One year,1,0,0,1
+Osama bin Laden,0,0,1,1
+Oswaldo Rivas,1,0,0,1
+Pacific Partnership,0,0,1,1
+Pahlavi monarchy,0,0,1,1
+Parc Ave,1,0,0,1
+Paul Brennan,1,0,0,1
+peace envoy,0,0,1,1
+Pemex,0,0,1,1
+Peru,1,0,0,1
+Peter Dobbie,0,0,1,1
+Peter Navarro,0,0,1,1
+Pew Study,1,0,0,1
+Philip Landrigan,1,0,0,1
+physician,0,0,1,1
+pic.twitter.com/eGAS15j4uc,0,0,1,1
+pic.twitter.com/PhBPlkgsar,0,0,1,1
+pic.twitter.com/QL7g8FZCgA,0,0,1,1
+pic.twitter.com/rd8xvuDMGF,0,0,1,1
+pic.twitter.com/TLv1wr6xrW,0,0,1,1
+Pietermaritzburg,0,0,1,1
+PNG,0,0,1,1
+Poor People's Campaign,0,0,1,1
+Port Harcourt,0,0,1,1
+Portuguese,0,0,1,1
+Press Secretary,0,0,1,1
+Prime minister,1,0,0,1
+prime ministers,1,0,0,1
+Prisoners of Conscie,0,0,1,1
+Prisoners of Conscience,0,0,1,1
+project director,1,0,0,1
+provincial governor,0,0,1,1
+Qaladze,1,0,0,1
+Qandeel,1,0,0,1
+Qandil Mountains,0,0,1,1
+Qatar Airways,1,0,0,1
+Qatar University,0,0,1,1
+Qatari,1,0,0,1
+"Qingdao, China",0,0,1,1
+"Qingdao, Russia",1,0,0,1
+Raad al-Adayleh,1,0,0,1
+Ram Hamdan,0,0,1,1
+Ravi,0,0,1,1
+Red Sea,1,0,0,1
+regional governors,1,0,0,1
+Reprieve,0,0,1,1
+Republicans,1,0,0,1
+Richard Armstrong,0,0,1,1
+Richard Gizbert,0,0,1,1
+Rio de Janeiro,0,0,1,1
+river Tigris,0,0,1,1
+Rob McElwee,0,0,1,1
+Rocket Man,1,0,0,1
+Rocket man,1,0,0,1
+Rogan Ward,1,0,0,1
+Roger Federer,1,0,0,1
+Roland-Garros,1,0,0,1
+Romania,0,0,1,1
+Rouhani administration,0,0,1,1
+Royal Court,0,0,1,1
+Royal Dutch Shell,0,0,1,1
+Rupert Murdoch,0,0,1,1
+S. Rajaratnam School of International Studies Einar Tangen,0,0,1,1
+Safad,1,0,0,1
+Salafi,0,0,1,1
+Salafism,1,0,0,1
+Sami Hamdi,0,0,1,1
+Sami Nader,0,0,1,1
+San Juan Altoenango,1,0,0,1
+San Juan de Dios Hospital,1,0,0,1
+Sandinista,0,0,1,1
+Sarah Mohs,1,0,0,1
+Sarah Sanders,0,0,1,1
+Saudi Arabian,0,0,1,1
+Saudi military,0,0,1,1
+Saudi Royal Court,1,0,0,1
+Saudi security forces,0,0,1,1
+Saudis,0,0,1,1
+Sayedul Shahada school,0,0,1,1
+Sea of Japan,1,0,0,1
+Senate Department for Urban Development,1,0,0,1
+senior adviser,0,0,1,1
+Seoul,0,0,1,1
+September,0,0,1,1
+Sergei,1,0,0,1
+Sergei Karpukhin,0,0,1,1
+Sergey Lavrov,1,0,0,1
+Serwah Directorate,0,0,1,1
+seven months,0,0,1,1
+Seven years,0,0,1,1
+Shia Muslims,0,0,1,1
+Shriners Children,0,0,1,1
+Sierra Leone,0,0,1,1
+SIGAR,0,0,1,1
+Singapore Management University,1,0,0,1
+Singapore police,0,0,1,1
+Sinjar,1,0,0,1
+six hours,0,0,1,1
+six months,0,0,1,1
+Six Party Talks,0,0,1,1
+Six years,0,0,1,1
+Sixteen-year,0,0,1,1
+Sky,0,0,1,1
+SMS,0,0,1,1
+Social Democratic,0,0,1,1
+Social Democratic party,0,0,1,1
+Social Rights Initiative,1,0,0,1
+Solo Sandeng,1,0,0,1
+Sookmyung Women's University,0,0,1,1
+SOS,1,0,0,1
+South Sudan,0,0,1,1
+Southern Africa,0,0,1,1
+Soviets,0,0,1,1
+speaker,0,0,1,1
+Speakers' Corner,1,0,0,1
+Special Forces,0,0,1,1
+Special Forces Retired,0,0,1,1
+Special Inspector General for Afghanistan Reconstruction,0,0,1,1
+Sputnik,0,0,1,1
+Squint,0,0,1,1
+St Lucia,1,0,0,1
+St Regis Hotel,0,0,1,1
+State Department,0,0,1,1
+Statoil,0,0,1,1
+Stockholm District Court,1,0,0,1
+Suad Abu-Dayyeh - Equality,0,0,1,1
+Suez Canal,0,0,1,1
+Sultan,0,0,1,1
+Sunken Garden,1,0,0,1
+Sweden,1,0,0,1
+Sydney,0,0,1,1
+Syrian forces,1,0,0,1
+Syrian military,1,0,0,1
+Tahrir al-Sham,0,0,1,1
+Taiz,1,0,0,1
+Takeshita - dean,0,0,1,1
+Tashkent,1,0,0,1
+Ted Regencia,1,0,0,1
+Texas,0,0,1,1
+Texas A & M University,0,0,1,1
+Texas Tribune,1,0,0,1
+Thanassis Stavrakis,1,0,0,1
+The Choson Exchange,1,0,0,1
+The Economist,1,0,0,1
+this may,1,0,0,1
+three-month,1,0,0,1
+Tigris,0,0,1,1
+Tik Root,0,0,1,1
+Tiksa Negeri,0,0,1,1
+Times Square,0,0,1,1
+Tora Bora,1,0,0,1
+trade adviser,0,0,1,1
+Trans Mountain,0,0,1,1
+U.S. Centers for Disease Control and Prevention,1,0,0,1
+Ukrainian security services,1,0,0,1
+Um Muhammed,0,0,1,1
+UN Humanitarian Coordinator,0,0,1,1
+Una Tempesta Del Paradiso,0,0,1,1
+UNESCO,0,0,1,1
+UNICEF,1,0,0,1
+United Nations General Assembly,1,0,0,1
+Universite de Montreal,1,0,0,1
+University of London Seijiro,0,0,1,1
+University of North Korean Studies,0,0,1,1
+University of Quebec in Outaouais,0,0,1,1
+University of Shizuoka Source,1,0,0,1
+University of St Andrews,0,0,1,1
+University of Western Ontario,0,0,1,1
+University of Wisconsin,1,0,0,1
+UNOCHA,1,0,0,1
+US Congress,0,0,1,1
+US Equal Employment Opportunity Commission,1,0,0,1
+US forces in Afghanistan,0,0,1,1
+US Open,0,0,1,1
+US State Department,1,0,0,1
+USA Olympic Gymnastic,0,0,1,1
+USSR,0,0,1,1
+Uzbek,1,0,0,1
+Variety,0,0,1,1
+Vice Chancellor,0,0,1,1
+Vice President,1,0,0,1
+Victim blaming,0,0,1,1
+Victoria,0,0,1,1
+Vienna,0,0,1,1
+VIP,0,0,1,1
+Vladivostok,0,0,1,1
+Vogue,1,0,0,1
+Voice Network,0,0,1,1
+Voice of America,1,0,0,1
+Wall,0,0,1,1
+Weinstein Company,1,0,0,1
+West Africa,0,0,1,1
+West African,0,0,1,1
+Western New England University School of Law,0,0,1,1
+Will Yong,0,0,1,1
+Wimbledon,0,0,1,1
+Winter Olympics,0,0,1,1
+Wold Wildlife Fund,0,0,1,1
+World Bank,1,0,0,1
+World Oceans,0,0,1,1
+writer,1,0,0,1
+Xinjiang,0,0,1,1
+Yemeni government forces,1,0,0,1
+Yiech Pur Biel,0,0,1,1
+Yugoslavia,0,0,1,1
+Yulia Skripal,0,0,1,1
+Zainab Ansari,1,0,0,1
+Zambia,0,0,1,1
+Zamir Kabulov,0,0,1,1
+Zhou Enlai,1,0,0,1
+Zintan,0,0,1,1
+Zionists,1,0,0,1
