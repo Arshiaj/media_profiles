@@ -1,0 +1,1020 @@
+Entities,neg,pos,neu,Count,Category
+Trump,1,0,0,3,PERSON
+Environmental Protection Agency,0,1,0,2,ORGANIZATION
+PDF,2,1,1,4,ORGANIZATION
+Obama,0,1,0,1,PERSON
+Obama administration,1,0,1,3,LOCATION
+Europe,8,4,13,40,LOCATION
+ExxonMobil,0,0,1,1,ORGANIZATION
+Chevron,0,0,1,1,ORGANIZATION
+Pioneer Natural Resources,0,1,0,1,ORGANIZATION
+Concho Resources,0,0,1,1,ORGANIZATION
+RSP,0,0,1,1,ORGANIZATION
+Pioneer,1,0,0,1,ORGANIZATION
+Tim Dove,0,0,1,1,PERSON
+Indepen,0,1,0,1,ORGANIZATION
+Royal Bank of Scotland,0,0,1,13,ORGANIZATION
+UK Government,0,0,1,1,ORGANIZATION
+National Audit Office,0,0,1,1,ORGANIZATION
+Lloyds Banking Group,1,0,0,1,ORGANIZATION
+ABN AMRO,0,1,0,1,ORGANIZATION
+Britain,4,3,7,42,LOCATION
+America,5,9,18,82,LOCATION
+Department of Justice,0,0,1,1,ORGANIZATION
+European Commission,0,0,3,3,ORGANIZATION
+UN Security Council,1,0,1,2,ORGANIZATION
+West,3,1,0,8,LOCATION
+Robert Guest,1,0,0,1,PERSON
+China,9,6,5,74,LOCATION
+Donald Trump,1,8,10,138,PERSON
+Chris Zabriskie,0,1,0,1,PERSON
+UK,0,0,1,1,LOCATION
+Republicans,2,0,3,19,ORGANIZATION
+MIKE LEVIN,0,1,0,12,PERSON
+Total Democratic,0,0,1,11,ORGANIZATION
+California,0,1,3,12,LOCATION
+Sara Jacobs,0,1,0,3,PERSON
+Hillary Clinton,2,1,0,9,PERSON
+John Cox,0,0,1,2,PERSON
+Paul Kerr,0,1,0,1,PERSON
+San Clemente,1,0,0,1,LOCATION
+Diane Harkey,0,1,0,1,PERSON
+House,0,1,1,3,ORGANIZATION
+San Diego Counties,0,1,0,1,LOCATION
+California Senate,0,0,1,1,ORGANIZATION
+Dianne Feinstein,0,0,1,1,PERSON
+Kevin de Leon,0,1,0,1,PERSON
+Gavin Newsom,0,0,1,1,PERSON
+New Jersey,0,1,1,2,LOCATION
+Bob Menendez,1,0,0,1,PERSON
+New Mexico,0,1,0,1,LOCATION
+Deb Haaland,0,1,0,1,PERSON
+Congress,2,1,1,9,ORGANIZATION
+Missouri,0,1,0,1,LOCATION
+United States,2,2,3,7,LOCATION
+Kim Jong Un,2,1,0,9,PERSON
+Barack Obama,1,1,1,12,PERSON
+Iran,3,0,1,12,LOCATION
+Russia,5,0,0,11,LOCATION
+North Korea,1,0,2,5,LOCATION
+Singapore,2,3,0,6,LOCATION
+Korean peninsula,0,0,1,1,LOCATION
+Tehran,0,0,1,1,LOCATION
+Afghanistan,1,0,0,1,LOCATION
+Iraq,2,1,1,5,LOCATION
+Nuclear Non-Proliferation Treaty,0,0,1,1,LOCATION
+Pacific Partnership,0,0,1,1,ORGANIZATION
+Syria,2,1,1,4,LOCATION
+RAND,1,0,0,1,ORGANIZATION
+Asia,3,2,3,8,LOCATION
+Xi Jinping,1,2,1,7,PERSON
+North,1,0,0,1,LOCATION
+America First,1,0,0,1,ORGANIZATION
+Soviet Union,1,0,1,2,LOCATION
+Henry Kissinger,0,0,1,1,PERSON
+World Trade Organisation,0,1,1,11,ORGANIZATION
+Canada,2,3,4,15,LOCATION
+Sohel Sareshwala,0,1,0,4,PERSON
+Mexico,0,0,4,15,LOCATION
+NAFTA,1,0,2,7,ORGANIZATION
+Heidi Brock,1,0,0,3,PERSON
+Greg Norman,0,1,0,2,PERSON
+EU,7,0,3,27,LOCATION
+Australia,3,1,5,19,LOCATION
+European Union,5,2,3,11,LOCATION
+S&P Global Platts,0,0,1,1,ORGANIZATION
+South Korea,1,0,2,3,LOCATION
+United Steelworkers,0,1,0,1,LOCATION
+The Aluminum Association,0,0,1,1,ORGANIZATION
+North America,1,0,0,1,LOCATION
+Joseph Francois,0,0,1,1,PERSON
+Laura Baughman,0,0,1,1,PERSON
+Daniel Anthony,0,0,1,1,PERSON
+Trade Partnership,0,0,1,1,ORGANIZATION
+Free-Trade Agreement,2,0,1,3,ORGANIZATION
+Larry Kudlow,0,0,1,1,PERSON
+George W. Bush,0,0,1,1,PERSON
+India,3,2,4,22,LOCATION
+Japan,2,1,2,9,LOCATION
+Turkey,1,1,2,9,LOCATION
+Luis de la Calle,0,0,1,1,PERSON
+GiveWell,0,0,1,3,ORGANIZATION
+The Economist,1,3,3,10,ORGANIZATION
+Against Malaria Foundation,0,0,1,2,ORGANIZATION
+Wall Street,1,1,0,2,LOCATION
+sub-Saharan Africa,0,1,0,1,LOCATION
+Peter Singer,0,0,1,1,PERSON
+Harley-Davidson,0,0,1,3,ORGANIZATION
+Granjas Carroll,1,0,0,2,PERSON
+Washington state,0,1,0,2,LOCATION
+Todd Fryhover,0,1,0,2,PERSON
+LOOK,0,1,0,1,ORGANIZATION
+Lincoln Memorial,0,0,1,1,ORGANIZATION
+"Washington, DC",0,1,1,2,LOCATION
+Harley-Davidsons,0,1,0,1,ORGANIZATION
+Wisconsin,1,1,0,2,LOCATION
+Paul Ryan,0,0,2,2,PERSON
+House of Representatives,1,0,1,2,ORGANIZATION
+Kentucky,0,0,2,2,LOCATION
+Mitch McConnell,1,0,1,2,PERSON
+Senate,3,1,2,6,ORGANIZATION
+Gregg Hora,1,0,0,1,PERSON
+Iowa Pork Producers Association,0,1,0,1,ORGANIZATION
+Apple Commission,0,0,1,1,ORGANIZATION
+Tom Vilsack,0,1,0,1,PERSON
+US Dairy Export Council,0,1,0,1,ORGANIZATION
+WH Group,0,0,1,1,ORGANIZATION
+Hells Angels,1,0,0,1,ORGANIZATION
+Egypt,2,0,0,4,LOCATION
+Lebanon,1,0,0,3,LOCATION
+Abu Nuwas,1,0,0,2,PERSON
+Middle East,1,2,6,10,LOCATION
+Khaled El-Rouayheb,0,1,0,2,PERSON
+Jordan,2,0,0,14,LOCATION
+Bahrain,1,0,0,2,LOCATION
+Rumi,0,1,0,1,PERSON
+Hafiz,0,0,1,1,PERSON
+Baghdad,1,0,0,1,LOCATION
+Harvard University,1,0,1,2,ORGANIZATION
+Pew Research Centre,0,0,1,1,ORGANIZATION
+Mahmoud Ahmadinejad,0,0,1,1,PERSON
+Columbia University,2,0,0,2,ORGANIZATION
+New York,1,2,3,7,LOCATION
+Egyptian Ministry of Culture,0,0,1,1,ORGANIZATION
+British government,0,0,1,1,ORGANIZATION
+France,0,4,5,15,LOCATION
+Hassan Nasrallah,0,1,0,1,PERSON
+Hezbollah,0,1,0,1,ORGANIZATION
+Ayatollah Khamenei,1,0,0,1,PERSON
+Abdel Fattah al-Sisi,1,0,0,1,PERSON
+Islamic revolution,1,0,0,1,LOCATION
+Islamic State,1,0,0,1,ORGANIZATION
+Khalid Abdel-Hadi,0,1,0,1,PERSON
+My.Kali,0,1,0,1,ORGANIZATION
+Beirut,1,0,0,1,LOCATION
+United Nations,1,0,0,1,ORGANIZATION
+United Malays National Organisation,1,0,0,11,ORGANIZATION
+Mahathir Mohamad,1,0,0,7,PERSON
+Najib Razak,1,0,0,6,PERSON
+Malaysia,1,0,0,5,LOCATION
+PH,0,1,1,5,LOCATION
+Parti Keadilan Rakyat,0,1,0,3,ORGANIZATION
+Anwar Ibrahim,0,1,0,3,PERSON
+Nurul Izzah,0,1,0,3,PERSON
+Malaysian politics,0,1,0,2,ORGANIZATION
+Democratic Action Party,0,1,0,2,ORGANIZATION
+Pakatan Harapan,0,0,1,1,LOCATION
+Malaysian Chinese Association,0,0,1,1,ORGANIZATION
+Malaysian Indian Congress,0,0,1,1,ORGANIZATION
+PAS,1,0,0,1,ORGANIZATION
+Saddiq Abdul Rahman,0,1,0,1,PERSON
+Lim Guan Eng,0,0,1,1,PERSON
+Azizah Ismail,0,0,1,1,PERSON
+Kuala Lumpur,1,0,0,1,LOCATION
+Khairy Jamaluddin,0,1,0,1,PERSON
+Ely Calil,0,0,2,34,PERSON
+Africa,4,0,4,14,LOCATION
+Harper,2,0,0,6,PERSON
+Nigel Morgan,2,0,0,6,PERSON
+Sani Abacha,2,0,0,4,PERSON
+Paris,2,4,2,13,LOCATION
+Dan Gertler,0,2,0,4,PERSON
+Wonga,0,2,0,4,ORGANIZATION
+Equatorial Guinea,0,0,2,4,LOCATION
+London,5,5,2,29,LOCATION
+Ibrahim Babangida,2,0,0,2,PERSON
+Foreign Corrupt Practices Act,2,0,0,2,ORGANIZATION
+Democratic Republic of Congo,0,2,0,2,LOCATION
+American Treasury,0,2,0,2,ORGANIZATION
+Joseph Kabila,0,0,2,2,PERSON
+Etonian,2,0,0,2,ORGANIZATION
+Simon Mann,0,2,0,2,PERSON
+Severo Moto,0,2,0,2,PERSON
+South Africa,3,0,0,3,LOCATION
+Matteo Salvini,1,0,0,18,PERSON
+Italy,5,1,3,38,LOCATION
+Giuseppe Conte,0,0,2,6,PERSON
+Soumaila Sacko,1,0,0,4,PERSON
+Five Star Movement,0,2,1,5,ORGANIZATION
+Libya,1,1,0,4,LOCATION
+Tunisia,0,1,0,2,LOCATION
+Rome,0,1,0,2,LOCATION
+Calabria,0,0,1,1,LOCATION
+lower house,0,1,3,4,ORGANIZATION
+Chamber of Deputies,0,0,1,1,ORGANIZATION
+Northern League,2,1,0,3,ORGANIZATION
+League,0,1,0,1,ORGANIZATION
+Lampedusa,0,1,0,1,LOCATION
+Tunis,0,1,0,1,LOCATION
+UN,1,1,0,6,ORGANIZATION
+parliament,2,1,3,8,ORGANIZATION
+Luxembourg,1,0,0,1,LOCATION
+Hungary,0,2,4,7,LOCATION
+Viktor Orban,1,0,0,1,PERSON
+eastern Europe,2,0,1,3,LOCATION
+Austria,0,1,0,1,LOCATION
+Herbert Kickl,0,1,0,1,PERSON
+Freedom Party,0,1,0,1,ORGANIZATION
+Germany,1,0,5,17,LOCATION
+Angela Merkel,2,1,1,28,PERSON
+Muammar Qaddafi,2,0,0,2,PERSON
+Hani Mulki,1,0,0,6,PERSON
+King Abdullah,1,0,0,4,PERSON
+IMF,2,1,0,14,ORGANIZATION
+Gulf,1,2,1,9,LOCATION
+Saudi Arabia,2,0,2,7,LOCATION
+Arab Spring,0,0,1,1,LOCATION
+Yemen,1,1,0,3,LOCATION
+Qatar,2,0,0,2,LOCATION
+Amman,1,0,0,1,LOCATION
+National Aid Fund,1,0,0,1,ORGANIZATION
+Omar al-Razzaz,0,0,1,1,PERSON
+World Bank,0,0,1,1,ORGANIZATION
+Islamic Action Front,1,0,0,1,ORGANIZATION
+Muslim Brotherhood,0,0,1,1,ORGANIZATION
+Houthis,0,0,1,6,ORGANIZATION
+Hodeida,0,0,1,5,LOCATION
+United Arab Emirates,1,1,0,5,LOCATION
+Ali Abdullah Saleh,1,0,0,2,PERSON
+Martin Griffiths,0,1,0,2,PERSON
+Muhammad bin Salman,1,0,2,15,PERSON
+Sana’a,0,0,1,1,LOCATION
+Salafist,0,0,1,1,ORGANIZATION
+Tihama,0,1,0,1,LOCATION
+Saleh al-Sammad,1,0,0,1,PERSON
+Geraldo Alckmin,0,1,0,11,PERSON
+Jair Bolsonaro,0,1,0,7,PERSON
+"São Paulo, Brazil",0,0,1,4,LOCATION
+Brazil,0,1,1,6,LOCATION
+Michel Temer,1,0,0,4,PERSON
+Petrobras,1,0,0,3,ORGANIZATION
+Fabio Malini,1,0,0,3,PERSON
+Party of Brazilian Social Democracy,0,1,0,3,ORGANIZATION
+Facebook,1,3,1,6,ORGANIZATION
+Luiz Inácio Lula da Silva,0,1,0,2,PERSON
+Ciro Gomes,1,0,0,2,PERSON
+Avenida Paulista,0,1,0,1,ORGANIZATION
+Croatia,2,0,0,2,LOCATION
+Pedro Parente,1,0,0,1,PERSON
+Pablo Ortellado,0,0,1,1,PERSON
+University of São Paulo,0,0,1,1,ORGANIZATION
+Datafolha,0,1,0,1,ORGANIZATION
+Celso Rogerio Gomez das Neves,1,0,0,1,PERSON
+Federal University of Espírito Santo,0,1,0,1,ORGANIZATION
+WhatsApp,0,1,0,1,ORGANIZATION
+Social Liberal Party,0,0,1,1,ORGANIZATION
+tweeted,1,1,0,2,ORGANIZATION
+cabinet,2,0,3,13,ORGANIZATION
+Jesus,1,0,0,1,PERSON
+IPSOS,0,0,1,1,ORGANIZATION
+Cláudio Couto,1,0,0,1,PERSON
+Rodrigo Duterte,0,1,0,1,PERSON
+Philippines,0,1,0,1,LOCATION
+Luiz Felipe d’Avila,0,1,0,1,PERSON
+Americas,0,0,4,4,LOCATION
+Minot,0,0,1,7,LOCATION
+North Dakota,1,1,0,3,LOCATION
+"Winnipeg, Manitoba",0,0,1,2,LOCATION
+Bakken,0,0,1,1,LOCATION
+Tom Barry,0,1,0,1,PERSON
+Souris river,1,0,0,1,LOCATION
+Thomas Schmidt,0,0,1,1,PERSON
+Western world,0,1,0,1,LOCATION
+Chuck Barney,1,0,0,1,PERSON
+Michael Sasser,0,0,1,1,PERSON
+Minot Daily News,1,0,0,1,ORGANIZATION
+Chinatown,0,0,1,1,LOCATION
+Josh Wolsky,0,0,1,1,PERSON
+GITA,0,1,0,8,ORGANIZATION
+Pipeline & Gas Journal,0,1,0,4,ORGANIZATION
+Pipeline Technology Forum,0,0,1,4,ORGANIZATION
+Gulf Energy Information,0,1,0,2,ORGANIZATION
+Mark Limbruner,0,1,0,2,PERSON
+Geospatial Information and Technology Association,0,0,1,1,ORGANIZATION
+Geospatial Information and Technology Association (GITA,0,0,1,1,ORGANIZATION
+GITA Oil and Gas Pipeline Conference,0,0,1,1,ORGANIZATION
+Hyatt Regency Hotel,0,0,1,1,LOCATION
+Houston,0,0,1,1,LOCATION
+Brian Nessen,0,0,1,1,PERSON
+Group Publisher for Pipeline & Gas Journal,0,1,0,1,ORGANIZATION
+Underground Construction,0,1,0,1,ORGANIZATION
+Sara Elder,0,0,1,3,PERSON
+International Labour Organisation,0,0,1,3,ORGANIZATION
+Ghose,0,1,0,3,PERSON
+Bangkok,1,0,0,2,LOCATION
+Indonesia,1,0,0,2,LOCATION
+Beijing,2,1,1,7,LOCATION
+Thailand,1,1,0,2,LOCATION
+Chulalongkorn University,0,0,1,1,ORGANIZATION
+Annan Chanthan,0,0,1,1,PERSON
+Hua Lamphong,0,0,1,1,PERSON
+Liberia,1,0,0,1,LOCATION
+Laos,1,0,0,1,LOCATION
+Cambridge University,0,0,1,1,ORGANIZATION
+Cambridge,1,0,0,1,LOCATION
+Daniel Ortega,0,0,1,35,PERSON
+Nicaragua,1,0,0,4,LOCATION
+Nicolás Maduro,1,0,0,3,PERSON
+Managua,1,0,0,2,LOCATION
+Rosario Murillo,0,1,0,2,PERSON
+Sandinistas,1,0,0,2,ORGANIZATION
+Venezuela,2,0,1,4,LOCATION
+Masaya,1,0,0,1,LOCATION
+Inter-American Commission on Human Rights,1,0,0,1,ORGANIZATION
+José Adán Aguerri,0,0,1,1,PERSON
+Cosep,0,0,1,1,ORGANIZATION
+Carlos Pellas,1,0,0,1,PERSON
+Mateo Jarquín,0,0,1,1,PERSON
+national assembly,1,0,0,1,ORGANIZATION
+Juan Sebastián Chamorro,1,0,0,1,PERSON
+Mother,1,0,0,1,ORGANIZATION
+AI,1,2,0,46,ORGANIZATION
+Chris Mansi,1,0,0,8,PERSON
+Mansi,1,0,0,2,LOCATION
+Stanford University,1,0,0,2,ORGANIZATION
+Oxford University,0,0,1,2,ORGANIZATION
+ECG,0,1,0,2,ORGANIZATION
+Eric Topol,0,1,0,2,PERSON
+Erlanger Health System,0,1,0,1,ORGANIZATION
+Tennessee,1,0,0,1,LOCATION
+Tom Devlin,0,1,0,1,PERSON
+Erlanger,1,0,0,1,ORGANIZATION
+thrombectomy,0,0,1,1,ORGANIZATION
+Andre Esteva,0,0,1,1,PERSON
+Holger Haenssle,0,1,0,1,PERSON
+University of Heidelberg,0,1,0,1,ORGANIZATION
+Kheiron Medical Technologies,1,0,0,1,ORGANIZATION
+Kheiron,0,1,0,1,ORGANIZATION
+DeepMind,0,0,1,1,ORGANIZATION
+Google,2,1,1,5,ORGANIZATION
+Andrew Ng,0,1,1,2,PERSON
+Apple,1,2,1,7,ORGANIZATION
+Scripps Research Institute,0,0,1,1,ORGANIZATION
+San Diego,0,0,1,1,LOCATION
+Tank Man,0,0,2,10,ORGANIZATION
+Berlin,2,2,0,5,LOCATION
+Washington,0,1,3,5,LOCATION
+Hong Kong,0,2,3,6,LOCATION
+Sydney,1,2,1,4,LOCATION
+Wellington,0,2,0,2,LOCATION
+Toronto,1,2,0,3,LOCATION
+Winnie the Pooh,0,2,0,2,PERSON
+Pooh Bear,0,2,0,2,ORGANIZATION
+Tank Woman,0,2,0,2,ORGANIZATION
+Yue Xin,0,2,0,2,PERSON
+Jade Dussart,0,2,0,2,PERSON
+Action by Christians for the Abolition of Torture,0,2,0,2,ORGANIZATION
+Trocadéro Square,2,0,0,2,LOCATION
+Zhou,0,2,0,2,PERSON
+Tsinghua University,0,2,0,2,ORGANIZATION
+SNB,0,0,1,5,ORGANIZATION
+Swiss National Bank,0,0,1,1,ORGANIZATION
+Daniel Kalt,0,1,0,1,PERSON
+UBS,0,0,2,2,ORGANIZATION
+Lehman Brothers,0,0,1,1,ORGANIZATION
+Thomas Jordan,1,0,0,1,PERSON
+Xiaomi,0,0,1,20,ORGANIZATION
+Lei Jun,0,0,1,7,PERSON
+IPO,0,0,1,7,ORGANIZATION
+Steve Jobs,1,0,0,5,PERSON
+Alibaba,1,1,2,6,ORGANIZATION
+Samsung,1,0,0,2,ORGANIZATION
+Sony,1,0,0,2,ORGANIZATION
+Nokia,1,0,0,2,ORGANIZATION
+BAT,0,1,0,2,ORGANIZATION
+Baidu,0,0,1,2,ORGANIZATION
+Tencent,0,1,0,2,ORGANIZATION
+Wuhan,0,0,1,1,LOCATION
+Yangtze River,0,0,1,1,LOCATION
+Costco,0,1,0,1,ORGANIZATION
+Schumpeter,0,1,0,1,PERSON
+Edward Tse,0,0,1,1,PERSON
+Gao Feng,0,0,1,1,PERSON
+Charles Darwin,0,1,0,1,PERSON
+Cayman Islands,1,0,1,5,LOCATION
+Uttar Pradesh,0,0,1,1,LOCATION
+mindshare,0,1,0,1,ORGANIZATION
+Didi-Chuxing,0,0,1,1,PERSON
+Meituan-Dianping,0,0,1,1,PERSON
+White House,0,1,0,2,ORGANIZATION
+G7,1,1,1,4,ORGANIZATION
+Pennsylvania,0,1,0,1,LOCATION
+Florida,0,1,0,1,LOCATION
+Euro Stoxx 50,1,0,0,2,ORGANIZATION
+Eric Lonergan,0,1,0,2,PERSON
+George Costanza,1,0,0,2,PERSON
+Deutsche Bank,0,0,1,1,ORGANIZATION
+S&P 500,1,0,1,2,ORGANIZATION
+Patience,1,0,0,1,PERSON
+M&G,0,0,1,1,ORGANIZATION
+euro zone,4,0,0,8,ORGANIZATION
+Mariano Rajoy,0,1,3,48,PERSON
+Spain,2,1,1,32,LOCATION
+Pedro Sánchez,2,1,1,37,PERSON
+Catalonia,1,2,0,7,LOCATION
+Socialists,1,0,2,5,ORGANIZATION
+Iberian,0,2,0,2,LOCATION
+Madrid,0,2,0,2,LOCATION
+People’s Party,4,0,0,4,ORGANIZATION
+Emmanuel Macron,3,0,1,14,PERSON
+Podemos,1,0,2,3,ORGANIZATION
+Poland,0,0,2,2,LOCATION
+David Keith,0,0,1,12,PERSON
+Carbon Engineering,1,0,0,8,ORGANIZATION
+"Gothenburg, Sweden",0,1,0,2,LOCATION
+Oldham,1,0,0,2,LOCATION
+Harvard university,0,0,1,1,ORGANIZATION
+Bill Gates,0,0,1,1,PERSON
+Joule,0,0,1,1,ORGANIZATION
+Klaus Lackner,0,1,0,1,PERSON
+American Physical Society,0,1,0,1,ORGANIZATION
+Steve Oldham,0,1,0,1,PERSON
+Food and Drug Administration,1,0,0,6,ORGANIZATION
+Goldwater Institute,1,0,0,3,ORGANIZATION
+Arthur Caplan,0,0,1,3,PERSON
+Coleman,0,0,1,3,PERSON
+Oval Office,0,1,0,1,ORGANIZATION
+Arizona,1,0,0,1,LOCATION
+NYU School of Medicine,0,0,1,1,ORGANIZATION
+Charles Koch,0,1,0,7,PERSON
+David Axelrod,0,1,0,6,PERSON
+Scott Walker,0,1,0,5,PERSON
+Kochs,0,1,1,7,ORGANIZATION
+Koch brothers,1,0,0,3,ORGANIZATION
+George Soros,0,1,0,3,PERSON
+Koch Industries,0,1,0,3,ORGANIZATION
+AFP,0,1,0,3,ORGANIZATION
+Wichita,0,0,1,2,LOCATION
+Freedom Partners,0,1,0,2,ORGANIZATION
+Tea Party,0,1,0,2,ORGANIZATION
+Kansas,0,0,1,1,LOCATION
+Atlantic,1,2,0,4,LOCATION
+Libertarian Party,1,0,0,1,ORGANIZATION
+Republican,0,1,0,1,ORGANIZATION
+Cato Institute,1,0,0,1,ORGANIZATION
+Americans for Prosperity,0,1,0,1,ORGANIZATION
+Hugo Chávez,1,0,0,1,PERSON
+Greenpeace,1,0,0,1,ORGANIZATION
+New Yorker,1,0,0,1,ORGANIZATION
+Washington Post,0,0,1,1,ORGANIZATION
+Daniel Schulman,1,0,0,1,PERSON
+Sons of Wichita,0,0,1,1,ORGANIZATION
+Grover Norquist,0,1,0,1,PERSON
+Americans for Tax Reform,0,1,0,1,ORGANIZATION
+Heidi Heitkamp,0,0,1,1,PERSON
+Democrats,0,2,0,3,ORGANIZATION
+Dodd-Frank,0,1,0,1,ORGANIZATION
+Charles Koch Institute,1,0,0,1,ORGANIZATION
+Cory Booker,0,0,1,1,PERSON
+Bernie Sanders,0,1,0,42,PERSON
+Democratic Party,0,0,1,14,ORGANIZATION
+Los Angeles,1,1,0,4,LOCATION
+Jacinta,0,0,1,2,PERSON
+liberal democracy,0,1,0,2,ORGANIZATION
+Vermont,0,0,1,1,LOCATION
+Disneyland,0,0,1,1,LOCATION
+Earth,0,3,0,3,LOCATION
+Black Lives Matter,0,0,1,1,ORGANIZATION
+Shaun King,0,1,0,1,PERSON
+Twitter,2,2,0,6,ORGANIZATION
+New Hampshire,0,1,0,1,LOCATION
+Green,0,0,1,1,ORGANIZATION
+Bern,1,0,0,1,LOCATION
+Robert Mueller,0,1,0,23,PERSON
+James Comey,0,1,0,6,PERSON
+Richard Nixon,1,0,0,3,PERSON
+FBI,1,0,0,2,ORGANIZATION
+John Dowd,0,1,0,1,PERSON
+Jay Sekulow,0,1,0,1,PERSON
+Trumpy,0,1,0,1,PERSON
+Communists,0,0,1,1,ORGANIZATION
+Mao,1,0,1,2,PERSON
+Communist Party,2,0,0,2,ORGANIZATION
+Guangzhou,0,0,1,1,LOCATION
+Shanghai,1,0,2,3,LOCATION
+Ministry of Justice,0,0,1,1,ORGANIZATION
+China Notary Association,1,0,0,1,ORGANIZATION
+Chinese Will Registration Centre,1,0,0,1,ORGANIZATION
+Jeremy Corbyn,1,0,0,7,PERSON
+Theresa May,1,0,1,7,PERSON
+Labour,1,0,3,8,ORGANIZATION
+Commons,0,1,0,3,ORGANIZATION
+European Economic Area,1,0,0,3,ORGANIZATION
+Brussels,2,1,0,4,LOCATION
+Parliament,2,0,0,3,ORGANIZATION
+Tory,1,1,0,3,ORGANIZATION
+Ireland,0,0,1,2,LOCATION
+Norway,2,1,0,5,LOCATION
+Westminster,0,1,0,1,LOCATION
+Lords,1,0,0,1,ORGANIZATION
+EU summit,0,1,0,1,ORGANIZATION
+Irish government,0,1,0,1,ORGANIZATION
+David Davis,0,1,0,1,PERSON
+Dublin,1,0,0,1,LOCATION
+Oslo,0,1,0,1,LOCATION
+Galileo,1,0,0,16,ORGANIZATION
+PRS,0,1,0,3,ORGANIZATION
+Bleddyn Bowen,0,1,0,2,PERSON
+Galileo satellite,1,0,0,1,ORGANIZATION
+GPS,1,0,0,1,LOCATION
+European Space Agency,0,0,1,1,ORGANIZATION
+Eurocrat,0,0,1,1,LOCATION
+Ascension Island,1,0,0,1,LOCATION
+Falklands,1,0,0,1,LOCATION
+Leicester University,0,1,0,1,ORGANIZATION
+Sophia Besch,1,0,0,1,PERSON
+European Reform,1,0,0,1,ORGANIZATION
+Joschka Fischer,1,0,0,1,PERSON
+German foreign minister,1,0,0,1,PERSON
+Europol,0,0,1,1,ORGANIZATION
+European Court of Justice,1,0,0,1,ORGANIZATION
+Wei Guangyi,1,0,0,9,PERSON
+Nanjing University,1,0,0,1,ORGANIZATION
+Hubei,0,0,1,1,LOCATION
+Yunnan,0,0,1,1,LOCATION
+Roman Abramovich,0,0,1,7,PERSON
+Chelsea,1,0,1,4,LOCATION
+Sergei Skripal,1,0,0,2,PERSON
+GRU,0,1,0,2,ORGANIZATION
+Transparency International,1,0,0,2,ORGANIZATION
+STAMFORD,0,0,1,1,LOCATION
+England,0,2,1,3,LOCATION
+Premier League,0,0,1,1,ORGANIZATION
+Israel,0,0,1,1,LOCATION
+Katia Nikitina,0,1,0,1,PERSON
+Zima,0,1,0,1,PERSON
+Linklaters,1,0,0,1,ORGANIZATION
+Oleg Deripaska,0,1,0,1,PERSON
+Dealogic,0,0,1,1,ORGANIZATION
+Boris Berezovsky,1,0,0,1,PERSON
+Finland,0,0,1,1,LOCATION
+Savills,0,1,0,1,ORGANIZATION
+Kensington,0,0,1,1,LOCATION
+Independent Schools Council,0,0,1,1,ORGANIZATION
+Salisbury,0,0,1,1,LOCATION
+KGB,0,1,0,1,ORGANIZATION
+Russian military,0,1,0,1,ORGANIZATION
+Thameslink,1,0,0,4,ORGANIZATION
+Manchester,1,0,0,3,LOCATION
+Network Rail,1,0,0,3,ORGANIZATION
+Northern Rail,1,0,0,2,ORGANIZATION
+Chris Grayling,1,0,0,2,PERSON
+Milton Keynes,1,0,0,2,PERSON
+Thomas the Tank Engine,0,1,0,1,PERSON
+Newcastle,1,0,0,1,LOCATION
+Reading,1,0,0,1,LOCATION
+Pontefract,1,0,0,1,LOCATION
+Lake District,1,0,0,1,LOCATION
+Ordsall Chord,0,0,1,1,LOCATION
+Northern,1,0,0,1,ORGANIZATION
+Anthony Smith,1,0,0,1,PERSON
+Transport Focus,1,0,0,1,ORGANIZATION
+Carillion,1,0,0,1,ORGANIZATION
+Preston,1,0,0,1,PERSON
+Christian Wolmar,0,1,0,1,PERSON
+Plan B,1,0,0,1,PERSON
+Andy Burnham,1,0,0,1,PERSON
+Conservative,0,1,0,1,ORGANIZATION
+Michael Fallon,0,1,0,1,PERSON
+Tories,0,1,0,1,ORGANIZATION
+Croydon,1,0,0,1,LOCATION
+Jonathan Roberts,0,1,0,1,PERSON
+Borehamwood,0,0,1,1,LOCATION
+Bernard-Henri Lévy,0,0,1,6,PERSON
+BHL,0,0,1,4,ORGANIZATION
+BDS,0,1,0,3,ORGANIZATION
+Lord Adonis,0,1,0,1,PERSON
+BBC,0,0,1,1,ORGANIZATION
+Alastair Campbell,0,0,1,1,PERSON
+Tony Blair,0,0,1,1,PERSON
+Brighton,0,1,0,1,LOCATION
+Cadogan Hall,0,1,0,1,LOCATION
+Last Exit,0,0,1,1,ORGANIZATION
+Sarajevo,1,0,1,2,LOCATION
+Salman Rushdie,0,1,0,1,PERSON
+Boris Johnson,0,1,0,1,PERSON
+Balkans,0,1,0,1,LOCATION
+Scotland,1,0,0,7,LOCATION
+Scottish government,1,0,0,1,ORGANIZATION
+Chris Deerin,0,1,0,1,PERSON
+Reform Scotland,0,1,0,1,ORGANIZATION
+SNP,1,0,0,1,ORGANIZATION
+Scott,0,0,1,1,ORGANIZATION
+North Sea,0,0,1,1,LOCATION
+Richard Leonard,1,0,0,1,PERSON
+Scottish Labour,0,1,0,1,ORGANIZATION
+Jean Paul Nsengiyumva,1,0,0,3,PERSON
+Commonwealth games,0,1,0,2,ORGANIZATION
+Cameroon,1,0,1,4,LOCATION
+Peter Dutton,0,1,0,2,PERSON
+Sierra Leone,1,0,0,2,LOCATION
+Peter Beattie,0,0,1,1,PERSON
+Melbourne,0,1,0,1,LOCATION
+Cuba,0,0,1,1,LOCATION
+Pacific,0,0,2,3,LOCATION
+Commonwealth,0,0,1,1,ORGANIZATION
+Akbar al Baker,0,0,1,9,PERSON
+THE International Air Transport Association,0,1,0,7,ORGANIZATION
+Ryanair,0,0,1,1,ORGANIZATION
+Qatar Airways,0,0,1,1,ORGANIZATION
+Singapore Airlines,0,1,0,1,ORGANIZATION
+Rwandair,1,0,0,1,ORGANIZATION
+Air Namibia,0,0,1,1,ORGANIZATION
+Iran Air,0,0,1,1,ORGANIZATION
+Flybe,0,0,1,1,ORGANIZATION
+Mars,0,1,0,9,LOCATION
+Christopher Webster,1,0,0,3,PERSON
+NASA,1,0,0,3,ORGANIZATION
+Jet Propulsion Laboratory,0,1,0,2,ORGANIZATION
+Martian soil,0,1,0,1,ORGANIZATION
+Trace Gas Orbiter,0,0,1,1,ORGANIZATION
+Caltech,0,0,1,1,ORGANIZATION
+Nigeria,1,0,0,8,LOCATION
+Gidwell,1,0,0,6,PERSON
+Middle Belt,0,1,0,2,LOCATION
+Boko Haram,1,0,0,2,PERSON
+ACLED,0,1,0,2,ORGANIZATION
+Benue,1,0,0,2,LOCATION
+MARIS GIDWELL,0,0,1,1,LOCATION
+Adamawa state,1,0,0,1,LOCATION
+west Africa,0,0,1,1,LOCATION
+Sahel,0,0,1,1,LOCATION
+Mali,1,0,0,1,LOCATION
+Central African Republic,1,0,0,1,LOCATION
+Niger Delta,1,0,0,1,LOCATION
+Amnesty International,1,0,0,1,ORGANIZATION
+Wole Soyinka,0,1,0,1,PERSON
+Nobel,1,0,0,1,PERSON
+Plateau state,0,1,0,1,LOCATION
+Tokyo,1,0,0,8,LOCATION
+Nikko,0,1,0,3,ORGANIZATION
+Ishigaki,1,0,0,2,LOCATION
+Kyoto,0,1,0,2,LOCATION
+Osaka,1,0,0,2,LOCATION
+TripAdvisor,0,1,0,1,ORGANIZATION
+Taiwan,0,1,1,2,LOCATION
+Art Hotel,1,0,0,1,LOCATION
+Yoshiharu Takamine,1,0,0,1,PERSON
+United Kingdom,0,0,1,1,LOCATION
+Cambodia,0,0,1,1,LOCATION
+Akihiko Tamura,1,0,0,1,PERSON
+Kanaya Hotel,1,0,0,1,LOCATION
+Yasuo Mine,0,1,0,1,PERSON
+Tobu Railway,0,1,0,1,ORGANIZATION
+Kenji Aoyagi,1,0,0,1,PERSON
+Shizue Usui,0,0,1,1,PERSON
+Narita airport,1,0,0,1,LOCATION
+Airbnb,1,0,0,1,ORGANIZATION
+Tasuku Kuwabara,0,1,0,1,PERSON
+McKinsey,0,1,0,1,ORGANIZATION
+Hotel Royal Marine Palace,1,0,0,1,ORGANIZATION
+Joseph Purti,0,0,1,5,PERSON
+Jharkhand,0,1,0,3,LOCATION
+PESA,0,0,1,2,ORGANIZATION
+AT,0,0,1,1,ORGANIZATION
+Birsa Munda,0,0,1,1,PERSON
+Maoist,0,0,1,1,ORGANIZATION
+Red Corridor,0,0,1,1,LOCATION
+Chhattisgarh,0,1,0,1,LOCATION
+Odisha,0,1,0,1,LOCATION
+PP,1,0,0,5,ORGANIZATION
+Josep Borrell,0,1,0,3,PERSON
+Socialist,0,0,1,2,ORGANIZATION
+Carles Puigdemont,1,0,0,2,PERSON
+Nadia Calviño,0,0,1,1,PERSON
+European Parliament,0,1,0,1,ORGANIZATION
+Socialist party,1,1,0,2,ORGANIZATION
+Peugeot,0,1,0,1,ORGANIZATION
+Quim Torra,0,0,1,1,PERSON
+Catalan counterpart,1,0,0,1,ORGANIZATION
+Fan Bingbing,1,0,0,6,PERSON
+Khorgos,0,0,1,5,LOCATION
+Cui Yongyuan,1,0,0,1,PERSON
+Weibo,0,0,1,1,ORGANIZATION
+Huayi Brothers,0,0,1,1,ORGANIZATION
+Liu Xiaoqing,0,1,0,1,PERSON
+Kazakhstan,0,0,1,1,LOCATION
+Tibet,1,0,0,1,LOCATION
+Tax havens,0,1,0,1,LOCATION
+International Monetary Fund,0,0,1,1,ORGANIZATION
+Yin,0,0,1,1,PERSON
+Air India,0,0,1,7,ORGANIZATION
+Indian government,1,0,0,2,ORGANIZATION
+Tata,0,1,0,1,ORGANIZATION
+Narendra Modi,0,0,1,1,PERSON
+ONGC,0,0,1,1,ORGANIZATION
+Microsoft,1,0,1,12,ORGANIZATION
+GitHub,1,0,0,5,ORGANIZATION
+Satya Nadella,1,0,0,4,PERSON
+Steve Ballmer,1,0,0,2,PERSON
+Amazon,1,1,1,5,ORGANIZATION
+Death Star,0,0,1,2,LOCATION
+LinkedIn,0,1,0,1,ORGANIZATION
+Azure,0,1,0,1,LOCATION
+Maan al-Sanea,1,0,0,19,PERSON
+AHAB,1,0,0,9,ORGANIZATION
+Ahmad Hamad,0,1,0,1,PERSON
+Algosaibi & Brothers Company,0,0,1,1,ORGANIZATION
+Switzerland,1,0,0,1,LOCATION
+Gosaibi,0,1,0,1,PERSON
+Money Exchange,0,0,1,1,ORGANIZATION
+Saad Group,1,0,0,1,ORGANIZATION
+Anthony Smellie,0,0,1,1,PERSON
+Cayman,1,0,0,1,LOCATION
+Simon Charlton,1,0,0,1,PERSON
+JD,0,1,0,13,ORGANIZATION
+Zhangwei JD,0,0,1,5,PERSON
+Liu Qiangdong,0,0,1,2,PERSON
+Suqian,0,0,1,2,LOCATION
+Jiang,0,1,0,2,PERSON
+Shaanxi,0,0,1,1,LOCATION
+Dada,0,1,0,1,PERSON
+Zhang Xiaoyan,0,1,0,1,PERSON
+Manna,0,1,0,1,PERSON
+Intel,0,0,1,5,ORGANIZATION
+Andrew Feldman,0,0,1,3,PERSON
+New Street,0,1,0,2,LOCATION
+Moore,0,1,0,2,PERSON
+Nvidia,0,1,0,2,ORGANIZATION
+TPUs,0,0,1,2,LOCATION
+Bristol,1,0,0,1,ORGANIZATION
+ARM,1,0,0,1,ORGANIZATION
+OpenAI,0,0,1,1,ORGANIZATION
+Nigel Toon,0,0,1,1,PERSON
+IPU,0,1,0,1,ORGANIZATION
+Street View,0,1,0,1,LOCATION
+Nervana Systems,0,1,0,1,ORGANIZATION
+Mobileye,0,1,0,1,ORGANIZATION
+Gadi Singer,0,0,1,1,PERSON
+Pierre Ferragu,0,0,1,1,PERSON
+NPU,1,0,0,1,ORGANIZATION
+RTR,0,0,1,10,ORGANIZATION
+Anushka Salinas,0,1,0,2,PERSON
+AT ABOUT,0,0,1,1,ORGANIZATION
+Lower Manhattan,0,1,0,1,LOCATION
+Chicago,0,0,1,1,LOCATION
+San Francisco,1,0,0,1,LOCATION
+"Washington, DC.",1,0,1,2,LOCATION
+Manhattan,0,0,1,1,LOCATION
+Reagan Sims,0,0,1,1,PERSON
+Christine Hunsicker,0,0,1,1,PERSON
+Gwynnie Bee,1,0,0,1,ORGANIZATION
+Ann Taylor,0,1,0,1,PERSON
+NY&Co,0,1,0,1,ORGANIZATION
+Rakesh Tondon,0,0,1,1,PERSON
+Jennifer Hyman,0,0,1,1,PERSON
+Zara,0,0,1,1,ORGANIZATION
+H&M,0,0,1,1,ORGANIZATION
+National Health Service,1,0,0,5,ORGANIZATION
+Martin Moore-Bick,0,1,0,2,PERSON
+Grenfell Tower,1,0,0,2,LOCATION
+John Green,0,1,0,2,PERSON
+Allen,1,0,0,2,PERSON
+Grenfell United,0,1,0,2,ORGANIZATION
+Al-Manaar mosque,1,0,0,2,LOCATION
+Grenfell Tower Inquiry,1,0,0,1,LOCATION
+Cathy Long,0,0,1,1,PERSON
+London School of Economics,0,1,0,1,ORGANIZATION
+Alex Diner,1,0,0,1,PERSON
+North Kensington Law Centre,0,1,0,1,LOCATION
+Portobello Business Centre,0,1,0,1,ORGANIZATION
+Natasha Elcock,0,1,0,1,PERSON
+Aberfan,1,0,0,1,LOCATION
+Christchurch,0,0,1,1,LOCATION
+New Zealand,0,0,1,1,LOCATION
+Lydia Giblin,0,1,0,1,PERSON
+Abdurahman Sayed,0,1,0,1,PERSON
+Mike Long,0,0,1,1,PERSON
+Notting Hill Methodist Church,1,0,0,1,ORGANIZATION
+Gary Becker,1,0,0,5,PERSON
+Gallup,1,0,0,1,ORGANIZATION
+Gini,1,0,0,1,ORGANIZATION
+Daniel Hicks,0,0,1,1,PERSON
+University of Oklahoma,0,0,1,1,ORGANIZATION
+Joan Hamory Hicks,0,0,1,1,PERSON
+University of California,0,0,1,1,ORGANIZATION
+Berkeley,0,0,1,1,LOCATION
+Guatemala,1,0,0,3,LOCATION
+Guatemala City,0,1,0,1,LOCATION
+Jimmy Morales,1,0,0,1,PERSON
+Vatican,0,1,0,4,LOCATION
+Pope Francis,0,1,0,2,PERSON
+Patriarch Bartholomew,0,1,0,2,PERSON
+Middle Ages,1,0,0,1,LOCATION
+Notre Dame,0,1,0,1,ORGANIZATION
+Jeffrey Sachs,1,0,0,1,ORGANIZATION
+Earth Institute,0,1,0,1,ORGANIZATION
+Mr Sachs,0,0,1,1,ORGANIZATION
+Spetses,0,1,0,1,LOCATION
+Aristotle,0,0,1,1,ORGANIZATION
+Jerusalem temple,1,0,0,1,LOCATION
+Jesus Christ,1,0,0,1,PERSON
+Patmos,0,0,1,1,ORGANIZATION
+Mauricio Macri,0,0,2,16,PERSON
+Argentina,2,0,1,20,LOCATION
+Argentines,2,0,0,6,ORGANIZATION
+Alberto Ramos,1,0,0,2,PERSON
+Treasury,0,0,1,1,ORGANIZATION
+Nicolás Dujovne,1,0,0,1,PERSON
+Goldman Sachs,0,1,0,1,ORGANIZATION
+Cristina Fernández de Kirchner,0,0,1,1,PERSON
+Karl Hyde,0,0,1,5,PERSON
+Lyric Hammersmith,1,0,0,2,LOCATION
+Harvey Weinstein,1,0,0,2,PERSON
+Simon Stephens,1,0,0,2,PERSON
+Scott Graham,1,0,0,2,PERSON
+Kidderminster,0,1,0,2,LOCATION
+Underworld,0,1,0,1,ORGANIZATION
+Frantic Assembly,0,1,0,1,ORGANIZATION
+Stockport,1,0,0,1,ORGANIZATION
+Corby,0,0,1,1,LOCATION
+Steven Seagal,0,1,0,1,PERSON
+Neil McCaul,0,0,1,1,PERSON
+Declan Bennett,1,0,0,1,PERSON
+Nyasha Hatendi,1,0,0,1,PERSON
+Bosnia,1,0,0,7,LOCATION
+Serbia,1,0,0,4,LOCATION
+Albania,0,0,1,2,LOCATION
+Montenegro,1,0,0,2,LOCATION
+Republika Srpska,0,0,1,2,ORGANIZATION
+Balkan,0,0,1,1,LOCATION
+Peter Van der Auweraert,0,0,1,1,PERSON
+International Organisation for Migration,0,0,1,1,ORGANIZATION
+Greece,1,0,0,1,LOCATION
+Yugoslavia,0,1,0,1,LOCATION
+Serbia and Montenegro,0,1,0,1,LOCATION
+Croat Federation,0,0,1,1,ORGANIZATION
+Milorad Dodik,0,0,1,1,PERSON
+Après Macron,0,1,0,3,PERSON
+Sorbonne,1,0,0,1,ORGANIZATION
+Frankfurter Allgemeine Sonntagszeitung,0,1,0,1,ORGANIZATION
+Jan Techau,1,0,0,1,PERSON
+German Marshall Fund,0,1,0,1,ORGANIZATION
+NATO,2,0,0,2,ORGANIZATION
+Christian Democratic Union,0,1,0,1,ORGANIZATION
+Social Democrats,1,1,0,2,ORGANIZATION
+European Central Bank,1,0,0,1,ORGANIZATION
+Recep Tayyip Erdogan,0,0,1,18,PERSON
+HDP,0,1,0,8,ORGANIZATION
+Nusaybin,1,0,0,5,LOCATION
+Kurdistan Workers’ Party,1,0,0,5,ORGANIZATION
+Selahattin Demirtas,0,0,1,5,PERSON
+Muharrem Ince,1,0,0,5,PERSON
+Republican People’s Party,0,0,1,3,ORGANIZATION
+AK,0,0,1,2,ORGANIZATION
+Justice and Development,0,1,0,1,ORGANIZATION
+Peoples’ Democratic Party,0,0,1,1,ORGANIZATION
+Vahap Coskun,1,0,0,1,PERSON
+Dicle University,1,0,0,1,ORGANIZATION
+Diyarbakir,1,0,0,1,LOCATION
+Zehra Dogan,1,0,0,1,PERSON
+Gonul Tol,1,0,0,1,PERSON
+Middle East Institute,1,0,0,1,ORGANIZATION
+Nationalists,1,0,0,1,ORGANIZATION
+Ferhat Kut,0,0,1,1,PERSON
+Anderijn Peeters,1,0,0,4,PERSON
+Frans Vera,1,0,0,3,PERSON
+Netherlands,0,1,0,3,LOCATION
+Amsterdam,0,0,1,1,LOCATION
+Oostvaardersplassen,0,0,1,1,ORGANIZATION
+Serengeti,0,1,0,1,LOCATION
+Party for the Animals,1,0,0,1,ORGANIZATION
+Joke Bijl,0,0,1,1,PERSON
+Mumbai,0,1,0,4,LOCATION
+FTSE 100,0,0,1,1,ORGANIZATION
+ICE,1,0,0,1,ORGANIZATION
+NYMEX,1,0,0,1,ORGANIZATION
+MSCI,1,0,0,1,ORGANIZATION
+Abiy Ahmed,0,0,1,23,PERSON
+Ethiopia,1,0,0,6,LOCATION
+Ethiopian People’s Revolutionary Democratic Front,0,0,1,4,ORGANIZATION
+Eritrea,0,0,1,3,LOCATION
+Meles Zenawi,1,0,0,2,PERSON
+politburo,0,1,0,2,ORGANIZATION
+Hailemariam Desalegn,0,1,0,1,PERSON
+Oromia,1,0,0,1,LOCATION
+Addis Ababa,1,0,0,1,LOCATION
+Andargachew Tsige,1,0,0,1,PERSON
+Public debt,1,0,0,1,ORGANIZATION
+Solomon Mulugeta,0,0,1,1,LOCATION
+Getachew Teklemariam,0,1,0,1,PERSON
+SCL Group,0,0,1,2,ORGANIZATION
+Shura council,0,0,1,1,LOCATION
+Cambridge Analytica,0,0,1,1,LOCATION
+WHEN Li Songtang,1,0,0,8,PERSON
+Zhang Li,1,0,0,3,PERSON
+Inner Mongolia,1,0,0,1,LOCATION
+Zhang Zhen’e,0,0,1,1,PERSON
+Economist Intelligence Unit,0,1,0,1,ORGANIZATION
+Wang Ying of Hand,0,1,0,1,PERSON
+Luo Jilan,0,0,1,1,PERSON
+China Life Care Association,0,0,1,1,ORGANIZATION
+Living Will Promotion Association,1,0,0,1,ORGANIZATION
+Shi Baoxin,1,0,0,1,PERSON
+Tianjin,1,0,0,1,LOCATION
+María Florencia Alcaraz,1,0,0,14,PERSON
+Latin America,2,0,0,4,LOCATION
+justice ministry,1,0,0,1,ORGANIZATION
+DIY,0,1,0,1,ORGANIZATION
+health ministry,1,0,0,1,ORGANIZATION
+Maxine Molyneux,1,0,0,1,PERSON
+University College London,0,0,1,1,ORGANIZATION
+Ni Una Menos,0,1,0,1,PERSON
+Buenos Aires,1,0,0,1,LOCATION
+Sabrina Cartabia,1,0,0,1,PERSON
+Hydrogen Council,0,1,0,1,ORGANIZATION
+International Energy Agency,0,1,0,1,ORGANIZATION
+Shel,0,1,0,1,PERSON
+Grenell,1,0,0,14,PERSON
+Democratic,1,0,1,5,ORGANIZATION
+Sebastian Kurz,1,0,0,3,PERSON
+Wolfgang Ischinger,1,0,0,2,PERSON
+Breitbart,0,1,0,1,PERSON
+Martin Schulz,0,0,1,1,PERSON
+Johannes Wadepfuhl,0,1,0,1,PERSON
+Sahra Wagenknecht,1,0,0,1,PERSON
+Die Linke,1,0,0,1,PERSON
+Chris Murphy,0,0,1,1,PERSON
+Connecticut,1,0,0,1,LOCATION
+Der Spiegel,1,0,0,1,ORGANIZATION
+Fox News,1,0,0,1,ORGANIZATION
+Southern Cone,0,0,1,2,LOCATION
+US,2,0,0,2,LOCATION
+Chile,0,0,1,1,LOCATION
+Justin Trudeau,1,0,1,9,PERSON
+International Parliamentary Union,1,0,0,1,ORGANIZATION
+Sweden,0,1,1,2,LOCATION
+Czech Republic,0,1,0,1,LOCATION
+Ministry of New and Renewable Energy,0,1,0,4,ORGANIZATION
+Rahul Munjal,0,1,0,4,PERSON
+Hybrid power,0,0,1,1,ORGANIZATION
+Central Electricity Authority,0,0,1,1,ORGANIZATION
+Delhi,1,0,0,1,LOCATION
+TERI School of Advanced Studies,0,0,1,1,ORGANIZATION
+Wind-Solar,0,1,0,1,ORGANIZATION
+Ram Nath Kovind,0,1,0,1,PERSON
+Wind,0,1,0,1,ORGANIZATION
+Siemens Gamesa,0,1,0,1,ORGANIZATION
+Karnataka,0,1,0,1,LOCATION
+Anantapur,0,0,1,1,LOCATION
+Andhra Pradesh,0,0,1,1,LOCATION
+Jamaica,0,0,1,1,LOCATION
+Ralph Northam,0,0,1,15,PERSON
+Republican Party,0,1,0,14,ORGANIZATION
+Virginia,0,1,0,6,LOCATION
+Terry McAuliffe,1,0,0,3,PERSON
+Kirkland Cox,0,1,0,2,PERSON
+General Assembly,1,0,0,2,ORGANIZATION
+Clintons,0,0,1,1,ORGANIZATION
+House of Delegates,0,1,0,1,ORGANIZATION
+Arkansas,0,0,1,1,LOCATION
+Potomac River,0,0,1,1,LOCATION
+Jesco Denzel,0,0,1,2,PERSON
+Colossi of Memnon,0,0,1,1,LOCATION
+Titian,0,0,1,1,ORGANIZATION
+Charles V,0,0,1,1,PERSON
+Jacques-Louis David,0,0,1,1,PERSON
+Oath of the Tennis Court,0,0,1,1,LOCATION
+Napoleon,0,0,1,1,PERSON
+Vladimir,0,0,1,1,PERSON
+Guy Verhofstadt,0,0,1,1,PERSON
+Rubens,1,0,0,1,ORGANIZATION
+Caravaggio,0,1,0,1,PERSON
+Hunt,1,0,0,5,PERSON
+Christian Jankowski,1,0,0,2,PERSON
+Abisag Tüllmann,0,0,1,1,PERSON
+Wurst Essen,0,1,0,1,PERSON
+Fiji,0,1,0,1,LOCATION
+Roman,0,1,0,1,LOCATION
+Venus,0,1,0,1,PERSON
+Fortuna,0,1,0,1,ORGANIZATION
+Peru,1,0,0,1,LOCATION
+FLNG,0,0,1,2,ORGANIZATION
+West Africa,0,0,1,1,LOCATION
+Kribi,0,0,1,1,LOCATION
+Perenco,0,0,1,1,ORGANIZATION
+Gazprom Marketing,0,0,1,1,ORGANIZATION
+Sanaga Sud,0,1,0,1,LOCATION
+Ebome,0,1,0,1,PERSON
+Chinese Communist Party,1,0,0,4,ORGANIZATION
+Fran Martin,1,0,0,3,PERSON
+China threat,0,0,1,1,ORGANIZATION
+Daily Dispatch,0,0,1,1,ORGANIZATION
+Scholars Associations,0,1,0,1,ORGANIZATION
+Tiananmen Square,1,0,0,1,LOCATION
+University of Melbourne,0,0,1,1,ORGANIZATION
+ARC,0,0,1,1,ORGANIZATION
+Geoffrey Hinton,0,0,1,1,PERSON
+OECD,0,0,1,1,ORGANIZATION
+Courtney Coile,0,0,1,1,PERSON
+Wellesley College,0,1,0,1,ORGANIZATION
+Lisa Laun,0,1,0,1,PERSON
+Institute for Evaluation of Labour Market,0,0,1,1,ORGANIZATION
+Group of Seven,0,0,1,1,ORGANIZATION
+Quebec,1,0,0,1,LOCATION
+U.S.,1,0,0,1,LOCATION
+Ukraine,0,0,1,1,LOCATION
+Crimea,0,0,1,1,LOCATION
+"Biarritz, France",1,0,0,1,LOCATION
+Cirque du Soleil,0,0,1,1,ORGANIZATION
+tweet,1,0,0,1,ORGANIZATION
